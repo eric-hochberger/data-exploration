@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "MusicEvent",
+    "name": "Mt. Joy",
+    "url": "https://www.songkick.com/festivals/6656-metropolis/id/37703094-metropolis-festival-2019?utm_medium=organic&utm_source=microformat",
+    "image": "media/profile_images/events/37703094/huge_avatar",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rotterdam",
+        "addressCountry": "Netherlands",
+        "streetAddress": "Zuiderparkplein",
+        "postalCode": "3084"
+      },
+      "name": "Zuiderpark",
+      "sameAs": null,
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.88357,
+        "longitude": 4.48908
+      }
+    },
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2019-06-30",
+    "endDate": "2019-06-30",
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "name": "Mt. Joy",
+        "sameAs": "https://www.songkick.com/artists/7239669-mt-joy?utm_medium=organic&utm_source=microformat"
+      }
+    ],
+    "description": "Mt. Joy at Zuiderpark at 2019-06-30",
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "http://www.songkick.com/festivals/6656-metropolis/id/37703094-metropolis-festival-2019?utm_medium=organic&utm_source=microformat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,490 @@
+artist,date,venue,city,region,country,performers
+Twin Peaks,2021-04-02T20:30:00+1100,Our Friend's Farm,Tallarook,VIC,Australia,"['Pond', 'Cash Savage and the Last Drinks', 'Twin Peaks', 'Endless Boogie', 'Even', 'Grace Cummings', 'Karate Boogaloo', 'Hayley Mary', 'The Vovos', 'Imperium', 'Mr. Teenage']"
+Twin Peaks,2020-11-04,The Foundry,Fortitude Valley,QLD,Australia,['Twin Peaks']
+Twin Peaks,2020-10-29,The Small Ballroom,Newcastle,NSW,Australia,['Twin Peaks']
+Twin Peaks,2020-04-17,La La La's,Wollongong,NSW,Australia,['Twin Peaks']
+Twin Peaks,2020-03-28T21:30:00-0400,Club Metronome,Burlington,VT,US,['Twin Peaks']
+Twin Peaks,2020-03-14T19:30:00-0400,Intersection - Elevation,Grand Rapids,MI,US,['Twin Peaks']
+Twin Peaks,2020-03-13T16:00:00-0400,Bluestone,Columbus,OH,US,"['Osees', 'Twin Peaks', 'Combo Chimbita', 'Death Valley Girls', 'Holy Wave', 'Mikal Cronin', 'The Lemons', 'The Mattson 2', 'Guerilla Toss']"
+Twin Peaks,2020-03-12T20:00:00-0400,Mr Smalls Theater,Pittsburgh,PA,US,['Twin Peaks']
+Twin Peaks,2020-03-10,Hi-Fi,Indianapolis,IN,US,['Twin Peaks']
+Twin Peaks,2020-02-26T19:00:00+0000,Electric Brixton,London,,UK,['Twin Peaks']
+Twin Peaks,2020-02-25T19:00:00+0000,Chalk,Brighton,,UK,['Twin Peaks']
+Twin Peaks,2020-02-24T19:30:00+0000,The Bodega,Nottingham,,UK,"['Twin Peaks', 'Deeper']"
+Twin Peaks,2020-02-22T20:30:00+0000,King Tut's Wah Wah Hut,Glasgow,,UK,['Twin Peaks']
+Twin Peaks,2020-02-21T19:00:00+0000,Hare and Hounds,Birmingham,,UK,['Twin Peaks']
+Twin Peaks,2020-02-19T20:00:00+0000,Whelan's,Dublin,,Ireland,['Twin Peaks']
+Twin Peaks,2020-02-18T19:30:00+0000,Gorilla,Manchester,,UK,['Twin Peaks']
+Twin Peaks,2020-02-17T19:30:00+0000,Thekla,Bristol,,UK,['Twin Peaks']
+Twin Peaks,2020-02-15T19:00:00+0100,Paard,The Hague,,Netherlands,['Twin Peaks']
+Twin Peaks,2020-02-14T20:30:00+0100,VERA,Groningen,,Netherlands,['Twin Peaks']
+Twin Peaks,2020-02-12T20:00:00+0100,Le Grand Mix,Tourcoing,,France,['Twin Peaks']
+Twin Peaks,2020-02-11T20:00:00+0100,La Maroquinerie,Paris,,France,['Twin Peaks']
+Twin Peaks,2019-12-07T18:30:00-0500,The Dance,New York (NYC),NY,US,"['Twin Peaks', 'Lala Lala', 'Finom']"
+Twin Peaks,2019-12-06T19:00:00-0500,Webster Hall,New York (NYC),NY,US,"['Twin Peaks', 'Lala Lala', 'Finom']"
+Twin Peaks,2019-12-05T17:40:00-0500,The Sinclair,Cambridge,MA,US,['Twin Peaks']
+Twin Peaks,2019-12-05T17:00:00-0500,The Sinclair,Cambridge,MA,US,"['Twin Peaks', 'Finom']"
+Twin Peaks,2019-12-02T19:00:00-0500,Phoenix Concert Theatre,Toronto,ON,Canada,"['Twin Peaks', 'Lala Lala', 'Finom']"
+Twin Peaks,2019-11-30T20:30:00-0600,The Empty Bottle,Chicago,IL,US,"['Twin Peaks', 'charlie reed']"
+Twin Peaks,2019-11-29T19:30:00-0600,Riviera Theatre,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2019-11-23T20:00:00-0600,Mohawk - Indoor,Austin,TX,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-22T19:00:00-0600,Satellite Bar - Houston,Houston,TX,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-21T19:00:00-0600,Deep Ellum Art Co.,Dallas,TX,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-18T19:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-16T20:00:00-0800,Belly Up Tavern,Solana Beach,CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-15T21:00:00-0800,Teragram Ballroom,Los Angeles (LA),CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-14T21:00:00-0800,Teragram Ballroom,Los Angeles (LA),CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-13T19:00:00-0800,Great American Music Hall,San Francisco,CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-12T19:00:00-0800,Harlow's,Sacramento,CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-12T19:00:00-0800,Great American Music Hall,San Francisco,CA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-09T20:00:00-0800,Venue,Vancouver,BC,Canada,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-08T20:00:00-0800,Wonder Ballroom,Portland,OR,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-07T20:00:00-0800,Neumos,Seattle,WA,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-05T20:00:00-0700,Metro Music Hall,Salt Lake City,UT,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-02T20:00:00-0600,Gothic Theatre,Englewood,CO,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-11-01T20:00:00-0500,The Waiting Room,Omaha,NE,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-10-31T19:00:00-0500,The Ready Room,St Louis,MO,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-10-30T20:00:00-0500,Headliners Music Hall,Louisville,KY,US,"['Twin Peaks', 'Post Animal', 'Finom']"
+Twin Peaks,2019-10-19,Ritual Union 2019,Oxford,,UK,['Twin Peaks']
+Twin Peaks,2019-10-18T18:30:00+0100,SWN Festival,Cardiff,,UK,['Twin Peaks']
+Twin Peaks,2019-10-18,Brudenell Social Club,Leeds,,UK,['Twin Peaks']
+Twin Peaks,2019-10-16,The Dome,London,,UK,['Twin Peaks']
+Twin Peaks,2019-10-15T20:00:00+0200,La Boule Noire,Paris,,France,"['Twin Peaks', 'DEHD']"
+Twin Peaks,2019-10-14,MTC,Cologne,,Germany,"['Twin Peaks', 'DEHD']"
+Twin Peaks,2019-10-12,Paradiso,Amsterdam,,Netherlands,['Twin Peaks']
+Twin Peaks,2019-10-11T21:00:00+0200,Rotown,Rotterdam,,Netherlands,"['Twin Peaks', 'DEHD']"
+Twin Peaks,2019-10-09T19:00:00+0200,Molotow,Hamburg,,Germany,"['Twin Peaks', 'DEHD']"
+Twin Peaks,2019-10-08,Musik & Frieden,Berlin,,Germany,['Twin Peaks']
+Twin Peaks,2019-09-21T18:00:00-0500,Rust Belt,East Moline,IL,US,['Twin Peaks']
+Twin Peaks,2019-09-20T20:00:00-0500,Fine Line,Minneapolis,MN,US,"['Twin Peaks', 'Slow Pulp', 'DEHD']"
+Twin Peaks,2019-09-19T19:00:00-0500,Turner Hall Ballroom,Milwaukee,WI,US,['Twin Peaks']
+Twin Peaks,2019-09-14T19:00:00-0400,Newport Music Hall,Columbus,OH,US,['Twin Peaks']
+Twin Peaks,2019-09-13T19:00:00-0400,Beachland Ballroom,Cleveland,OH,US,"['Twin Peaks', 'DEHD', 'Slow Pulp']"
+Twin Peaks,2019-09-12T19:00:00-0400,Majestic Theatre,Detroit,MI,US,['Twin Peaks']
+Twin Peaks,2019-07-21T18:00:00-0400,RBC Echo Beach,Toronto,ON,Canada,"['PUP', 'Twin Peaks', 'Cayetana', 'Partner']"
+Twin Peaks,2019-05-11,Majestic Theatre,Madison,WI,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-10T19:30:00-0500,Wooly's,Des Moines,IA,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-09,recordBar,Kansas City,MO,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-08,Canopy Club,Urbana,IL,US,"['Twin Peaks', 'Post Animal', 'Ex Okays']"
+Twin Peaks,2019-05-07T21:00:00-0400,Hi-Fi,Indianapolis,IN,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-04T20:00:00-0400,Skyloft,Albany,NY,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-03,Walking Windows 2019,Winooski,VT,US,['Twin Peaks']
+Twin Peaks,2019-05-03,Waking Windows 2019,Winooski,VT,US,['Twin Peaks']
+Twin Peaks,2019-05-02T20:00:00-0400,The Haunt,Ithaca,NY,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-05-01T19:00:00-0400,Rec Room,Buffalo,NY,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-04-30T19:00:00-0400,The Club @ Stage Ae,Pittsburgh,PA,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-04-27,Masonic Temple,Bay City,MI,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-04-26,The Pyramid Scheme,Grand Rapids,MI,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2019-03-12T19:00:00-0500,Lincoln Hall,Chicago,IL,US,"['Twin Peaks', 'Rookie']"
+Twin Peaks,2018-10-21,The Croxton Bandroom,Thornbury,VIC,Australia,"['Skegss', 'ScabZ', 'Twin Peaks']"
+Twin Peaks,2018-10-20,The Croxton Bandroom,Thornbury,VIC,Australia,"['Skegss', 'ScabZ', 'Twin Peaks']"
+Twin Peaks,2018-10-19,The Croxton Bandroom,Thornbury,VIC,Australia,"['Skegss', 'ScabZ', 'Twin Peaks']"
+Twin Peaks,2018-09-08T15:00:00-0400,Franklin Music Hall,Philadelphia,PA,US,"['Yeah Yeah Yeahs', 'Twin Peaks', 'Joey Purp', 'Mannequin Pussy']"
+Twin Peaks,2018-07-07,Springsfest,Yellow Springs,OH,US,['Twin Peaks']
+Twin Peaks,2018-04-19T20:00:00-0500,The Castle Theatre,Bloomington,IL,US,"['Twin Peaks', 'Nectar (IL)', 'Ka-Chi', 'Wulfpack']"
+Twin Peaks,2018-04-05T21:00:00-0400,Beachland Ballroom,Cleveland,OH,US,"['The Districts', 'Twin Peaks', 'pack wolf']"
+Twin Peaks,2018-03-21T19:00:00-0600,Treefort Music Fest 2018,Boise,ID,US,['Twin Peaks']
+Twin Peaks,2018-03-18T19:00:00-0500,Icon Lounge,Sioux Falls,SD,US,"['Twin Peaks', 'The Districts', 'Lot Lizard(SF)']"
+Twin Peaks,2018-03-03,Air + Style 2018,Los Angeles (LA),CA,US,['Twin Peaks']
+Twin Peaks,2018-02-24T20:00:00-0500,The Anthem,Washington,DC,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-23T20:00:00-0500,White Eagle Hall,Jersey City,NJ,US,"['Twin Peaks', 'The Districts']"
+Twin Peaks,2018-02-22,The Strand,Providence,RI,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-21T20:00:00-0500,MTELUS,Montreal,QC,Canada,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-20T20:00:00-0500,ArtsRiot,Burlington,VT,US,"['Twin Peaks', 'J Bengoy']"
+Twin Peaks,2018-02-18T19:00:00-0500,Cleveland Public Auditorium's Music Hall,Cleveland,OH,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-17T20:00:00-0600,The Louisville Palace,Louisville,KY,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-16T19:30:00-0600,Aragon Ballroom,Chicago,IL,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-14,The Blue Note,Columbia,MO,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-13,"IMU Ballroom, University of Iowa",Iowa City,IA,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-11,"Overture Hall, Overture Center for the Arts",Madison,WI,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-10T19:30:00-0600,Palace Theatre,St. Paul,MN,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-02-09T19:30:00-0600,Palace Theatre,St. Paul,MN,US,"['Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2018-01-13,The Crofoot Ballroom,Pontiac,MI,US,"['Twin Peaks', 'PUP', 'The Flatliners', 'Ratboys', 'Nnamdi Ogbonnaya', 'Narco Debut', 'Michigander', 'Shortly', 'Greet Death', 'Stefanie Haapala', 'Swordfish', 'Vagabonds (MI)', 'Vital Sea']"
+Twin Peaks,2017-12-31T19:00:00-0600,Thalia Hall,Chicago,IL,US,"['Twin Peaks', 'NE-HI', ""Today's Hits""]"
+Twin Peaks,2017-12-30T19:00:00-0600,Thalia Hall,Chicago,IL,US,"['Twin Peaks', 'Post Animal', 'DEHD']"
+Twin Peaks,2017-12-29T19:00:00-0600,Thalia Hall,Chicago,IL,US,"['Twin Peaks', 'Sun Cop', 'Knox Fortune']"
+Twin Peaks,2017-11-15,Mohawk - Indoor,Austin,TX,US,"['Twin Peaks', 'A Giant Dog']"
+Twin Peaks,2017-10-20,Lose Yr Mind Fest 2017,Portland,OR,US,['Twin Peaks']
+Twin Peaks,2017-10-12T12:00:00-0700,The Institute of Mentalphysics,Joshua Tree,CA,US,['Twin Peaks']
+Twin Peaks,2017-09-22T13:00:00-0400,Arcadia Creek Festival Place,Kalamazoo,MI,US,['Twin Peaks']
+Twin Peaks,2017-09-16T20:30:00-0500,Palace Theatre,St. Paul,MN,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-15,Palace Theatre,St. Paul,MN,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-14,Orpheum Theater,Madison,WI,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-13,Pabst Theatre,Milwaukee,WI,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-11T20:30:00-0500,Sokol Auditorium,Omaha,NE,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-10T19:00:00-0500,Limelight Eventplex,Peoria,IL,US,"['Spoon', 'Twin Peaks']"
+Twin Peaks,2017-09-08,Original Festival 2017,Butte,MT,US,['Twin Peaks']
+Twin Peaks,2017-08-24,Madison's Favorite Concert,Madison,WI,US,['Twin Peaks']
+Twin Peaks,2017-08-24,Madison,Madison,WI,US,['Twin Peaks']
+Twin Peaks,2017-08-18,Otalith Festival 2017,Ucluelet,BC,Canada,['Twin Peaks']
+Twin Peaks,2017-08-05T14:00:00-0500,Off Broadway,St Louis,MO,US,"['Foxygen', 'Twin Peaks', 'Sleepy Kitty']"
+Twin Peaks,2017-07-28T18:00:00-0400,Bragg Jam,Macon,GA,US,['Twin Peaks']
+Twin Peaks,2017-07-22,Ekko,Utrecht,,Netherlands,['Twin Peaks']
+Twin Peaks,2017-07-21,Welcome to the Village Festial 2017,Leeuwarden,,Netherlands,['Twin Peaks']
+Twin Peaks,2017-07-20T21:00:00+0200,Hafenklang,Hamburg,,Germany,"['Twin Peaks', 'Strand Child']"
+Twin Peaks,2017-07-19T21:00:00+0200,Urban Spree,Berlin,,Germany,"['Twin Peaks', 'Strand Child']"
+Twin Peaks,2017-07-18T21:00:00+0200,Blue Shell,Cologne,,Germany,"['Twin Peaks', 'Strand Child']"
+Twin Peaks,2017-07-16T12:00:00+0100,Victoria Park,London,,UK,['Twin Peaks']
+Twin Peaks,2017-07-13T10:00:00+0100,Henham Park,Southwold,,UK,['Twin Peaks']
+Twin Peaks,2017-07-13,Festival Internacional de Benicàssim - FIB 2017,Benicassim,,Spain,['Twin Peaks']
+Twin Peaks,2017-07-12,Dour Festival,Dour,,Belgium,['Twin Peaks']
+Twin Peaks,2017-07-12,Festival Pantiero 2017,Cannes,,France,['Twin Peaks']
+Twin Peaks,2017-07-07T17:30:00-0500,"Petrillo Music Shell, Grant Park",Chicago,IL,US,"['Ben Harper & The Innocent Criminals', 'Twin Peaks']"
+Twin Peaks,2017-07-04T19:00:00-0500,Codfish Hollow Barn,Maquoketa,IA,US,['Twin Peaks']
+Twin Peaks,2017-06-24T20:00:00-0400,Tralf Music Hall,Buffalo,NY,US,"['Twin Peaks', 'The Regrettes']"
+Twin Peaks,2017-06-23,NXNE Music Festival 2017,Toronto,ON,Canada,['Twin Peaks']
+Twin Peaks,2017-06-23,NXNE 2017,Toronto,ON,Canada,['Twin Peaks']
+Twin Peaks,2017-06-21T20:00:00-0400,Babylon,Ottawa,ON,Canada,['Twin Peaks']
+Twin Peaks,2017-06-20,Bar le Ritz PDB,Montreal,QC,Canada,['Twin Peaks']
+Twin Peaks,2017-06-17,BSP Lounge,Kingston,NY,US,['Twin Peaks']
+Twin Peaks,2017-06-16T20:00:00-0400,3S Artspace,Portsmouth,NH,US,['Twin Peaks']
+Twin Peaks,2017-06-11T17:00:00-0400,Baby's All Right - Brooklyn,Brooklyn,NY,US,"['Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-06-10T21:00:00-0400,The Ballroom at the Outer Space,Hamden,CT,US,"['Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-06-09,Fête Lounge,Providence,RI,US,"['Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-06-07T19:00:00-0400,The Stone Pony,Asbury Park,NJ,US,"['Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-06-06T18:30:00-0400,Chameleon Club,Lancaster,PA,US,"['Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-06-02T19:30:00-0500,Metro,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2017-06-01,Nelsonville Music Festival 2017,Nelsonville,OH,US,['Twin Peaks']
+Twin Peaks,2017-05-20T13:00:00-0600,Rino Neighborhood,Denver,CO,US,['Twin Peaks']
+Twin Peaks,2017-05-13,The Burl,Lexington,KY,US,"['White Reaper', 'Twin Peaks']"
+Twin Peaks,2017-05-12,Centennial Olympic Park,Atlanta,GA,US,['Twin Peaks']
+Twin Peaks,2017-05-11T20:00:00-0400,Terminal West,Atlanta,GA,US,"['FIDLAR', 'Twin Peaks', 'Ron Gallo']"
+Twin Peaks,2017-05-10T19:00:00-0400,Cat's Cradle,Carrboro,NC,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-09T18:00:00-0400,9:30 CLUB,Washington,DC,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-08T19:00:00-0400,The Southern Café and Music Hall,Charlottesville,VA,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-06T19:00:00-0500,Saturn,Birmingham,AL,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-05T19:00:00-0500,Proud Larry's,Oxford,MS,US,"['Twin Peaks', 'Post Animal', 'Chrome Pony']"
+Twin Peaks,2017-05-04T19:00:00-0500,The Merry Widow,Mobile,AL,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-03T19:00:00-0500,Gasa Gasa,New Orleans,LA,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-05-02T19:00:00-0500,Gasa Gasa,New Orleans,LA,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-04-29T19:00:00-0500,The Secret Group,Houston,TX,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-04-28T19:00:00-0500,Paper Tiger,San Antonio,TX,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-04-26T21:00:00-0500,Lowbrow Palace,El Paso,TX,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-04-25T20:00:00-0700,191 Toole,Tucson,AZ,US,"['Twin Peaks', 'Chrome Pony', 'Post Animal']"
+Twin Peaks,2017-04-21,Empire Polo Club,Indio,CA,US,['Twin Peaks']
+Twin Peaks,2017-04-20,Irenic,San Diego,CA,US,"['Twin Peaks', 'Hinds', 'The Gloomies']"
+Twin Peaks,2017-04-19,The Observatory,Santa Ana,CA,US,"['Twin Peaks', 'Hinds']"
+Twin Peaks,2017-04-18,Regent Theater,Los Angeles (LA),CA,US,"['Twin Peaks', 'Hinds']"
+Twin Peaks,2017-04-17,Crescent Ballroom,Phoenix,AZ,US,"['Twin Peaks', 'Hinds']"
+Twin Peaks,2017-04-14,Empire Polo Club,Indio,CA,US,['Twin Peaks']
+Twin Peaks,2017-04-14,The Chapel,San Francisco,CA,US,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-13,The Chapel,San Francisco,CA,US,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-11T20:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-11T17:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-10,The Crocodile - Old Location,Seattle,WA,US,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-09T19:00:00-0700,Rickshaw Theatre,Vancouver,BC,Canada,"['Twin Peaks', 'Hinds', 'White Mystery']"
+Twin Peaks,2017-04-08,The Shakedown,Bellingham,WA,US,['Twin Peaks']
+Twin Peaks,2017-04-01,Turner Hall Ballroom,Milwaukee,WI,US,"['Twin Peaks', 'White Mystery']"
+Twin Peaks,2017-03-29,The Empty Bottle,Chicago,IL,US,"['Twin Peaks', 'Redgrave', 'Deeper']"
+Twin Peaks,2017-03-11T11:30:00-0500,Curtis Hixon Waterfront Park and Kiley Gardens Park,Tampa,FL,US,['Twin Peaks']
+Twin Peaks,2017-03-04,Elliott Hall of Music,West Lafayette,IN,US,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-02-18T19:00:00-0500,Blind Pig,Ann Arbor,MI,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2017-02-17,Hope College,Holland,MI,US,"['Twin Peaks', 'Post Animal']"
+Twin Peaks,2017-02-16,Mac's Bar,Lansing,MI,US,"['Twin Peaks', 'Post Animal', 'Michigander']"
+Twin Peaks,2017-02-11T13:00:00+0000,Moth Club,London,,UK,"['Twin Peaks', 'Sorry']"
+Twin Peaks,2017-02-10T19:30:00+0000,The Joiners,Southampton,,UK,['Twin Peaks']
+Twin Peaks,2017-02-09,Penny Lane Pub,Rennes,,France,['Twin Peaks']
+Twin Peaks,2017-02-08T19:30:00+0100,I.BOAT,Bordeaux,,France,['Twin Peaks']
+Twin Peaks,2017-02-06,Coliseu do Porto,Porto,,Portugal,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-02-05,La Riviera,Madrid,,Spain,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-02-04,Sala Apolo,Barcelona,,Spain,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-02-02,Festival Transfer 2017,Lyon,,France,['Twin Peaks']
+Twin Peaks,2017-02-01,Paloma,Nîmes,,France,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-31,Fabrique,Milan,,Italy,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-30,Dynamo,Zürich,,Switzerland,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-29,Technikum,Munich,,Germany,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-28,Klub 007 Strahov,Prague,,Czech Republic,['Twin Peaks']
+Twin Peaks,2017-01-27,Columbia Theater,Berlin,,Germany,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-25T20:00:00+0100,Élysée Montmartre,Paris,,France,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-24,Paradiso,Amsterdam,,Netherlands,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-23,"Lille Vega, VEGA",Copenhagen,,Denmark,"['Cage the Elephant', 'Twin Peaks']"
+Twin Peaks,2017-01-21T21:00:00+0100,Pustervik,Gothenburg,,Sweden,"['The Sun Days', 'Twin Peaks']"
+Twin Peaks,2017-01-20T19:00:00+0100,BLÅ,Oslo,,Norway,['Twin Peaks']
+Twin Peaks,2016-12-18T18:00:00-0600,Thalia Hall,Chicago,IL,US,"['Twin Peaks', 'Nobunny', 'Post Animal']"
+Twin Peaks,2016-12-17,Metro,Chicago,IL,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze']"
+Twin Peaks,2016-12-16,Thalia Hall,Chicago,IL,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze', 'Parent']"
+Twin Peaks,2016-12-14,Exit/In,Nashville,TN,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-13T21:00:00-0500,Aisle 5,Atlanta,GA,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze']"
+Twin Peaks,2016-12-10T20:00:00-0500,Strange Matter,Richmond,VA,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze']"
+Twin Peaks,2016-12-09T19:00:00-0500,Webster Hall,New York (NYC),NY,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-08T19:30:00-0500,Union Transfer,Philadelphia,PA,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-07T20:00:00-0500,The Sinclair,Cambridge,MA,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-06,Port City Music Hall,Portland,ME,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze']"
+Twin Peaks,2016-12-05T19:30:00-0500,Signal Kitchen,Burlington,VT,US,"['Twin Peaks', 'Together PANGEA', 'Golden Daze']"
+Twin Peaks,2016-12-03T20:30:00-0500,Lee's Palace,Toronto,ON,Canada,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-02T20:00:00-0500,Grog Shop,Cleveland,OH,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-12-01T17:00:00-0500,El Club,Detroit,MI,US,"['Twin Peaks', 'Together PANGEA']"
+Twin Peaks,2016-11-12,Accord,Champaign,IL,US,['Twin Peaks']
+Twin Peaks,2016-11-11,High Noon Saloon,Madison,WI,US,"['Twin Peaks', 'The Rashita Joneses']"
+Twin Peaks,2016-11-10,The Bishop,Bloomington,IN,US,['Twin Peaks']
+Twin Peaks,2016-11-07T15:00:00-0600,Virgin Hotels Chicago,Chicago,IL,US,"['Chance the Rapper', 'Twin Peaks', 'Taylor Bennett', 'Malcolm London', 'Eryn Allen Kane', 'Stefan Ponce']"
+Twin Peaks,2016-11-01T21:00:00+0100,VERA,Groningen,,Netherlands,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-30,Merleyn,Nijmegen,,Netherlands,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-28,Paradiso,Amsterdam,,Netherlands,['Twin Peaks']
+Twin Peaks,2016-10-28,Cirque Royal / Koninklijk Circus,Brussels,,Belgium,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-27T18:00:00+0100,Urban Outfitters - Spitalfields,London,,UK,['Twin Peaks']
+Twin Peaks,2016-10-26T19:30:00+0100,Scala,London,,UK,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-25T19:00:00+0100,Sound Control,Manchester,,UK,"['Twin Peaks', 'Happyness', 'Luxury Death']"
+Twin Peaks,2016-10-24T19:30:00+0100,Brudenell Social Club,Leeds,,UK,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-22T20:00:00+0100,Simple Things Festival,Bristol,,UK,['Twin Peaks']
+Twin Peaks,2016-10-21,Hare and Hounds,Birmingham,,UK,['Twin Peaks']
+Twin Peaks,2016-10-20T19:00:00+0100,Patterns,Brighton,,UK,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-19T19:00:00+0200,Point Éphémère,Paris,,France,"['Twin Peaks', 'Happyness']"
+Twin Peaks,2016-10-15,Sala Razzmatazz,Barcelona,,Spain,['Twin Peaks']
+Twin Peaks,2016-10-13T19:00:00+0200,Sala El Sol,Madrid,,Spain,"['Twin Peaks', 'Lois']"
+Twin Peaks,2016-10-08T20:00:00-0500,7th St Entry,Minneapolis,MN,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-10-06,Lincoln Calling Festival 2016,Lincoln,NE,US,['Twin Peaks']
+Twin Peaks,2016-10-06,Cafe Berlin,Columbia,MO,US,['Twin Peaks']
+Twin Peaks,2016-10-01,The Bartlett 2016,Spokane,WA,US,['Twin Peaks']
+Twin Peaks,2016-09-30T20:00:00-0700,Chop Suey,Seattle,WA,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-29T20:00:00-0700,Biltmore Cabaret,Vancouver,BC,Canada,"['Twin Peaks', 'White Reaper', 'Modern Vices']"
+Twin Peaks,2016-09-28T16:30:00-0700,Doug Fir Lounge,Portland,OR,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-26T21:00:00-0700,The Catalyst Atrium,Santa Cruz,CA,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-23T16:00:00-0700,Music Tastes Good Festival!,Long Beach,CA,US,['Twin Peaks']
+Twin Peaks,2016-09-23T19:00:00-0700,Irenic,San Diego,CA,US,"['Twin Peaks', 'White Reaper', 'Modern Vices']"
+Twin Peaks,2016-09-22T19:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-20T18:30:00-0500,Mohawk - Indoor,Austin,TX,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-19T19:00:00-0500,Club Dada,Dallas,TX,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-17T19:00:00-0500,Raven Tower,Houston,TX,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-16T20:00:00-0500,Gasa Gasa,New Orleans,LA,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-15,"Club Downunder, FSU",Tallahassee,FL,US,"['White Reaper', 'Twin Peaks']"
+Twin Peaks,2016-09-14T20:00:00-0400,Crowbar,Ybor City,FL,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-13T20:00:00-0400,The Social,Orlando,FL,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-10,Loufest,St Louis,MO,US,['Twin Peaks']
+Twin Peaks,2016-09-08T19:00:00-0400,Hopscotch 2016,Raleigh,NC,US,['Twin Peaks']
+Twin Peaks,2016-09-08T20:30:00-0400,The Mothlight,Asheville,NC,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-07T20:00:00-0500,Headliners Music Hall,Louisville,KY,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-09-06T19:00:00-0400,The Basement,Columbus,OH,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-08-26,Orton Park Festival,Madison,WI,US,['Twin Peaks']
+Twin Peaks,2016-08-26T19:00:00-0400,Union Transfer,Philadelphia,PA,US,['Twin Peaks']
+Twin Peaks,2016-08-21,"Jay Pritzker Pavilion, Millennium Park",Chicago,IL,US,"['Wilco', 'Twin Peaks']"
+Twin Peaks,2016-08-20T16:00:00-0500,Half Acre Beer Company,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2016-07-23,West Riverfront Park,Detroit,MI,US,['Twin Peaks']
+Twin Peaks,2016-07-15T15:00:00-0500,Union Park,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2016-06-29,The Waiting Room,Omaha,NE,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-06-28,Larimer Lounge,Denver,CO,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-06-27,Launchpad,Albuquerque,NM,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-06-26,Gila River Arena,Glendale,AZ,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-25,"The Joint, Hard Rock Hotel & Casino",Las Vegas,NV,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-24T20:30:00-0700,Echoplex,Los Angeles (LA),CA,US,"['Twin Peaks', 'NE-HI', 'Golden Daze']"
+Twin Peaks,2016-06-21T19:30:00-0700,The Independent,San Francisco,CA,US,"['Twin Peaks', 'NE-HI', 'Golden Daze']"
+Twin Peaks,2016-06-19,WAMU Theater,Seattle,WA,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-18,McMenamin's Edgefield Amphitheater,Troutdale,OR,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-13T19:00:00-0500,Total Drag Records,Sioux Falls,SD,US,"['Twin Peaks', 'NE-HI', 'Androgynous Squash']"
+Twin Peaks,2016-06-12T21:00:00-0500,The Aquarium,Fargo,ND,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-06-11,Orpheum Theater,Madison,WI,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-10,"US Bank Theater, Target Center",Minneapolis,MN,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-09T12:00:00-0500,Manchester Farm,Manchester,TN,US,['Twin Peaks']
+Twin Peaks,2016-06-07,Firebird,St Louis,MO,US,"['Twin Peaks', 'NE-HI', 'Hoops (IN)']"
+Twin Peaks,2016-06-06,Joyful Noise Recordings,Indianapolis,IN,US,"['Twin Peaks', 'NE-HI', 'Hoops (IN)']"
+Twin Peaks,2016-06-05,KEMBA Live!,Columbus,OH,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-04,Jacobs Pavilion at Nautica,Cleveland,OH,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-06-03,KFC Yum! Center,Louisville,KY,US,"['Cage the Elephant', 'Portugal. The Man', 'Twin Peaks']"
+Twin Peaks,2016-05-26,Club Café,Pittsburgh,PA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-25T20:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-24T20:00:00-0400,Music Hall of Williamsburg,Brooklyn,NY,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-21,Pearl Street Nightclub,Northampton,MA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-20T20:30:00-0400,Boot & Saddle,Philadelphia,PA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-19T20:00:00-0400,Rock & Roll Hotel,Washington,DC,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-18T20:00:00-0400,The Sinclair,Cambridge,MA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2016-05-17,La Vitrola,Montreal,QC,Canada,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-05-16,Horseshoe Tavern,Toronto,ON,Canada,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-05-13,Lincoln Hall,Chicago,IL,US,"['Twin Peaks', 'White Reaper', 'The Funs']"
+Twin Peaks,2016-05-10,Oxford Art Factory,Sydney,NSW,Australia,['Twin Peaks']
+Twin Peaks,2016-05-08,The John Curtin Hotel,Melbourne,VIC,Australia,['Twin Peaks']
+Twin Peaks,2016-05-07,The Brightside,Fortitude Valley,QLD,Australia,['Twin Peaks']
+Twin Peaks,2016-04-30,"The Mill, Trinity College",Hartford,CT,US,['Twin Peaks']
+Twin Peaks,2016-04-26,Joy Eslava,Madrid,,Spain,"['Hinds', 'Twin Peaks']"
+Twin Peaks,2016-04-23,Festival L'Ère de Rien 2016,Rezé,,France,['Twin Peaks']
+Twin Peaks,2016-04-23T19:00:00+0200,Festival L'Ère De Rien,Nantes,,France,"['Requin Chagrin', 'The Big Moon', 'Loyle Carner', 'Rat Boy', 'Twin Peaks']"
+Twin Peaks,2016-04-22,L'Abordage,Évreux,,France,"['Twin Peaks', 'The Big Moon']"
+Twin Peaks,2016-04-21,La Mécanique Ondulatoire,Paris,,France,"['Twin Peaks', 'Mitski']"
+Twin Peaks,2016-04-20,Rough Trade East,London,,UK,['Twin Peaks']
+Twin Peaks,2016-04-19T19:00:00+0100,Camden Assembly,Camden,,UK,"['Twin Peaks', 'Thee MVPS', 'Tangerines']"
+Twin Peaks,2016-04-18T19:00:00+0100,The Old Blue Last,London,,UK,['Twin Peaks']
+Twin Peaks,2016-04-17T19:30:00+0100,Deaf Institute,Manchester,,UK,"['Twin Peaks', 'Thee MVPS']"
+Twin Peaks,2016-04-16,Stereo,Glasgow,,UK,"['Twin Peaks', 'Thee MVPS']"
+Twin Peaks,2016-04-15,Picture House Social,Sheffield,,UK,"['Twin Peaks', 'Thee MVPS', 'Long Limbs', 'Bruce & Carl']"
+Twin Peaks,2016-03-18,Spotify House at SXSW,Austin,TX,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2016-03-17,Sidewinder,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2016-03-17,Four Seasons Hotel Austin,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2016-03-16,Brazos Hall,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2016-03-16,Fader Fort,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2016-03-12T20:30:00-0500,Blockhouse,Bloomington,IN,US,"['Twin Peaks', 'Strange Faces']"
+Twin Peaks,2016-03-11,Cafe Berlin,Columbia,MO,US,"['Twin Peaks', 'Strange Faces']"
+Twin Peaks,2016-03-10,Exit/In,Nashville,TN,US,['Twin Peaks']
+Twin Peaks,2016-03-09T20:00:00-0600,Accord,Champaign,IL,US,"['Twin Peaks', 'Strange Faces']"
+Twin Peaks,2016-02-27T20:00:00-0600,Blue Moose Tap House,Iowa City,IA,US,"['Twin Peaks', 'Uh Bones']"
+Twin Peaks,2016-02-26,Total Drag Records,Sioux Falls,SD,US,"['Twin Peaks', 'Uh Bones']"
+Twin Peaks,2016-02-25T18:30:00-0600,Vaudeville Mews,Des Moines,IA,US,"['Twin Peaks', 'Uh Bones']"
+Twin Peaks,2016-02-24,The Frequency,Madison,WI,US,"['Twin Peaks', 'The Rashita Joneses', 'Uh Bones']"
+Twin Peaks,2015-10-09,40 Watt Club,Athens,GA,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-10-08,Local 506,Chapel Hill,NC,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-10-07,9:30 CLUB,Washington,DC,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-10-05,Paradise Rock Club,Boston,MA,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-10-03,College Street Music Hall,New Haven,CT,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-30,Theatre of Living Arts,Philadelphia,PA,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-29,Newport Music Hall,Columbus,OH,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-27,The Opera House,Toronto,ON,Canada,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-26,Majestic Theatre,Detroit,MI,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-25,The Vic Theatre,Chicago,IL,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-24T19:00:00-0500,The Rave-Eagles Club,Milwaukee,WI,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-22,Varsity Theater,Minneapolis,MN,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-21,Majestic Theatre,Madison,WI,US,"['Wavves', 'Twin Peaks', 'Steep Leans']"
+Twin Peaks,2015-09-20,Granada Theatre,Lawrence,KS,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-19,Prophet Bar Elm Street,Dallas,TX,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-18,Mohawk - Indoor,Austin,TX,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-16,Crescent Ballroom,Phoenix,AZ,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-15,The Observatory North Park,San Diego,CA,US,"['Wavves', 'Twin Peaks']"
+Twin Peaks,2015-09-14,Teragram Ballroom,Los Angeles (LA),CA,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-12,Troubadour,West Hollywood,CA,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-11,Constellation Room,Santa Ana,CA,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-09,Wonder Ballroom,Portland,OR,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-09-08,Neptune Theatre,Seattle,WA,US,"['Wavves', 'Twin Peaks', 'Swimmers (CA)']"
+Twin Peaks,2015-08-29,Party for the Peace 2015,Taylor,BC,Canada,['Twin Peaks']
+Twin Peaks,2015-08-07T12:00:00-0700,Golden Gate Park,San Francisco,CA,US,['Twin Peaks']
+Twin Peaks,2015-07-31T12:00:00-0500,"Hutchinson Field, Grant Park",Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2015-07-17T20:00:00-0500,Waterfront Park,Louisville,KY,US,['Twin Peaks']
+Twin Peaks,2015-07-11,"Pier 84, Hudson River Park",New York (NYC),NY,US,['Twin Peaks']
+Twin Peaks,2015-06-19,Clementine Cafe,Harrisonburg,VA,US,"['Twin Peaks', 'Eternal Summers']"
+Twin Peaks,2015-06-18T13:00:00-0400,Dover International Speedway,Dover,DE,US,['Twin Peaks']
+Twin Peaks,2015-06-17,Brillobox,Pittsburgh,PA,US,"['Twin Peaks', 'Dumplings (US)', 'The Wire Riots']"
+Twin Peaks,2015-06-15,The High Watt,Nashville,TN,US,['Twin Peaks']
+Twin Peaks,2015-06-12,Gasa Gasa,New Orleans,LA,US,['Twin Peaks']
+Twin Peaks,2015-06-06,Free Press Summer Fest 2015,Houston,TX,US,['Twin Peaks']
+Twin Peaks,2015-06-05,502 Bar,San Antonio,TX,US,['Twin Peaks']
+Twin Peaks,2015-06-04,Red 7,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-06-02,The Bunkhouse Saloon,Las Vegas,NV,US,['Twin Peaks']
+Twin Peaks,2015-05-30T20:00:00-0700,Hifi Deli,Los Angeles (LA),CA,US,"['Modern Vices', 'Twin Peaks', 'Ferbus']"
+Twin Peaks,2015-05-30,Catch One,Los Angeles (LA),CA,US,['Twin Peaks']
+Twin Peaks,2015-05-29,Velvet Jones,Santa Barbara,CA,US,['Twin Peaks']
+Twin Peaks,2015-05-27,Mississippi Studios,Portland,OR,US,"['Twin Peaks', 'Chastity Belt']"
+Twin Peaks,2015-05-22,Gorge Amphitheatre,George,WA,US,['Twin Peaks']
+Twin Peaks,2015-05-20,Total Drag Records,Sioux Falls,SD,US,"['Twin Peaks', 'Androgynous Squash']"
+Twin Peaks,2015-05-19,7th St Entry,Minneapolis,MN,US,['Twin Peaks']
+Twin Peaks,2015-05-09,Bell's Eccentric Cafe,Kalamazoo,MI,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-05-05,Great Scott,Allston,MA,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-05-04,Iron Horse Music Hall,Northampton,MA,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-05-02,Music Hall of Williamsburg,Brooklyn,NY,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-05-01,Lee's Palace,Toronto,ON,Canada,['Twin Peaks']
+Twin Peaks,2015-05-01,Rock & Roll Hotel,Washington,DC,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-04-30,Mahall's 20 Lanes,Lakewood,OH,US,"['Twin Peaks', 'White Reaper']"
+Twin Peaks,2015-04-25,New Direction,Fargo,ND,US,['Twin Peaks']
+Twin Peaks,2015-04-11,Culture Shock,Bloomington,IN,US,"['Foxygen', 'Twin Peaks', 'TOPS']"
+Twin Peaks,2015-04-03T18:00:00-0700,"Upper Sproul Plaza, UC Berkeley",Berkeley,CA,US,['Twin Peaks']
+Twin Peaks,2015-04-01T20:00:00-0700,The Theatre at Ace Hotel,Los Angeles (LA),CA,US,"['David Lynch', 'Angelo Badalamenti', 'Julee Cruise', 'Kinny Landrum', 'Duran Duran', 'Moby', 'Wayne Coyne', 'Steven Drozd', 'Zola Jesus', 'Karen O', 'Jim James', 'Sky Ferreira', 'Chrystabell', 'Rebekah Del Rio', 'Rob Mathes', 'Tennis', 'Twin Peaks']"
+Twin Peaks,2015-03-28T12:00:00-0700,The Observatory,Santa Ana,CA,US,['Twin Peaks']
+Twin Peaks,2015-03-27T19:00:00-0500,Turner Hall Ballroom,Milwaukee,WI,US,"['Benjamin Booker', 'Twin Peaks', 'Olivia Jean']"
+Twin Peaks,2015-03-21,Hotel Vegas,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-03-20,Bar 96,Austin,TX,US,"['Twin Peaks', 'Cloud Nothings', 'Palma Violets', 'Broncho']"
+Twin Peaks,2015-03-18T19:00:00-0500,Cheer Up Charlie's,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-03-18,Waterloo Records,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-03-17,SXSW 2015,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-03-17,The Main,Austin,TX,US,"['Twin Peaks', 'Vic Mensa', 'Gemini Club']"
+Twin Peaks,2015-03-16,Mohawk - Indoor,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2015-03-15,City Pres,Oklahoma City,OK,US,"['Twin Peaks', 'Fort Lean']"
+Twin Peaks,2015-03-14T18:30:00-0500,Rose Music Hall,Columbia,MO,US,"['Twin Peaks', 'Filligar', 'My Twins']"
+Twin Peaks,2015-03-07,"Rafters Lounge, Red Mountain Resort",Rossland,BC,Canada,['Twin Peaks']
+Twin Peaks,2015-02-28,Deportivo Lomas Altas,Mexico City,,Mexico,['Twin Peaks']
+Twin Peaks,2015-02-20T20:00:00+0000,Night & Day,Manchester,,UK,"['Twin Peaks', 'Black Honey', 'Horsebeach']"
+Twin Peaks,2015-02-17T19:00:00+0000,100 Club,London,,UK,['Twin Peaks']
+Twin Peaks,2015-02-09T19:00:00+0100,Monarch,Berlin,,Germany,"['Twin Peaks', 'Waves of Joy']"
+Twin Peaks,2015-01-18,Metro,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2015-01-14,Tomorrow Never Knows Festival 2015,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2015-01-10T21:00:00-0500,The Loving Touch,Ferndale,MI,US,"['Twin Peaks', 'Nox Boys']"
+Twin Peaks,2014-11-25,Omaha,Omaha,NE,US,['Twin Peaks']
+Twin Peaks,2014-11-24,Lost Lake Lounge,Denver,CO,US,['Twin Peaks']
+Twin Peaks,2014-11-22,Kilby Court,Salt Lake City,UT,US,['Twin Peaks']
+Twin Peaks,2014-11-21,The Crux,Boise,ID,US,"['Twin Peaks', 'Criminal Hygiene']"
+Twin Peaks,2014-11-20,The Bartlett,Spokane,WA,US,['Twin Peaks']
+Twin Peaks,2014-11-19,The Vera Project,Seattle,WA,US,['Twin Peaks']
+Twin Peaks,2014-11-18,Electric Owl Social Club,Vancouver,BC,Canada,['Twin Peaks']
+Twin Peaks,2014-11-17,Slabtown,Portland,OR,US,['Twin Peaks']
+Twin Peaks,2014-11-15,Bottom of the Hill,San Francisco,CA,US,['Twin Peaks']
+Twin Peaks,2014-11-14,Visalia,Visalia,CA,US,['Twin Peaks']
+Twin Peaks,2014-11-13,Soda Bar,San Diego,CA,US,"['Twin Peaks', 'Meatbodies', 'Criminal Hygiene']"
+Twin Peaks,2014-11-12,The Echo,Los Angeles (LA),CA,US,['Twin Peaks']
+Twin Peaks,2014-11-11,Constellation Room,Santa Ana,CA,US,['Twin Peaks']
+Twin Peaks,2014-11-07T13:00:00-0600,Auditorium Shores,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2014-10-30,Lincoln Hall,Chicago,IL,US,"['Twin Peaks', 'NE-HI', 'Flesh Panthers']"
+Twin Peaks,2014-10-28,Hard Luck Bar,Toronto,ON,Canada,"['Twin Peaks', 'Grounders']"
+Twin Peaks,2014-10-27,Casa Del Popolo,Montreal,QC,Canada,['Twin Peaks']
+Twin Peaks,2014-10-23T13:00:00-0400,Rough Trade NYC,New York (NYC),NY,US,['Twin Peaks']
+Twin Peaks,2014-10-23T19:30:00-0400,Glasslands Gallery,Brooklyn,NY,US,"['Twin Peaks', ""Bear's Den"", 'Gossling', 'Colony House', 'Odessa', 'Marian Hill']"
+Twin Peaks,2014-10-22T19:30:00-0400,Glasslands Gallery,Brooklyn,NY,US,"['Fat White Family', 'Bo Ningen', 'Public Access T.V.', 'Twin Peaks', 'Happyness', 'The Wytches', 'Girlpool']"
+Twin Peaks,2014-10-21T19:00:00-0400,Metro Gallery,Baltimore,MD,US,"['Twin Peaks', 'Tweens']"
+Twin Peaks,2014-10-19,The Barbary,Philadelphia,PA,US,"['Twin Peaks', 'Tweens', 'Public Access T.V.']"
+Twin Peaks,2014-10-18T22:00:00-0400,The Pinhook,Durham,NC,US,"['Twin Peaks', 'Tweens']"
+Twin Peaks,2014-10-17,The Masquerade - Purgatory,Atlanta,GA,US,"['Twin Peaks', 'Tweens']"
+Twin Peaks,2014-10-16,"Club Downunder, FSU",Tallahassee,FL,US,"['Twin Peaks', 'Tweens']"
+Twin Peaks,2014-10-14,Stone Fox,Nashville,TN,US,"['Twin Peaks', 'Tweens', 'Penicillin Baby']"
+Twin Peaks,2014-10-07,Birthdays,London,,UK,['Twin Peaks']
+Twin Peaks,2014-10-06T18:45:00+0100,Rough Trade East,London,,UK,['Twin Peaks']
+Twin Peaks,2014-10-05T18:00:00+0100,Notting Hill Arts Club,London,,UK,"['Asylums', 'The Academic', 'Twin Peaks', 'Magic Man', 'Honig', 'A.L.X']"
+Twin Peaks,2014-09-26,High Dive,Champaign,IL,US,['Twin Peaks']
+Twin Peaks,2014-09-26,The Frequency,Madison,WI,US,"['Twin Peaks', 'NE-HI', 'The Liqs', 'VARSITY']"
+Twin Peaks,2014-09-25,Pygmalion Music Festival,Champaign,IL,US,['Twin Peaks']
+Twin Peaks,2014-09-25T21:00:00-0500,7th St Entry,Minneapolis,MN,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2014-09-24,Vaudeville Mews,Des Moines,IA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2014-09-23,Blue Moose Tap House,Iowa City,IA,US,"['Twin Peaks', 'NE-HI']"
+Twin Peaks,2014-08-23T16:00:00-0700,Los Angeles Memorial Sports Arena,Los Angeles (LA),CA,US,['Twin Peaks']
+Twin Peaks,2014-08-15,Glenwood Ave Arts Festival 2014,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2014-08-14,Baby's All Right - Brooklyn,Brooklyn,NY,US,"['Twin Peaks', 'Public Access T.V.', 'The Lemons']"
+Twin Peaks,2014-08-13,Mercury Lounge,New York (NYC),NY,US,"['Twin Peaks', 'The Lemons']"
+Twin Peaks,2014-08-12,Great Scott,Allston,MA,US,"['Twin Peaks', 'The Lemons']"
+Twin Peaks,2014-08-10,DC9 Nightclub,Washington,DC,US,"['Twin Peaks', 'The Lemons', 'The Sea Life']"
+Twin Peaks,2014-08-09T20:30:00-0400,Beachland Ballroom,Cleveland,OH,US,"['Twin Peaks', 'The Lemons']"
+Twin Peaks,2014-08-08,PJ's Lager House,Detroit,MI,US,"['Twin Peaks', 'The Lemons']"
+Twin Peaks,2014-08-05T04:00:00-0500,Reckless Records - Lakeview,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2014-07-18T15:00:00-0500,Union Park,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2014-07-05,Seventh Son Brewing Co.,Columbus,OH,US,['Twin Peaks']
+Twin Peaks,2014-07-04,Northside Rock 'n Roll Carnival 2014,Cleveland,OH,US,['Twin Peaks']
+Twin Peaks,2014-06-03,The Media Club,Vancouver,BC,Canada,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-06-02,Doug Fir Lounge,Portland,OR,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-31,Bottom of the Hill,San Francisco,CA,US,"['Eagulls', 'Twin Peaks', 'The Tet Holiday']"
+Twin Peaks,2014-05-30T21:00:00-0700,The Satellite,Los Angeles (LA),CA,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-28,Soda Bar,San Diego,CA,US,"['Eagulls', 'Twin Peaks', 'Ditches']"
+Twin Peaks,2014-05-27,Crescent Ballroom,Phoenix,AZ,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-24,Red 7,Austin,TX,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-23,Three Links,Dallas,TX,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-22T20:00:00-0500,Fitzgerald's,Houston,TX,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-21,Opolis,Norman,OK,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-20,Firebird,St Louis,MO,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-19,Mercy Lounge,Nashville,TN,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-17,Bottletree Cafe,Birmingham,AL,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-16,The Earl,East Atlanta,GA,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-15,Local 506,Chapel Hill,NC,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-14,Rock & Roll Hotel,Washington,DC,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-05-13T18:30:00-0400,Mercury Lounge,New York (NYC),NY,US,"['Eagulls', 'Twin Peaks']"
+Twin Peaks,2014-04-02T18:00:00-0500,Triple Rock Social Club,Minneapolis,MN,US,"['The Orwells', 'Twin Peaks']"
+Twin Peaks,2014-04-01T19:00:00-0500,Lincoln Hall,Chicago,IL,US,"['The Orwells', 'Twin Peaks']"
+Twin Peaks,2014-03-30,Larimer Lounge,Denver,CO,US,['Twin Peaks']
+Twin Peaks,2014-03-29,The Shred Shed,Salt Lake City,UT,US,['Twin Peaks']
+Twin Peaks,2014-03-22T15:00:00-0700,Echoplex,Los Angeles (LA),CA,US,"['Gavin Turek', 'Dune Rats', 'Kauf', 'Misun', 'Chrome Canyon', 'Chad & The Meat Bodies', 'Sun Club', 'Twin Peaks', 'StaG. (CA)', 'The Districts', 'James Del Barco', 'The Futures League']"
+Twin Peaks,2014-03-18,Topaz Tundra,Tucson,AZ,US,"['Twin Peaks', 'Man Bites Dog', 'Prom Body']"
+Twin Peaks,2014-03-17,Topaz Tundra,Tucson,AZ,US,['Twin Peaks']
+Twin Peaks,2013-12-20,Multi Kulti,Chicago,IL,US,"['The Lemons', 'Twin Peaks', 'White Mystery', 'The Rubs', 'Mama', 'YAWN']"
+Twin Peaks,2013-11-22T21:00:00-0600,Savagelands,Chicago,IL,US,"['The Avantist', 'Twin Peaks', 'Teen witch']"
+Twin Peaks,2013-10-28T19:00:00-0400,The Pyramid Scheme,Grand Rapids,MI,US,"['Born Ruffians', 'Twin Peaks', 'The Cardboard Swords']"
+Twin Peaks,2013-10-17T20:00:00-0500,7th St Entry,Minneapolis,MN,US,"['Twin Peaks', 'Crimes (MN)', 'The Fury Things']"
+Twin Peaks,2013-10-12,Oxjam Tunbridge Wells Takeover,Tunbridge Wells,,UK,['Twin Peaks']
+Twin Peaks,2013-10-04T21:00:00-0400,"SMOG, Bard College",Annandale On Hudson,NY,US,"['Twin Peaks', 'Dr. Skinnybones', 'Hari + The Karis', 'LAST EXIT IN NEW YORK', 'Morus Alba']"
+Twin Peaks,2013-10-03T21:00:00-0400,Great Scott,Allston,MA,US,"['Twin Peaks', 'The Darker Hues']"
+Twin Peaks,2013-10-01T20:00:00-0400,Shea Stadium,Flushing,NY,US,"['Twin Peaks', 'Lost Boy', 'Flagland', 'The Teen Age']"
+Twin Peaks,2013-09-26,Stone Fox,Nashville,TN,US,"['Twin Peaks', 'The Music Band', 'Faux Ferocious', 'Kal Marks']"
+Twin Peaks,2013-09-13T12:00:00-0500,Humboldt Park,Chicago,IL,US,['Twin Peaks']
+Twin Peaks,2013-08-10,Larimer Lounge,Denver,CO,US,['Twin Peaks']
+Twin Peaks,2013-06-27T21:00:00-0500,Metro,Chicago,IL,US,"['Nootka Sound', 'Twin Peaks']"
+Twin Peaks,2013-06-16T20:00:00-0400,DC9 Nightclub,Washington,DC,US,"['PAWS', 'Lisa Doll & the Rock n Roll Romance', 'Twin Peaks', 'Positive No']"
+Twin Peaks,2013-06-15T19:00:00-0400,Public Assembly,Brooklyn,NY,US,"['Quilt', 'Twin Peaks', 'THE OUTSIDE WORLD', 'Turnip King', 'The Teen Age']"
+Twin Peaks,2013-04-20T19:00:00-0500,Hostel Earphoria,Chicago,IL,US,"['VIPER FEVER', 'Bike Cops', 'Killer Moon', 'Twin Peaks', 'Palmflower', 'Hussy', 'Names Divine', 'Zigtebra']"
+Twin Peaks,2013-04-06,"Lily Reid Holt Memorial Chapel, Lake Forest College",Lake Forest,IL,US,['Twin Peaks']
+Twin Peaks,2013-03-30,Meadowlark,Denver,CO,US,"['The Kinky Fingers', 'Fingers of the Sun', 'Twin Peaks', 'Tayler Doyle']"
+Twin Peaks,2013-03-13,Barbarella,Austin,TX,US,['Twin Peaks']
+Twin Peaks,2013-01-09T19:30:00-0600,Subterranean,Chicago,IL,US,"['The Early Meadows', 'Baby Kid', 'The New Originals', 'Twin Peaks']"
+Twin Peaks,2013-01-04,Larimer Lounge,Denver,CO,US,"['Twin Peaks', 'Hindershot', 'Achille Lauro']"
+Twin Peaks,2012-12-28,Animal Kingdom,Chicago,IL,US,"['Craycrays', 'The Funs', 'Coffin Ships', 'Twin Peaks', 'Skymaul']"
+Twin Peaks,2012-08-16,The Whip,Chicago,IL,US,"['Pool Holograph', 'Margy Pepper', 'SOiL', 'Bomb Banks', 'Twin Peaks', 'Juke Tastrophe']"
+Twin Peaks,2012-07-23,Lawrence,Lawrence,KS,US,"['Levi Weaver', 'Twin Peaks', 'Baby Boomers']"
+Twin Peaks,2012-07-19,The Trunk Space,Phoenix,AZ,US,"['Twin Peaks', 'Monophonic Hillside']"
+Twin Peaks,2011-08-19,Glenwood Avenue Arts Festival 2011,Chicago,IL,US,['Twin Peaks']

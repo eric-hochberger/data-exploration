@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "MusicEvent",
+    "name": "Mt. Joy",
+    "url": "https://www.songkick.com/concerts/28910294-head-and-the-heart-at-tabernacle?utm_medium=organic&utm_source=microformat",
+    "image": "media/profile_images/artists/3254371/huge_avatar",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Atlanta",
+        "addressCountry": "US",
+        "addressRegion": "GA",
+        "streetAddress": "152 Luckie St. NW",
+        "postalCode": "30303"
+      },
+      "name": "Tabernacle",
+      "sameAs": "http://tabernacleatl.com",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.7587,
+        "longitude": -84.39146
+      }
+    },
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2017-03-12T20:00:00-0400",
+    "endDate": "2017-03-12",
+    "performer": [
+      {
+        "@type": "MusicGroup",
+        "name": "The Head and the Heart",
+        "sameAs": "https://www.songkick.com/artists/3254371-head-and-the-heart?utm_medium=organic&utm_source=microformat"
+      },
+      {
+        "@type": "MusicGroup",
+        "name": "Mt. Joy",
+        "sameAs": "https://www.songkick.com/artists/7239669-mt-joy?utm_medium=organic&utm_source=microformat"
+      }
+    ],
+    "description": "Mt. Joy at Tabernacle at 2017-03-12T20:00:00-0400",
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "http://www.songkick.com/concerts/28910294-head-and-the-heart-at-tabernacle?utm_medium=organic&utm_source=microformat"
+      }
+    ]
+  }
+]

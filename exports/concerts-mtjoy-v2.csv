@@ -1,0 +1,465 @@
+artist,date,venue,city,region,country,performers
+Mt. Joy,2022-11-26T19:00:00-0500,The Riviera Theater,Charleston,SC,US,['Mt. Joy']
+Mt. Joy,2022-11-05T19:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-11-04T19:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-11-03T19:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-11-01T20:00:00-0500,"South Side Ballroom, Gilley's",Dallas,TX,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-31T19:30:00-0500,JJ's Live,Fayetteville,AR,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-29T20:00:00-0500,Ryman Auditorium,Nashville,TN,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-28T20:00:00-0500,Ryman Auditorium,Nashville,TN,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-27T20:00:00-0500,The Mill & Mine,Knoxville,TN,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-25T20:00:00-0400,MGM Music Hall at Fenway,Boston,MA,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-24T20:00:00-0400,College Street Music Hall,New Haven,CT,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-22T20:00:00-0400,The Anthem,Washington,DC,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-21T19:00:00-0400,Brown's Island,Richmond,VA,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-20T20:00:00-0400,Township Auditorium,Columbia,SC,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-18T20:00:00-0400,Coca-Cola Roxy,Atlanta,GA,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-10-15T19:00:00-0500,Orpheum Theater,New Orleans,LA,US,"['Mt. Joy', 'The Brook & The Bluff']"
+Mt. Joy,2022-09-10T20:00:00-0400,"Skyline Stage, Mann Center for the Performing Arts",Philadelphia,PA,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-09-09T19:30:00-0400,The Rooftop at Pier 17,New York (NYC),NY,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-09-08T19:30:00-0400,The Rooftop at Pier 17,New York (NYC),NY,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-09-07T20:00:00-0400,State Theatre,Portland,ME,US,['Mt. Joy']
+Mt. Joy,2022-08-25T19:00:00-0400,Bank of New Hampshire Pavilion,Gilford,NH,US,"['Wilco', 'Mt. Joy']"
+Mt. Joy,2022-08-21T18:00:00-0500,The Salt Shed,Chicago,IL,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-20T19:00:00-0500,Salt Shed at Morton Salt,Chicago,IL,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-18T20:00:00-0600,Mission Ballroom,Denver,CO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-17T20:00:00-0600,Red Rocks Amphitheatre,Morrison,CO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-16T19:00:00-0600,Sandy Amphitheater,Sandy,UT,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-15T19:30:00-0600,Idaho Botanical Garden,Boise,ID,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-13T18:00:00-0700,Hayden Homes Amphitheater,Bend,OR,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-12T20:00:00-0700,Arlene Schnitzer Concert Hall,Portland,OR,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-11T18:00:00-0700,Woodland Park Zoo Amphitheater,Seattle,WA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-09T18:00:00-0700,PNE Amphitheatre,Vancouver,BC,Canada,"['Nathaniel Rateliff & The Night Sweats', 'Mt. Joy']"
+Mt. Joy,2022-08-08T19:30:00-0700,Britt Pavilion,Medford,OR,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-05T19:00:00-0700,Hollywood Palladium,Hollywood,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-04T19:30:00-0700,Cal Coast Credit Union Amphitheater,San Diego,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-08-02T20:00:00-0700,The Van Buren,Phoenix,AZ,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2022-07-30T19:30:00-0600,War Memorial Field,Sandpoint,ID,US,['Mt. Joy']
+Mt. Joy,2022-07-02,Milwaukee Summerfest,Milwaukee,WI,US,"['Madison Cunningham', 'Mt. Joy', 'War', 'Houndmouth', 'Jackopierce', 'Hockey Dad', 'Lit', 'Barns Courtney', 'Jackie Venson', 'The Commodores']"
+Mt. Joy,2022-07-01T08:00:00-0500,"Lauridsen Amphitheater, Water Works Park",Des Moines,IA,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-07-01T20:00:00-0500,"Lauridsen Amphitheater, Water Works Park",Des Moines,IA,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-29T20:00:00-0400,Andrew J. Brady Music Center,Cincinnati,OH,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-28T18:30:00-0400,Stage AE,Pittsburgh,PA,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-26T17:00:00-0400,Stage AE,Pittsburgh,PA,US,"['Flogging Molly', 'The Interrupters', 'Tiger Army', 'The Skints', 'Mt. Joy']"
+Mt. Joy,2022-06-26T18:00:00-0400,KEMBA Live!,Columbus,OH,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-23,American Family Insurance Amphitheater,Milwaukee,WI,US,['Mt. Joy']
+Mt. Joy,2022-06-23T20:00:00-0500,The Pageant,St Louis,MO,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-22T20:00:00-0500,Graceland Soundstage at Elvis Presley's Memphis,Memphis,TN,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-21T19:00:00-0500,Avondale Brewing Company,Birmingham,AL,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-19T19:00:00-0400,Rabbit Rabbit,Asheville,NC,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-17T19:00:00-0400,The Windjammer,Isle of Palms,SC,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-16T19:00:00-0400,The Windjammer,Isle of Palms,SC,US,"['Mt. Joy', 'Madison Cunningham']"
+Mt. Joy,2022-06-13T19:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,['Mt. Joy']
+Mt. Joy,2022-04-29T11:30:00-0400,Central Park,Atlanta,GA,US,['Mt. Joy']
+Mt. Joy,2022-04-29T23:00:00-0400,The Masquerade,Atlanta,GA,US,['Mt. Joy']
+Mt. Joy,2022-04-16,Karbach Brewing Co.,Houston,TX,US,['Mt. Joy']
+Mt. Joy,2022-04-14T18:00:00-0400,Greenfield Lake Amphitheater,Wilmington,NC,US,"['Mt. Joy', 'flipturn']"
+Mt. Joy,2022-04-13T20:00:00-0400,The Fillmore Charlotte,Charlotte,NC,US,"['Mt. Joy', 'flipturn']"
+Mt. Joy,2022-04-12T18:30:00-0400,The Ritz,Raleigh,NC,US,"['Mt. Joy', 'flipturn']"
+Mt. Joy,2022-04-11T20:00:00-0400,Capitol Theatre,Port Chester,NY,US,"['Mt. Joy', 'Yoke Lore']"
+Mt. Joy,2022-04-06T20:00:00-0400,Théâtre Corona,Montreal,QC,Canada,"['Mt. Joy', 'Basia Bulat']"
+Mt. Joy,2022-04-05T19:00:00-0400,Bronson Centre,Ottawa,ON,Canada,"['Basia Bulat', 'Mt. Joy']"
+Mt. Joy,2022-04-04T19:00:00-0400,History,Toronto,ON,Canada,"['Mt. Joy', 'Basia Bulat']"
+Mt. Joy,2022-04-03T19:00:00-0400,History,Toronto,ON,Canada,"['Mt. Joy', 'Basia Bulat']"
+Mt. Joy,2022-04-01T18:30:00-0400,GLC Live at 20 Monroe,Grand Rapids,MI,US,"['Mt. Joy', 'Yoke Lore']"
+Mt. Joy,2022-03-31T20:00:00-0400,The Pavilion at Pan Am,Indianapolis,IN,US,"['Mt. Joy', 'Yoke Lore']"
+Mt. Joy,2022-03-29T20:00:00-0500,The Sylvee,Madison,WI,US,"['Mt. Joy', 'Yoke Lore']"
+Mt. Joy,2022-03-28T18:30:00-0500,Palace Theatre,St. Paul,MN,US,"['Mt. Joy', 'Yoke Lore']"
+Mt. Joy,2022-03-19,Auditorium Shores,Austin,TX,US,['Mt. Joy']
+Mt. Joy,2022-03-03,Sunshine Grove,Okeechobee,FL,US,['Mt. Joy']
+Mt. Joy,2021-12-12T20:00:00-0500,The Fillmore Philadelphia,Philadelphia,PA,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-11T20:00:00-0500,The Fillmore Philadelphia,Philadelphia,PA,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-09T19:00:00-0500,Rams Head Live!,Baltimore,MD,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-07T19:00:00-0500,Royal Oak Music Theatre,Royal Oak,MI,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-06T20:00:00-0500,Asbury Hall at Babeville,Buffalo,NY,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-04T20:00:00-0500,State Theatre of Ithaca,Ithaca,NY,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-03T20:00:00-0500,The Flynn Space & First Congregational Church Sanctuary,Burlington,VT,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-12-02T21:00:00-0500,The Strand Ballroom & Theatre,Providence,RI,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-11-30T20:00:00-0500,Terminal 5,New York (NYC),NY,US,"['Mt. Joy', 'Amy Allen']"
+Mt. Joy,2021-10-24T20:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-23T20:00:00-0500,Austin City Limits Live at The Moody Theater,Austin,TX,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-22T19:00:00-0500,House of Blues - Dallas,Dallas,TX,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-21T19:00:00-0500,House of Blues - Houston,Houston,TX,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-20T19:00:00-0700,Commodore Ballroom,Vancouver,BC,Canada,['Mt. Joy']
+Mt. Joy,2021-10-19T20:00:00-0500,Joy Theater,New Orleans,LA,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-17T20:00:00-0500,Marathon Music Works,Nashville,TN,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-10-16T19:30:00-0400,Woodlands Nature Reserve,Charleston,SC,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-15T19:30:00-0400,Terrapin Beer Co.,Athens,GA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-14T18:30:00-0400,Rabbit Rabbit,Asheville,NC,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-12T19:30:00-0400,The Eastern,Atlanta,GA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-11T19:00:00-0500,Avondale Brewing Company,Birmingham,AL,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-09T18:30:00-0400,Maymont,Richmond,VA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-08T19:30:00-0400,The Anthem,Washington,DC,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-07T19:30:00-0400,College Street Music Hall,New Haven,CT,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-05T19:30:00-0400,Leader Bank Pavilion,Boston,MA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-03T18:30:00-0400,The Rooftop at Pier 17,New York (NYC),NY,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-02T18:30:00-0400,Stage AE,Pittsburgh,PA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-10-01T18:30:00-0400,KEMBA Live!,Columbus,OH,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-09-29T19:30:00-0500,Grinders KC,Kansas City,MO,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-09-28T19:00:00-0500,Chesterfield Amphitheater,Chesterfield,MO,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-09-25T20:00:00-0400,Andrew J. Brady Music Center,Cincinnati,OH,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-09-24T19:00:00-0500,BMO Harris Pavilion,Milwaukee,WI,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-09-23T20:00:00-0500,Chicago Theatre,Chicago,IL,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-29T20:00:00-0700,Roseland Theater,Portland,OR,US,"['Mt. Joy', 'Sara Kays']"
+Mt. Joy,2021-08-28T20:00:00-0700,Moore Theatre,Seattle,WA,US,"['Mt. Joy', 'Sara Kays']"
+Mt. Joy,2021-08-27T20:00:00-0600,Knitting Factory - Boise,Boise,ID,US,"['Mt. Joy', 'Sara Kays']"
+Mt. Joy,2021-08-25T19:00:00-0600,The Depot,Salt Lake City,UT,US,"['Mt. Joy', 'Sara Kays']"
+Mt. Joy,2021-08-24T20:00:00-0600,Mission Ballroom,Denver,CO,US,"['Mt. Joy', 'Sara Kays']"
+Mt. Joy,2021-08-21T20:00:00-0700,The Van Buren,Phoenix,AZ,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-20T19:30:00-0700,Brooklyn Bowl - Las Vegas,Las Vegas,NV,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-18T19:00:00-0700,Humphreys Concerts by the Bay,San Diego,CA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-17T19:00:00-0700,Humphreys Concerts by the Bay,San Diego,CA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-15T19:30:00-0700,The Greek Theatre,Los Angeles (LA),CA,US,"['Mt. Joy', 'Trampled by Turtles']"
+Mt. Joy,2021-08-14T17:30:00-0700,Oxbow RiverStage,Napa,CA,US,"['Trampled by Turtles', 'Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-08-13T19:00:00-0700,Hayden Homes Amphitheater,Bend,OR,US,"['Trampled by Turtles', 'Mt. Joy']"
+Mt. Joy,2021-07-30,Thalia Hall,Chicago,IL,US,"['Mt. Joy', 'Rookie']"
+Mt. Joy,2021-07-29,Grant Park,Chicago,IL,US,['Mt. Joy']
+Mt. Joy,2021-05-22T19:00:00-0600,Red Rocks Amphitheatre,Morrison,CO,US,"['Mt. Joy', 'Del Water Gap']"
+Mt. Joy,2021-05-16T19:00:00-0400,The Windjammer,Isle of Palms,SC,US,['Mt. Joy']
+Mt. Joy,2021-05-15T20:00:00-0400,Columbia Speedway Amphitheater,Cayce,SC,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-05-14T17:30:00-0400,Devil's Backbone Brewing Company - Basecamp,Roseland,VA,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-05-13T18:00:00-0400,Orange County Speedway,Durham,NC,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-05-11T18:00:00-0400,Rural Hill,Huntersville,NC,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-05-10T19:00:00-0500,Avondale Brewing Company,Birmingham,AL,US,"['Mt. Joy', 'Briston Maroney']"
+Mt. Joy,2021-05-08,Silver Lake Drive-In Theatre,Perry,NY,US,['Mt. Joy']
+Mt. Joy,2021-05-07T18:00:00-0400,The Crofoot Festival Grounds,Pontiac,MI,US,"['Mt. Joy', 'Michigander']"
+Mt. Joy,2021-05-06T19:00:00-0500,Breese Stevens Field,Madison,WI,US,"['Mt. Joy', 'Hello Forever']"
+Mt. Joy,2021-05-04T18:00:00-0500,Falconwood Park,Bellevue,NE,US,"['Mt. Joy', 'Hello Forever']"
+Mt. Joy,2021-05-02T17:00:00-0500,Ferris Wheelers Backyard & BBQ,Dallas,TX,US,"['Mt. Joy', 'Hello Forever']"
+Mt. Joy,2021-05-01T18:00:00-0500,Ferris Wheelers Backyard & BBQ,Dallas,TX,US,"['Mt. Joy', 'Hello Forever']"
+Mt. Joy,2021-04-30T18:00:00-0500,Ferris Wheelers Backyard & BBQ,Dallas,TX,US,"['Mt. Joy', 'Hello Forever']"
+Mt. Joy,2020-10-21T19:30:00-0400,Frederick County Fairgrounds,Frederick,MD,US,"['Mt. Joy', 'Grace Potter']"
+Mt. Joy,2020-10-19T19:30:00-0400,Frederick County Fairgrounds,Frederick,MD,US,"['Mt. Joy', 'Goose']"
+Mt. Joy,2020-10-15T19:30:00-0400,Frederick County Fairgrounds,Frederick,MD,US,['Mt. Joy']
+Mt. Joy,2020-10-08T19:00:00-0400,Midway Lawn at Champlain Valley Expo,Essex Junction,VT,US,['Mt. Joy']
+Mt. Joy,2020-10-07T20:00:00-0400,Old National Centre,Indianapolis,IN,US,['Mt. Joy']
+Mt. Joy,2020-10-07T16:00:00-0400,South Farms,Litchfield,CT,US,['Mt. Joy']
+Mt. Joy,2020-10-06T19:30:00-0400,Frederick County Fairgrounds,Frederick,MD,US,"['Mt. Joy', 'Mo Lowda']"
+Mt. Joy,2020-10-03T18:45:00-0400,Smoky Mountain Event Center,Waynesville,NC,US,"['Mt. Joy', 'Stop Light Observations']"
+Mt. Joy,2020-10-02T19:30:00-0400,Atlanta Motor Speedway,Hampton,GA,US,['Mt. Joy']
+Mt. Joy,2020-09-30T18:00:00-0400,Legend Valley,Thornville,OH,US,['Mt. Joy']
+Mt. Joy,2020-09-29T17:30:00-0400,Starlight Drive-in,Butler,PA,US,['Mt. Joy']
+Mt. Joy,2020-09-26T19:00:00-0500,The Adler Lot,Chicago,IL,US,['Mt. Joy']
+Mt. Joy,2020-09-25T19:00:00-0500,The Adler Lot,Chicago,IL,US,"['Mt. Joy', 'Adam Melchor']"
+Mt. Joy,2020-09-24T19:00:00-0500,The Adler Lot,Chicago,IL,US,['Mt. Joy']
+Mt. Joy,2020-09-10T19:30:00-0500,Avondale Brewing Company,Birmingham,AL,US,['Mt. Joy']
+Mt. Joy,2020-08-27T20:00:00-0400,The Yarmouth Drive-In on Cape Cod,Yarmouth,MA,US,['Mt. Joy']
+Mt. Joy,2020-08-25T19:30:00-0400,Citizens Bank Park,Philadelphia,PA,US,"['Mt. Joy', 'Adam Melchor', 'Live In Drive In Concert Series']"
+Mt. Joy,2020-06-12T19:00:00-0400,Greenfield Lake Amphitheater,Wilmington,NC,US,['Mt. Joy']
+Mt. Joy,2020-05-22T19:00:00-0400,House of Blues Orlando,Orlando,FL,US,"['Mt. Joy', 'flipturn']"
+Mt. Joy,2020-05-21T19:00:00-0400,Revolution Live,Fort Lauderdale,FL,US,['Mt. Joy']
+Mt. Joy,2020-05-19T19:00:00-0400,The Ritz Ybor,Tampa,FL,US,['Mt. Joy']
+Mt. Joy,2020-03-11T18:00:00-0500,Fiserv Forum,Milwaukee,WI,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-03-07T19:00:00-0500,Canadian Tire Centre,Ottawa,ON,Canada,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-25T19:00:00-0500,PPG Paints Arena,Pittsburgh,PA,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-21T18:00:00-0600,Allstate Arena,Rosemont,IL,US,"['The Lumineers', 'J.S. Ondara', 'Mt. Joy']"
+Mt. Joy,2020-02-18T19:00:00-0500,Gainbridge Fieldhouse,Indianapolis,IN,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-16T19:00:00-0500,John Paul Jones Arena,Charlottesville,VA,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-15T19:00:00-0500,Rams Head Live!,Baltimore,MD,US,"['Mt. Joy', 'Mo Lowda & the Humble']"
+Mt. Joy,2020-02-11T19:00:00-0500,Van Andel Arena,Grand Rapids,MI,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-08T18:00:00-0500,Rocket Mortgage FieldHouse,Cleveland,OH,US,"['The Lumineers', 'Mt. Joy']"
+Mt. Joy,2020-02-07T19:00:00-0500,Little Caesars Arena,Detroit,MI,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-02-01T19:00:00-0500,Harrah's Cherokee Center - Asheville,Asheville,NC,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-01-31T19:00:00-0500,Harrah's Cherokee Center - Asheville,Asheville,NC,US,"['The Lumineers', 'Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2020-01-30T20:00:00-0500,The Underground,Charlotte,NC,US,['Mt. Joy']
+Mt. Joy,2019-12-31T22:00:00-0600,Metro,Chicago,IL,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-12-30T20:00:00-0600,Metro,Chicago,IL,US,['Mt. Joy']
+Mt. Joy,2019-11-23T21:00:00-0700,Belly Up Aspen,Aspen,CO,US,['Mt. Joy']
+Mt. Joy,2019-11-21,Ogden Theatre,Denver,CO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-11-15,The Fillmore,San Francisco,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-11-14,The Fillmore,San Francisco,CA,US,['Mt. Joy']
+Mt. Joy,2019-11-13T20:00:00-0800,Fremont Theater,San Luis Obispo,CA,US,['Mt. Joy']
+Mt. Joy,2019-11-09,Crescent Ballroom,Phoenix,AZ,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-11-08T19:00:00-0800,The Wiltern,Los Angeles (LA),CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-11-06T20:30:00-0800,McMenamins Crystal Ballroom,Portland,OR,US,"['Mt. Joy', 'Ages and Ages']"
+Mt. Joy,2019-11-05T19:00:00-0800,Showbox at the Market,Seattle,WA,US,"['Mt. Joy', 'Ages and Ages', 'Adam Melchor']"
+Mt. Joy,2019-10-30,Roxian Theatre,McKees Rocks,PA,US,"['Mt. Joy', 'Brooke Annibale']"
+Mt. Joy,2019-10-29T20:00:00-0400,White Eagle Hall,Jersey City,NJ,US,"['Mt. Joy', 'Adam Melchor']"
+Mt. Joy,2019-10-28,The National,Richmond,VA,US,['Mt. Joy']
+Mt. Joy,2019-10-26,Music Farm,Charleston,SC,US,['Mt. Joy']
+Mt. Joy,2019-10-25,The Orange Peel,Asheville,NC,US,['Mt. Joy']
+Mt. Joy,2019-10-24,Cannery Ballroom,Nashville,TN,US,['Mt. Joy']
+Mt. Joy,2019-10-23,Variety Playhouse,Atlanta,GA,US,['Mt. Joy']
+Mt. Joy,2019-10-21,Saturn,Birmingham,AL,US,['Mt. Joy']
+Mt. Joy,2019-10-19,Tipitina's,New Orleans,LA,US,['Mt. Joy']
+Mt. Joy,2019-10-18,White Oak Music Hall,Houston,TX,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-17,Scoot Inn,Austin,TX,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-16,Granada Theater - TX,Dallas,TX,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-14,Madrid Theatre,Kansas City,MO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-12,Varsity Theater,Minneapolis,MN,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-11,Turner Hall Ballroom,Milwaukee,WI,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-10-10,St. Andrew's Hall,Detroit,MI,US,['Mt. Joy']
+Mt. Joy,2019-10-08,The Danforth Music Hall,Toronto,ON,Canada,['Mt. Joy']
+Mt. Joy,2019-10-06,Royale Boston,Boston,MA,US,['Mt. Joy']
+Mt. Joy,2019-10-05,Webster Hall,New York (NYC),NY,US,['Mt. Joy']
+Mt. Joy,2019-10-04,Theatre of Living Arts,Philadelphia,PA,US,['Mt. Joy']
+Mt. Joy,2019-10-03T22:00:00-0400,9:30 CLUB,Washington,DC,US,"['Mt. Joy', 'Susto']"
+Mt. Joy,2019-10-01,Cat's Cradle,Carrboro,NC,US,['Mt. Joy']
+Mt. Joy,2019-09-27T12:00:00-0700,Doheny State Beach,Dana Point,CA,US,['Mt. Joy']
+Mt. Joy,2019-09-21T19:00:00-0400,Garfield Park,Indianapolis,IN,US,['Mt. Joy']
+Mt. Joy,2019-09-15T22:00:00-0700,Vogue Theatre,Vancouver,BC,Canada,"['Mt. Joy', 'Jeremie Albino']"
+Mt. Joy,2019-09-14T16:00:00-0600,Big Rock Brewery,Calgary,AB,Canada,"['Tokyo Police Club', 'Mt. Joy', 'Scenic Route to Alaska']"
+Mt. Joy,2019-09-12T18:00:00-0700,Westward Music Festival,Vancouver,BC,Canada,['Mt. Joy']
+Mt. Joy,2019-08-24,Stage Fort Park,Gloucester,MA,US,['Mt. Joy']
+Mt. Joy,2019-08-17,Wonderbus Festival,Columbus,OH,US,['Mt. Joy']
+Mt. Joy,2019-07-12T12:00:00-0500,Waterfront Park Great Lawn,Louisville,KY,US,['Mt. Joy']
+Mt. Joy,2019-06-30,Zuiderpark,Rotterdam,,Netherlands,['Mt. Joy']
+Mt. Joy,2019-06-28,Gärdet,Stockholm,,Sweden,['Mt. Joy']
+Mt. Joy,2019-06-25T19:30:00+0100,Bush Hall,London,,UK,"['Mt. Joy', 'Swimming Tapes']"
+Mt. Joy,2019-06-21,Azkena Rock Festival 2019,Vitoria-Gasteiz,,Spain,['Mt. Joy']
+Mt. Joy,2019-06-13,Millennium Park,Chicago,IL,US,"['Mt. Joy', 'Rayland Baxter']"
+Mt. Joy,2019-04-07T20:00:00-0700,Music Box,San Diego,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-04-06T21:00:00-0700,Teragram Ballroom,Los Angeles (LA),CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-04-05T21:00:00-0700,Teragram Ballroom,Los Angeles (LA),CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-04-04T19:00:00-0700,SLO Brew Rock,San Luis Obispo,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-31T20:00:00-0700,Harlow's,Sacramento,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-30T21:00:00-0700,The Fillmore,San Francisco,CA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-26T20:00:00-0700,Neptune Theatre,Seattle,WA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-24T20:00:00-0700,The Imperial,Vancouver,BC,Canada,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-23T21:00:00-0700,Wonder Ballroom,Portland,OR,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-21,Urban Lounge,Salt Lake City,UT,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-20T17:00:00-0600,Treefort Music Fest 2019,Boise,ID,US,['Mt. Joy']
+Mt. Joy,2019-03-19T19:00:00-0600,Gothic Theatre,Englewood,CO,US,"['Mt. Joy', 'Wilderado', 'Paul Whitacre']"
+Mt. Joy,2019-03-18T20:30:00-0600,Fox Theatre,Boulder,CO,US,"['Mt. Joy', 'Wilderado', 'Paul Whitacre']"
+Mt. Joy,2019-03-16T21:00:00-0500,The Waiting Room,Omaha,NE,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-15T20:00:00-0500,Wooly's,Des Moines,IA,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-14T20:00:00-0500,Delmar Hall,St Louis,MO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-13T20:00:00-0500,Headliners Music Hall,Louisville,KY,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-09T20:00:00-0600,Tower Theatre,Oklahoma City,OK,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2019-03-08T20:00:00-0600,Antone's,Austin,TX,US,"['Bishop Briggs', 'Mt. Joy', 'Duncan Fellows']"
+Mt. Joy,2019-03-01T12:00:00-0700,M3F Fest 2019,Phoenix,AZ,US,['Mt. Joy']
+Mt. Joy,2019-02-26T20:00:00-0500,Bluebird,Bloomington,IN,US,['Mt. Joy']
+Mt. Joy,2019-02-25T19:30:00-0600,Ryman Auditorium,Nashville,TN,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-24T19:30:00-0600,Ryman Auditorium,Nashville,TN,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-22T20:00:00-0500,Tabernacle,Atlanta,GA,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-21T20:00:00-0500,Tabernacle,Atlanta,GA,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-20,Joy Theater,New Orleans,LA,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-18T20:00:00-0600,Austin City Limits Live at The Moody Theater,Austin,TX,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-17,Austin City Limits Live at The Moody Theater,Austin,TX,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-16,Revention Music Center,Houston,TX,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-15,The Bomb Factory,Dallas,TX,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-13T20:00:00-0600,The Truman,Kansas City,MO,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-12T19:00:00-0600,Palace Theatre,St. Paul,MN,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-11,The Sylvee,Madison,WI,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-09,Riviera Theatre,Chicago,IL,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-08T20:00:00-0600,Riviera Theatre,Chicago,IL,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-07,KEMBA Live!,Columbus,OH,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-05,The Danforth Music Hall,Toronto,ON,Canada,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-04,The Danforth Music Hall,Toronto,ON,Canada,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-02T19:00:00-0500,Manhattan Center Hammerstein Ballroom,New York (NYC),NY,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-02-01T20:00:00-0500,Manhattan Center Hammerstein Ballroom,New York (NYC),NY,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-01-31T20:00:00-0500,The Fillmore Philadelphia,Philadelphia,PA,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-01-29T12:30:00-0500,Rams Head On Stage,Annapolis,MD,US,['Mt. Joy']
+Mt. Joy,2019-01-29,9:30 CLUB,Washington,DC,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-01-28,9:30 CLUB,Washington,DC,US,"['Rainbow Kitten Surprise', 'Mt. Joy']"
+Mt. Joy,2019-01-27T20:00:00-0500,The Broadberry,Richmond,VA,US,['Mt. Joy']
+Mt. Joy,2018-12-13T19:00:00-0800,The Masonic,San Francisco,CA,US,['Mt. Joy']
+Mt. Joy,2018-12-12T20:00:00-0500,The Met Philadelphia,Philadelphia,PA,US,['Mt. Joy']
+Mt. Joy,2018-12-07T19:00:00-0600,The Monarch Music Hall,Peoria,IL,US,"['Steady Flow', 'Mt. Joy', 'Billy Raffoul', 'Flora Cash']"
+Mt. Joy,2018-12-06T19:30:00-0600,Chicago Theatre,Chicago,IL,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2018-12-03T18:30:00-0800,McMenamins Crystal Ballroom,Portland,OR,US,"['Mt. Joy', 'The Weather Machine']"
+Mt. Joy,2018-11-16,Rolling Stone Park 2018,Rust,,Germany,['Mt. Joy']
+Mt. Joy,2018-11-16,La Parenthèse,Nyon,,Switzerland,['Mt. Joy']
+Mt. Joy,2018-11-14T19:45:00+0100,Bogen F,Zürich,,Switzerland,"['Mt. Joy', 'Emil Landman']"
+Mt. Joy,2018-11-13,"Orangehouse, Feierwerk",Munich,,Germany,['Mt. Joy']
+Mt. Joy,2018-11-12,Badehaus,Berlin,,Germany,"['Mt. Joy', 'Emil Landman']"
+Mt. Joy,2018-11-09,Artheater,Cologne,,Germany,['Mt. Joy']
+Mt. Joy,2018-11-08T22:00:00+0100,Paradiso Kleine Zaal,Amsterdam,,Netherlands,['Mt. Joy']
+Mt. Joy,2018-11-06T19:30:00+0100,Cirque Royal / Koninklijk Circus,Brussels,,Belgium,['Mt. Joy']
+Mt. Joy,2018-11-05T20:00:00+0100,Les Étoiles,Paris,,France,['Mt. Joy']
+Mt. Joy,2018-11-04T20:00:00+0000,Prince Albert,Brighton,,UK,"['Mt. Joy', 'Valley Maker']"
+Mt. Joy,2018-11-03T19:30:00+0000,Heartbreakers,Southampton,,UK,['Mt. Joy']
+Mt. Joy,2018-11-01T19:30:00+0000,Hoxton Square Bar & Kitchen,London,,UK,['Mt. Joy']
+Mt. Joy,2018-10-31T19:00:00+0000,Jimmy's - Manchester - Old Location,Manchester,,UK,"['Mt. Joy', 'Emil Landman']"
+Mt. Joy,2018-10-31T19:00:00+0000,Allotment,Manchester,,UK,['Mt. Joy']
+Mt. Joy,2018-10-30T19:00:00+0000,SWG3 Poetry Club,Glasgow,,UK,['Mt. Joy']
+Mt. Joy,2018-10-14,Austin City Limits,Austin,TX,US,"['Mt. Joy', 'Natalie Prass', 'Noname', 'Rhye']"
+Mt. Joy,2018-10-13,Austin City Limits,Austin,TX,US,"['Mt. Joy', 'Natalie Prass', 'Noname', 'Rhye']"
+Mt. Joy,2018-10-12,Zilker Park,Austin,TX,US,['Mt. Joy']
+Mt. Joy,2018-10-12,The Opera House,Toronto,ON,Canada,"['Mt. Joy', 'The Darcys', 'Girlfriend Material']"
+Mt. Joy,2018-10-11T20:00:00-0500,Antone's,Austin,TX,US,"['Mt. Joy', 'Adam Melchor', 'Duncan Fellows']"
+Mt. Joy,2018-10-10T19:30:00-0500,"Bronze Peacock Room, House of Blues",Houston,TX,US,"['Mt. Joy', 'Duncan Fellows', 'Adam Melchor']"
+Mt. Joy,2018-10-09T19:30:00-0500,"Cambridge Room, House of Blues",Dallas,TX,US,"['Mt. Joy', 'Duncan Fellows']"
+Mt. Joy,2018-10-07,Austin City Limits,Austin,TX,US,"['Mt. Joy', 'Natalie Prass', 'Noname']"
+Mt. Joy,2018-10-06,Austin City Limits,Austin,TX,US,"['Mt. Joy', 'Naked Giants', 'Natalie Prass', 'Noname']"
+Mt. Joy,2018-10-05,Zilker Park,Austin,TX,US,['Mt. Joy']
+Mt. Joy,2018-10-05,Austin City Limits,Austin,TX,US,"['Mt. Joy', 'Natalie Prass', 'Noname']"
+Mt. Joy,2018-10-04,Saturn,Birmingham,AL,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-10-03T20:00:00-0400,Terminal West,Atlanta,GA,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-10-02,Visulite Theatre,Charlotte,NC,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-29T21:00:00-0400,Cat's Cradle,Carrboro,NC,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-28T06:00:00-0400,Bailey Park,Winston-Salem,NC,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-27T19:00:00-0400,U Street Music Hall,Washington,DC,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-26T19:00:00-0400,Royale Boston,Boston,MA,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-25T21:00:00-0400,Port City Music Hall,Portland,ME,US,"['Mt. Joy', 'Arlie']"
+Mt. Joy,2018-09-21,Downtown Las Vegas,Las Vegas,NV,US,['Mt. Joy']
+Mt. Joy,2018-09-21,Bristol Rhythm & Roots Reunion,Bristol,VA,US,['Mt. Joy']
+Mt. Joy,2018-09-18T20:00:00-0400,Music Hall of Williamsburg,Brooklyn,NY,US,['Mt. Joy']
+Mt. Joy,2018-09-16,Great Lawn at Lansdowne Park,Ottawa,ON,Canada,['Mt. Joy']
+Mt. Joy,2018-09-15,Grand Point North,Burlington,VT,US,['Mt. Joy']
+Mt. Joy,2018-09-15T15:15:00-0400,Waterfront Park,Burlington,VT,US,"['Grace Potter', 'Ani DiFranco', 'Jackson Browne', 'Clever Girls', 'Miku Daza', 'Darlingside', 'West End Blend', 'Mt. Joy']"
+Mt. Joy,2018-09-14T20:30:00-0400,Union Transfer,Philadelphia,PA,US,['Mt. Joy']
+Mt. Joy,2018-09-13T19:00:00-0400,The 8 X 10,Baltimore,MD,US,"['Mt. Joy', 'Illiterate Light']"
+Mt. Joy,2018-09-11T20:00:00-0400,Tralf Music Hall,Buffalo,NY,US,['Mt. Joy']
+Mt. Joy,2018-09-10T19:00:00-0400,The Shelter,Detroit,MI,US,"['Mt. Joy', 'Michigander']"
+Mt. Joy,2018-09-08T20:00:00-0500,Delmar Hall,St Louis,MO,US,"['Jukebox the Ghost', 'Mt. Joy']"
+Mt. Joy,2018-09-07T00:00:00-0500,Majestic Theatre,Madison,WI,US,"['Mt. Joy', 'Michigander']"
+Mt. Joy,2018-09-07T23:00:00-0500,Majestic Theatre,Madison,WI,US,['Mt. Joy']
+Mt. Joy,2018-09-06T19:00:00-0500,Thalia Hall,Chicago,IL,US,['Mt. Joy']
+Mt. Joy,2018-08-31,Seattle Center,Seattle,WA,US,['Mt. Joy']
+Mt. Joy,2018-08-24,Nickel Plate District Amphitheater,Fishers,IN,US,"['Houndmouth', 'Mt. Joy', 'Liz Cooper']"
+Mt. Joy,2018-08-23T20:30:00-0400,Beachland Ballroom,Cleveland,OH,US,"['Mt. Joy', 'Oliver Hazard']"
+Mt. Joy,2018-08-18T20:00:00-0700,Troubadour,West Hollywood,CA,US,"['Mt. Joy', 'Adam Melchor']"
+Mt. Joy,2018-08-17T21:00:00-0700,The Independent,San Francisco,CA,US,"['Mt. Joy', 'Adam Melchor']"
+Mt. Joy,2018-08-13T19:00:00-0600,Commonwealth Bar,Calgary,AB,Canada,"['Mt. Joy', 'The Northern Coast']"
+Mt. Joy,2018-08-12,Gallagher Park,Edmonton,AB,Canada,['Mt. Joy']
+Mt. Joy,2018-08-11,Gallagher Park,Edmonton,AB,Canada,['Mt. Joy']
+Mt. Joy,2018-08-09,Public Square Park,Nashville,TN,US,['Mt. Joy']
+Mt. Joy,2018-08-09T18:00:00-0500,Live on the Green,Nashville,TN,US,"['Dispatch', 'The Wood Brothers', 'Mt. Joy', 'Roscoe & Etta']"
+Mt. Joy,2018-07-27,Wiggins Park,Camden,NJ,US,['Mt. Joy']
+Mt. Joy,2018-07-27T14:00:00-0500,Azura Amphitheater,Bonner Springs,KS,US,"['Mt. Joy', 'Mansionair', 'lovelytheband', 'The Get Up Kids', 'Portugal. The Man', 'Joywave', 'Blue October', 'L.I.F.T', 'Hembree', 'Rainbow Kitten Surprise', 'AWOLNATION', 'Robert DeLong']"
+Mt. Joy,2018-07-25T20:00:00-0700,Music Box,San Diego,CA,US,['Mt. Joy']
+Mt. Joy,2018-07-22,Merriweather Post Pavilion,Columbia,MD,US,['Mt. Joy']
+Mt. Joy,2018-07-18T19:00:00+0100,Paper Dress Vintage,London,,UK,['Mt. Joy']
+Mt. Joy,2018-07-14,Hopped and Confused @ Mill Street Brewery,Toronto,ON,Canada,['Mt. Joy']
+Mt. Joy,2018-07-10T21:00:00-0700,SOhO Restaurant & Music Club,Santa Barbara,CA,US,['Mt. Joy']
+Mt. Joy,2018-07-08,Plumas-Sierra County Fairgrounds,Quincy,CA,US,['Mt. Joy']
+Mt. Joy,2018-07-07,Plumas-Sierra County Fairgrounds,Quincy,CA,US,['Mt. Joy']
+Mt. Joy,2018-07-06,Wingfield Park Amphitheater,Reno,NV,US,['Mt. Joy']
+Mt. Joy,2018-06-28,Double JJ Ranch & Golf Resort,Rothbury,MI,US,['Mt. Joy']
+Mt. Joy,2018-06-28,Liberty Plaza,Ann Arbor,MI,US,['Mt. Joy']
+Mt. Joy,2018-06-25T20:00:00-0400,Grey Eagle,Asheville,NC,US,"['Mt. Joy', 'Stop Light Observations']"
+Mt. Joy,2018-06-24T17:00:00-0400,The Social,Orlando,FL,US,"['Robert DeLong', 'Mt. Joy', 'DREAMERS']"
+Mt. Joy,2018-06-21,Double JJ Ranch & Golf Resort,Rothbury,MI,US,['Mt. Joy']
+Mt. Joy,2018-06-20T20:00:00-0500,The Burl,Lexington,KY,US,"['Mt. Joy', 'Isle of Eight']"
+Mt. Joy,2018-06-19,Woodward Theater,Cincinnati,OH,US,"['Mt. Joy', 'Oliver Hazard']"
+Mt. Joy,2018-06-18T20:30:00-0400,Hi-Fi,Indianapolis,IN,US,"['Mt. Joy', 'Saint Aubin']"
+Mt. Joy,2018-06-15,Collective Arts Brewery,Hamilton,ON,Canada,['Mt. Joy']
+Mt. Joy,2018-06-15T18:30:00-0400,Lost Horizon,Syracuse,NY,US,"['Mt. Joy', 'Shallow Alcove']"
+Mt. Joy,2018-06-14,Arts Riot Studio,Burlington,VT,US,['Mt. Joy']
+Mt. Joy,2018-06-13T21:00:00-0400,The Hollow,Albany,NY,US,"['Mt. Joy', 'Hasty Page']"
+Mt. Joy,2018-06-12T20:30:00-0400,Great Scott,Allston,MA,US,"['Mt. Joy', 'Morningbird']"
+Mt. Joy,2018-06-09,Hideout,Chicago,IL,US,"['Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2018-06-08T21:00:00-0500,Hideout,Chicago,IL,US,"['Mt. Joy', 'the Blue Ribbon Glee Club', 'The Sentinels', 'J.S. Ondara']"
+Mt. Joy,2018-05-25,Napa Valley Exposition,Napa,CA,US,['Mt. Joy']
+Mt. Joy,2018-05-24T19:00:00-0700,Fox Theater,Pomona,CA,US,"['The Head and the Heart', 'Grouplove', 'Mt. Joy']"
+Mt. Joy,2018-05-23,The Observatory,Santa Ana,CA,US,"['The Head and the Heart', 'Grouplove', 'Mt. Joy']"
+Mt. Joy,2018-05-22T19:30:00-0700,Cal Coast Credit Union Open Air Theatre at SDSU,San Diego,CA,US,"['The Head and the Heart', 'Grouplove', 'Mt. Joy']"
+Mt. Joy,2018-05-19T21:00:00-0400,The Foundry at the Fillmore,Philadelphia,PA,US,"['Mt. Joy', 'Future Generations']"
+Mt. Joy,2018-05-18,"Sunoco Theater, Whitaker Center",Harrisburg,PA,US,"['Mt. Joy', 'Future Generations']"
+Mt. Joy,2018-05-15T20:00:00-0400,The Funhouse at Mr. Small's,Millvale,PA,US,"['Mt. Joy', 'Mo Lowda']"
+Mt. Joy,2018-05-14T19:00:00-0400,Ace of Cups,Columbus,OH,US,"['Mt. Joy', 'Mo Lowda', 'Mo Lowda & the Humble']"
+Mt. Joy,2018-05-12,Dignity Health Sports Park,Carson,CA,US,['Mt. Joy']
+Mt. Joy,2018-05-12T21:00:00-0500,Hideout,Chicago,IL,US,"['Mt. Joy', 'COURTESY', 'Malci']"
+Mt. Joy,2018-05-10,7th St Entry,Minneapolis,MN,US,['Mt. Joy']
+Mt. Joy,2018-05-08T20:00:00-0500,Blueberry Hill Duck Room,St Louis,MO,US,"['Mt. Joy', 'Wilderado']"
+Mt. Joy,2018-05-07T20:00:00-0500,Mercy Lounge,Nashville,TN,US,"['Mt. Joy', 'Illiterate Light']"
+Mt. Joy,2018-05-04,Central Park,Atlanta,GA,US,['Mt. Joy']
+Mt. Joy,2018-05-04T20:00:00-0400,Rock & Roll Hotel,Washington,DC,US,"['Mt. Joy', 'Future Generations']"
+Mt. Joy,2018-05-03T20:00:00-0400,Rough Trade NYC,New York (NYC),NY,US,"['Mt. Joy', 'Maybird']"
+Mt. Joy,2018-05-01T19:30:00-0400,Velvet Underground,Toronto,ON,Canada,['Mt. Joy']
+Mt. Joy,2018-04-28T21:00:00-0500,Songbirds South,Chattanooga,TN,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-27T20:00:00-0500,Bijou Theatre,Knoxville,TN,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-26T20:00:00-0400,Capitol Theatre,Macon,GA,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-24T20:30:00-0400,Jefferson Theater,Charlottesville,VA,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-22,Lincoln Theatre,Raleigh,NC,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-21T20:00:00-0400,The Underground,Charlotte,NC,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-20T20:00:00-0400,Charleston Music Hall,Charleston,SC,US,"['Anderson East', 'Mt. Joy']"
+Mt. Joy,2018-04-12,Holy Diver,Sacramento,CA,US,['Mt. Joy']
+Mt. Joy,2018-04-10T19:00:00-0600,The Olympic Venue,Boise,ID,US,"['Mt. Joy', 'Pure Ivy', 'Luke Messimer']"
+Mt. Joy,2018-04-08T20:00:00-0700,Tractor Tavern,Seattle,WA,US,['Mt. Joy']
+Mt. Joy,2018-04-07T20:00:00-0700,Fox Cabaret,Vancouver,BC,Canada,['Mt. Joy']
+Mt. Joy,2018-04-06T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['Mt. Joy', 'Fort Atlantic']"
+Mt. Joy,2018-04-03T19:30:00-0700,Café du Nord,San Francisco,CA,US,"['Mt. Joy', ""Lauren O'Connell""]"
+Mt. Joy,2018-03-23,Tempe Beach Park,Tempe,AZ,US,['Mt. Joy']
+Mt. Joy,2018-03-23T21:00:00-0600,Boulder Theater,Boulder,CO,US,"['Mt. Joy', 'The Lil Smokies']"
+Mt. Joy,2018-03-22T20:00:00-0600,Larimer Lounge,Denver,CO,US,"['Mt. Joy', 'Paul Whitacre']"
+Mt. Joy,2018-03-20T19:30:00-0500,The Riot Room,Kansas City,MO,US,"['Mt. Joy', 'Olivia Jean']"
+Mt. Joy,2018-03-19T20:00:00-0500,Club Dada,Dallas,TX,US,"['Mt. Joy', 'Duncan Fellows']"
+Mt. Joy,2018-03-16,Hotel San Jose,Austin,TX,US,"['Tank and the Bangas', 'Mt. Joy', 'Natalie Prass']"
+Mt. Joy,2018-03-15,Bangers Sausage House & Beer Garden,Austin,TX,US,['Mt. Joy']
+Mt. Joy,2018-03-14T19:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['Gracie and Rachel', 'Hembree', 'Websterx', 'Mt. Joy', 'Liz Brasher', 'Superorganism']"
+Mt. Joy,2018-03-13,The Gatsby,Austin,TX,US,['Mt. Joy']
+Mt. Joy,2018-03-10T21:00:00-0800,The Bunkhouse Saloon,Las Vegas,NV,US,"['Mt. Joy', 'Part Time', 'Girl Ray', 'The American Weather', ""Bad Girls' Smoking Lounge"", 'We Are Pancakes']"
+Mt. Joy,2018-03-09T20:30:00-0800,Soda Bar,San Diego,CA,US,"['Mt. Joy', 'Hawai']"
+Mt. Joy,2018-03-08T20:00:00-0800,The Moroccan Lounge,Los Angeles (LA),CA,US,"['Mt. Joy', 'Korey Dane']"
+Mt. Joy,2018-01-27T20:00:00-0600,The Castle Theatre,Bloomington,IL,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-26T19:00:00-0600,Manchester Music Hall,Lexington,KY,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-25T20:00:00-0600,The Walker Theatre,Chattanooga,TN,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-24T21:00:00-0500,Music Farm,Charleston,SC,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-23,Carolina Theatre Greensboro,Greensboro,NC,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-21,The Orange Peel,Asheville,NC,US,"['Mt. Joy', 'Neko Case']"
+Mt. Joy,2018-01-20T20:00:00-0600,Bijou Theatre,Knoxville,TN,US,"['Mt. Joy', 'Neko Case']"
+Mt. Joy,2018-01-19T20:00:00-0500,Georgia Theatre,Athens,GA,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-18,World Cafe Live-Philadelphia,Philadelphia,PA,US,['Mt. Joy']
+Mt. Joy,2018-01-18T18:30:00-0500,The National,Richmond,VA,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-17T20:00:00-0500,Capitol Theatre,Port Chester,NY,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-16T19:00:00-0500,Berlin Under A,New York (NYC),NY,US,"['Mt. Joy', 'J.S. Ondara']"
+Mt. Joy,2018-01-15,"Hart Theatre, Egg Center for the Performing Arts",Albany,NY,US,"['Mt. Joy', 'Neko Case']"
+Mt. Joy,2018-01-14T20:00:00-0500,Columbus Theatre,Providence,RI,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-13,Barre Opera House,Barre,VT,US,"['Mt. Joy', 'Neko Case']"
+Mt. Joy,2018-01-12T20:30:00-0500,Infinity Hall Hartford,Hartford,CT,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2018-01-11T20:00:00-0500,The Academy of Music Theatre,Northampton,MA,US,"['Neko Case', 'Mt. Joy']"
+Mt. Joy,2017-12-08T19:00:00-0800,Lodge Room,Highland Park,CA,US,"['The Wild Reeds', 'Mt. Joy', 'Mapache']"
+Mt. Joy,2017-12-07T20:00:00-0800,Constellation Room,Santa Ana,CA,US,['Mt. Joy']
+Mt. Joy,2017-12-07T23:00:00-0800,Constellation Room,Santa Ana,CA,US,"['Mt. Joy', 'Twin Oaks']"
+Mt. Joy,2017-11-18T19:00:00-0500,House of Blues - Boston,Boston,MA,US,"['Mt. Joy', 'The Revivalists']"
+Mt. Joy,2017-11-17T21:00:00-0500,The Fillmore Philadelphia,Philadelphia,PA,US,"['Mt. Joy', 'The Revivalists']"
+Mt. Joy,2017-11-16T19:00:00-0500,9:30 CLUB,Washington,DC,US,"['The Revivalists', 'Mt. Joy']"
+Mt. Joy,2017-11-02,Metro,Chicago,IL,US,"['Whitney', 'NE-HI', 'Mt. Joy']"
+Mt. Joy,2017-10-23T11:30:00-0700,"Bruin Plaza, UCLA",Los Angeles (LA),CA,US,['Mt. Joy']
+Mt. Joy,2017-10-22T20:00:00-0700,Constellation Room,Santa Ana,CA,US,"['Mt. Joy', 'Nai Palm']"
+Mt. Joy,2017-10-15T19:00:00-0500,Fine Line,Minneapolis,MN,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-14,Englert Theatre,Iowa City,IA,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-13,Majestic Theatre,Madison,WI,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-11,Thalia Hall,Chicago,IL,US,"['Mt. Joy', 'The Lone Bellow']"
+Mt. Joy,2017-10-10T20:00:00-0500,Thalia Hall,Chicago,IL,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-08T20:00:00-0400,"Deluxe, Old National Centre",Indianapolis,IN,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-07,Headliners Music Hall,Louisville,KY,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-06,Dave Finkelman Auditorium,Middletown,OH,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-05T20:00:00-0400,Lincoln Theatre,Columbus,OH,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-03T19:00:00-0400,El Club,Detroit,MI,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-02T19:00:00-0400,The Opera House,Toronto,ON,Canada,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-10-01T20:00:00-0400,Beachland Ballroom,Cleveland,OH,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-09-29,The Orange Peel,Asheville,NC,US,"['The Lone Bellow', 'Mt. Joy']"
+Mt. Joy,2017-09-02,Benjamin Franklin Parkway,Philadelphia,PA,US,['Mt. Joy']
+Mt. Joy,2017-08-17T20:30:00-0700,Bootleg Theater,Los Angeles (LA),CA,US,"['Mt. Joy', 'Avid Dancer', 'Dr. Doctor (US)']"
+Mt. Joy,2017-08-16T21:30:00-0700,Space,San Diego,CA,US,"['Mt. Joy', 'Jimmy Ruelas', 'The Liquorsmiths']"
+Mt. Joy,2017-08-05T23:00:00-0500,The Vic Theatre,Chicago,IL,US,"['The Shins', 'Mt. Joy']"
+Mt. Joy,2017-08-04,"Back Room, Colectivo Coffee",Milwaukee,WI,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-08-03T21:00:00-0400,Hi-Fi,Indianapolis,IN,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-08-02,MOTR,Cincinnati,OH,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-08-01T19:00:00-0500,Limelight Eventplex,Peoria,IL,US,"['Mt. Joy', '+ Special Guest TBA', 'Mondo Cozmo', 'Jeremy David Baker']"
+Mt. Joy,2017-07-29T11:00:00-0400,Fort Adams State Park,Newport,RI,US,"['The Wild Reeds', 'Mt. Joy']"
+Mt. Joy,2017-07-27T21:00:00-0400,Johnny Brenda's,Philadelphia,PA,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-26T20:00:00-0400,Baby's All Right - Brooklyn,Brooklyn,NY,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-25T21:00:00-0400,DC9 Nightclub,Washington,DC,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-24,Club Café,Pittsburgh,PA,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-23T20:30:00-0400,Beachland Ballroom,Cleveland,OH,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-22,Surf Lodge,Montauk,NY,US,['Mt. Joy']
+Mt. Joy,2017-07-20T22:00:00-0500,The Basement,Nashville,TN,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-19T20:00:00-0500,Blueberry Hill Duck Room,St Louis,MO,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-18,Schubas Tavern,Chicago,IL,US,"['Mt. Joy', 'Trevor Sensor', 'Emil Landman']"
+Mt. Joy,2017-07-17T20:00:00-0400,Marble Bar,Detroit,MI,US,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-07-14,Drake Hotel,Toronto,ON,Canada,"['Mt. Joy', 'Trevor Sensor']"
+Mt. Joy,2017-05-16T19:00:00-0700,Anaheim,Anaheim,CA,US,"['FYOHNA', 'Mt. Joy', 'Air Traffic Controller']"
+Mt. Joy,2017-05-16,The Parish,Los Angeles (LA),CA,US,['Mt. Joy']
+Mt. Joy,2017-03-27,Bardot,Hollywood,CA,US,"['Mt. Joy', 'Mainland', 'Tom Walker', 'Half the Animal']"
+Mt. Joy,2017-03-23T21:00:00-0700,The Chapel,San Francisco,CA,US,['Mt. Joy']
+Mt. Joy,2017-03-12T20:00:00-0400,Tabernacle,Atlanta,GA,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2017-03-11T20:00:00-0500,North Charleston Performing Arts Center,North Charleston,SC,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2017-03-10T20:00:00-0500,Ovens Auditorium,Charlotte,NC,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2017-03-09T20:00:00-0600,The Mill & Mine,Knoxville,TN,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2017-03-08,The Pour House Music Hall,Raleigh,NC,US,['Mt. Joy']
+Mt. Joy,2017-03-07T20:00:00-0500,"John M. Greene Hall, Smith College",Northampton,MA,US,"['The Head and the Heart', 'Mt. Joy']"
+Mt. Joy,2017-02-20T20:30:00-0800,Bootleg Theater,Los Angeles (LA),CA,US,"['The Rural Alberta Advantage', 'Mt. Joy']"
+Mt. Joy,2017-02-18T21:00:00-0500,Johnny Brenda's,Philadelphia,PA,US,"['Mt. Joy', 'Levee Drivers', 'Morningbird']"
+Mt. Joy,2017-02-16T18:00:00-0500,Mercury Lounge,New York (NYC),NY,US,"['Mt. Joy', 'Morningbird']"
+Mt. Joy,2014-10-01,The Crux,Boise,ID,US,"['Bike Thief', 'Fiddle Junkies', 'Mt. Joy']"
+Mt. Joy,2014-06-25,The Crux,Boise,ID,US,"['Cool Ghouls', 'Flashbulb Fires', 'The Green Zoo', 'Mt. Joy']"
+Mt. Joy,2014-06-24T19:00:00-0600,The Crux,Boise,ID,US,"['Poeina Suddarth', 'Emby Alexander', 'Mt. Joy']"
+Mt. Joy,2014-03-20T20:00:00-0600,Treefort Music Fest 2014,Boise,ID,US,['Mt. Joy']
+Mt. Joy,2014-02-28T19:30:00-0700,Neurolux Lounge,Boise,ID,US,"['Korby Lenker', 'Mt. Joy']"
+Mt. Joy,2014-02-12,The Crux,Boise,ID,US,"['Leigh Jones', 'Mt. Joy']"
+Mt. Joy,2014-02-07T19:00:00-0700,The Crux,Boise,ID,US,"['FLINN', 'An American Forest', 'Mt. Joy', 'Adam Wright']"
+Mt. Joy,2013-09-07T19:00:00-0600,The Crux,Boise,ID,US,"['Josh Damigo', 'Fiddle Junkies', 'Mt. Joy']"
