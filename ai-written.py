@@ -4,7 +4,7 @@ import json
 import csv
 
 # Open a new CSV file in write mode
-with open("/exports/concerts-twinpeaks.csv", "w", newline="") as csv_file:
+with open("tennis.csv", "w", newline="") as csv_file:
   # Create a CSV writer
   writer = csv.writer(csv_file)
   # Write the header row
@@ -19,7 +19,7 @@ with open("/exports/concerts-twinpeaks.csv", "w", newline="") as csv_file:
   # Start the scraping loop
   while keep_scraping:
     # Construct the URL for the current page
-    url = f"https://www.songkick.com/artists/296530-twin-peaks/gigography?page={page}"
+    url = f"https://www.songkick.com/artists/365837-tennis/gigography?page={page}"
 
     # Make a request to the URL
     response = requests.get(url, allow_redirects=False)

@@ -1,0 +1,740 @@
+artist,date,venue,city,region,country,performers
+STRFKR,2022-10-29,Otherworld,Columbus,OH,US,"['Ectoplasm', 'DJ Moxy', 'STRFKR']"
+STRFKR,2022-10-16T14:30:00-0700,Garden Amphitheatre,Garden Grove,CA,US,['STRFKR']
+STRFKR,2022-10-15T14:30:00-0700,Garden Amphitheatre,Garden Grove,CA,US,['STRFKR']
+STRFKR,2022-10-15,Garden Grove Amphitheatre (Garden Amp),Garden Grove,CA,US,['STRFKR']
+STRFKR,2022-09-10,MIDxMIDWST 2022,Springfield,MO,US,['STRFKR']
+STRFKR,2022-08-05T20:00:00-0700,Brooklyn Bowl - Las Vegas,Las Vegas,NV,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-08-04T20:00:00-0700,The Van Buren,Phoenix,AZ,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-08-03T20:00:00-0600,Meow Wolf,Santa Fe,NM,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-08-01T20:00:00-0500,Tower Theater,Oklahoma City,OK,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-31T20:00:00-0500,Granada Theater - TX,Dallas,TX,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-30T20:00:00-0500,Paper Tiger,San Antonio,TX,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-29T20:00:00-0500,Stubb's Waller Creek Amphitheater (Outdoors),Austin,TX,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-28T20:00:00-0500,White Oak Music Hall - Downstairs,Houston,TX,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-27T20:00:00-0500,Chelsea's,Baton Rouge,LA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-26T20:00:00-0500,Saturn,Birmingham,AL,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-25T20:00:00-0400,Variety Playhouse,Atlanta,GA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-23T20:00:00-0500,The Mill & Mine,Knoxville,TN,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-22T21:00:00-0400,The Orange Peel,Asheville,NC,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-21,9:30 CLUB,Washington,DC,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-20T20:00:00-0400,Union Transfer,Philadelphia,PA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-19T20:00:00-0400,Brooklyn Steel,Brooklyn,NY,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-18T20:00:00-0400,The Sinclair,Cambridge,MA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-17T19:30:00-0400,College Street Music Hall,New Haven,CT,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-16T20:00:00-0400,Mr Smalls Theater,Pittsburgh,PA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-15T19:00:00-0400,Newport Music Hall,Columbus,OH,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-13,El Club,Detroit,MI,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-12T20:30:00-0500,Thalia Hall,Chicago,IL,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-10T20:00:00-0500,The Record Room @ First Ave,Minneapolis,MN,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-09T20:00:00-0500,Majestic Theatre,Madison,WI,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-08T09:30:00-0500,Wooly's,Des Moines,IA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-07T20:00:00-0500,Granada Theatre,Lawrence,KS,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-07-06T18:30:00-0500,Icon Lounge,Sioux Falls,SD,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-23T20:00:00-0600,Ogden Theatre,Denver,CO,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-22T20:00:00-0600,Aggie Theater,Fort Collins,CO,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-21,The Depot,Salt Lake City,UT,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-20,Knitting Factory - Boise,Boise,ID,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-18T21:00:00-0700,Showbox at the Market,Seattle,WA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-17T21:00:00-0700,Roseland Theater,Portland,OR,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-15,Ace of Spades,Sacramento,CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-14T21:00:00-0700,The Catalyst,Santa Cruz,CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-13T19:00:00-0700,Teragram Ballroom,Los Angeles (LA),CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-12T19:00:00-0700,Teragram Ballroom,Los Angeles (LA),CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-10T20:00:00-0700,The Regency Ballroom,San Francisco,CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-08,The Observatory,Santa Ana,CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-06-07,The Observatory North Park,San Diego,CA,US,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-05-20,Foro Indie Rocks!,Mexico City,,Mexico,"['STRFKR', 'The Undercover Dream Lovers', 'Das Kope']"
+STRFKR,2022-05-13,Laguna Lake Park,San Luis Obispo,CA,US,['STRFKR']
+STRFKR,2022-05-13,The Guild Theatre,Menlo Park,CA,US,['STRFKR']
+STRFKR,2022-04-23T18:00:00-0600,Red Rocks Amphitheatre,Morrison,CO,US,"['Lotus', 'Cut Copy', 'STRFKR']"
+STRFKR,2022-03-03,Okeechobee Music & Arts Festival 2022,Okeechobee,FL,US,['STRFKR']
+STRFKR,2022-03-03,Sunshine Grove,Okeechobee,FL,US,['STRFKR']
+STRFKR,2021-11-13,Dusk Music Festival 2021,Tucson,AZ,US,['STRFKR']
+STRFKR,2021-09-10,Williwaw,Anchorage,AK,US,['STRFKR']
+STRFKR,2021-09-04,"Fisher Pavilion, Seattle Center",Seattle,WA,US,['STRFKR']
+STRFKR,2021-08-19,Gallivan Center,Salt Lake City,UT,US,"['STRFKR', 'Big Boi']"
+STRFKR,2021-02-24,Pappy & Harriet's Pioneertown Palace,Pioneertown,CA,US,['STRFKR']
+STRFKR,2021-02-22T20:00:00-0800,Venue,Vancouver,BC,Canada,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2021-02-18T20:00:00-0700,Knitting Factory - Boise,Boise,ID,US,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2021-02-12T19:30:00-0600,Wooly's,Des Moines,IA,US,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2021-02-03T21:00:00-0600,The Mill & Mine,Knoxville,TN,US,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2021-02-02,The Orange Peel,Asheville,NC,US,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2019-11-15T21:00:00-0800,The Midway,San Francisco,CA,US,"['Ghostland Observatory', 'STRFKR', 'MUNYA', 'Vandelux']"
+STRFKR,2019-10-01,Lagunitas Brewing Co.,Petaluma,CA,US,"['STRFKR', 'The Undercover Dream Lovers']"
+STRFKR,2019-09-21,Gateway City Arts,Holyoke,MA,US,['STRFKR']
+STRFKR,2019-09-20T20:00:00-0400,Higher Ground Ballroom,South Burlington,VT,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-19T20:00:00-0400,Anthology,Rochester,NY,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-18T20:00:00-0400,Mr Smalls Theater,Pittsburgh,PA,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-17T20:00:00-0400,The Pyramid Scheme,Grand Rapids,MI,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-16T20:00:00-0400,Bell's Brewery,Kalamazoo,MI,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-15T20:00:00-0500,Majestic Theatre,Madison,WI,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-14T20:00:00-0500,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-13T18:30:00-0500,Icon Lounge,Sioux Falls,SD,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-11T20:00:00-0600,The Rialto,Bozeman,MT,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-10T20:00:00-0600,The Wilma,Missoula,MT,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-09T19:00:00-0700,Knitting Factory Concert House - Spokane,Spokane,WA,US,"['STRFKR', 'Das Kope']"
+STRFKR,2019-09-08T20:00:00-0700,Alma Mater Tacoma,Tacoma,WA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2019-09-07T21:00:00-0700,WOW Hall,Eugene,OR,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2019-08-09,Ohio Renaissance Festival Grounds,Waynesville,OH,US,['STRFKR']
+STRFKR,2019-07-19,Capitol Hill Block Party 2019,Seattle,WA,US,['STRFKR']
+STRFKR,2019-06-28T18:00:00-0700,FIGat7th,Los Angeles (LA),CA,US,"['STRFKR', 'De Lux']"
+STRFKR,2019-05-09T19:00:00-0700,Ace of Spades,Sacramento,CA,US,['STRFKR']
+STRFKR,2019-05-08T21:00:00-0700,Fremont Theater,San Luis Obispo,CA,US,['STRFKR']
+STRFKR,2019-05-07T20:00:00-0700,Majestic Ventura Theater,Ventura,CA,US,['STRFKR']
+STRFKR,2019-05-06T21:00:00-0700,La Santa,Santa Ana,CA,US,['STRFKR']
+STRFKR,2019-05-03T12:00:00-0700,Queen Mary Events Park,Long Beach,CA,US,['STRFKR']
+STRFKR,2019-03-23T19:00:00-0500,Lowbrow Palace,El Paso,TX,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-22T20:00:00-0500,Paper Tiger,San Antonio,TX,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-20,Revolution Music Room (Rev Room),Little Rock,AR,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-19T21:00:00-0500,The Lyric Oxford,Oxford,MS,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-18,Mavericks Live,Jacksonville,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-17T21:00:00-0400,High Dive,Gainesville,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-16T19:30:00-0400,The Ritz Theater - Ybor City,Tampa,FL,US,['STRFKR']
+STRFKR,2019-03-16T18:00:00-0400,The Ritz Ybor,Tampa,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-15T21:00:00-0400,The Ground,Miami,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-14T20:00:00-0400,The Beacham,Orlando,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-13T19:00:00-0400,Vinyl Music Hall,Pensacola,FL,US,"['STRFKR', 'Daniel T.']"
+STRFKR,2019-03-12T20:00:00-0500,Republic NOLA,New Orleans,LA,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-10T19:00:00-0500,Saturn,Birmingham,AL,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-09T19:00:00-0500,Variety Playhouse,Atlanta,GA,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-08T19:00:00-0500,Music Farm,Charleston,SC,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-07T19:00:00-0500,Cat's Cradle,Carrboro,NC,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-06T19:00:00-0600,Cannery Ballroom,Nashville,TN,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-05T21:00:00-0500,The Vogue Theatre,Indianapolis,IN,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-05T00:00:00-0500,The Vogue Theatre,Indianapolis,IN,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-04T19:00:00-0600,The Blue Note,Columbia,MO,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-03T20:00:00-0600,The Ready Room,St Louis,MO,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-02T20:00:00-0600,Granada Theatre,Lawrence,KS,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-03-01T19:00:00-0600,Tower Theatre,Oklahoma City,OK,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-02-27T19:00:00-0700,Meow Wolf,Santa Fe,NM,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-02-26T19:00:00-0700,The Rialto Theatre,Tucson,AZ,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2019-01-25,Mezzanine,San Francisco,CA,US,['STRFKR']
+STRFKR,2019-01-23,Bar Standard,Denver,CO,US,['STRFKR']
+STRFKR,2018-10-06T21:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,['STRFKR']
+STRFKR,2018-10-05T21:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,['STRFKR']
+STRFKR,2018-10-03T19:00:00-0500,Lincoln Hall,Chicago,IL,US,['STRFKR']
+STRFKR,2018-10-02T19:00:00-0500,Lincoln Hall,Chicago,IL,US,['STRFKR']
+STRFKR,2018-09-29T19:00:00-0500,The Bomb Factory,Dallas,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2018-09-28T19:00:00-0500,Stubb's Bar-B-Q (Indoors),Austin,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2018-09-27T19:00:00-0500,White Oak Music Hall,Houston,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2018-09-24T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,['STRFKR']
+STRFKR,2018-09-23T17:00:00-0700,Doug Fir Lounge,Portland,OR,US,['STRFKR']
+STRFKR,2018-09-23T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,['STRFKR']
+STRFKR,2018-09-22T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,['STRFKR']
+STRFKR,2018-09-21T20:00:00-0700,Neumos,Seattle,WA,US,['STRFKR']
+STRFKR,2018-09-20T20:00:00-0700,Neumos,Seattle,WA,US,['STRFKR']
+STRFKR,2018-09-17T20:00:00-0700,The Independent,San Francisco,CA,US,['STRFKR']
+STRFKR,2018-09-16T20:00:00-0700,The Independent,San Francisco,CA,US,['STRFKR']
+STRFKR,2018-09-15T21:00:00-0700,The Independent,San Francisco,CA,US,['STRFKR']
+STRFKR,2018-09-14T19:00:00-0700,Troubadour,West Hollywood,CA,US,['STRFKR']
+STRFKR,2018-09-13T20:00:00-0700,Troubadour,West Hollywood,CA,US,['STRFKR']
+STRFKR,2018-09-12T20:00:00-0700,Troubadour,West Hollywood,CA,US,['STRFKR']
+STRFKR,2018-08-07T17:00:00-0600,The Ogden Amphitheater,Ogden,UT,US,"['Chromeo', 'STRFKR']"
+STRFKR,2018-06-16,Park Music Festival 2018,Seoul,,"Korea, Republic Of",['STRFKR']
+STRFKR,2018-05-19,Willamette Valley Music Festival 2018,Eugene,OR,US,['STRFKR']
+STRFKR,2018-04-21T18:00:00-1000,The Republik,Honolulu,HI,US,['STRFKR']
+STRFKR,2018-04-08T20:00:00-0700,Neumos,Seattle,WA,US,['STRFKR']
+STRFKR,2018-04-05T19:30:00-0500,"Foellinger Auditorium, University of Ilinois",Urbana,IL,US,['STRFKR']
+STRFKR,2018-02-28T19:00:00-0500,Newport Music Hall,Columbus,OH,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-27T19:00:00-0500,Mr Smalls Theater,Pittsburgh,PA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-26T19:00:00-0500,The Wescott Theater,Syracuse,NY,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-25T20:00:00-0500,Port City Music Hall,Portland,ME,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-24T20:00:00-0500,The Sinclair,Cambridge,MA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-23T19:00:00-0500,College Street Music Hall,New Haven,CT,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-22T19:00:00-0500,Brooklyn Steel,Brooklyn,NY,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-21T19:30:00-0500,Union Transfer,Philadelphia,PA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-20T19:00:00-0500,Rams Head Live!,Baltimore,MD,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-18T18:30:00-0500,The National,Richmond,VA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-17T20:00:00-0500,9:30 CLUB,Washington,DC,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-16T20:00:00-0500,The Orange Peel,Asheville,NC,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-15T20:00:00-0600,Headliners Music Hall,Louisville,KY,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-14T19:00:00-0600,Concord Music Hall,Chicago,IL,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-13T19:00:00-0600,Turner Hall Ballroom,Milwaukee,WI,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-04T21:00:00-0800,Teragram Ballroom,Los Angeles (LA),CA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-03T21:00:00-0800,Teragram Ballroom,Los Angeles (LA),CA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-02T20:00:00-0800,The Observatory North Park,San Diego,CA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-01T20:00:00-0700,The Van Buren,Phoenix,AZ,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-02-01T18:30:00-0700,The Van Buren,Phoenix,AZ,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-31T19:00:00-0600,Tricky Falls,El Paso,TX,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-30T19:00:00-0700,El Rey Theater,Albuquerque,NM,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-28T19:00:00-0700,Black Sheep,Colorado Springs,CO,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-27T20:00:00-0700,Gothic Theatre,Englewood,CO,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-26T19:00:00-0700,The Depot,Salt Lake City,UT,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-25T19:00:00-0700,Knitting Factory - Boise,Boise,ID,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-24T19:00:00-0800,Knitting Factory Concert House - Spokane,Spokane,WA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-23T20:00:00-0800,McDonald Theatre,Eugene,OR,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-22T20:00:00-0800,Senator Theatre,Chico,CA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-21T20:00:00-0800,Cargo Concert Hall,Reno,NV,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2018-01-20T20:00:00-0800,The Regency Ballroom,San Francisco,CA,US,"['STRFKR', 'Reptaliens', 'Vantana Row']"
+STRFKR,2018-01-19T21:00:00-0800,The Catalyst,Santa Cruz,CA,US,['STRFKR']
+STRFKR,2018-01-19T19:00:00-0800,The Catalyst,Santa Cruz,CA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-12-31T20:00:00-0800,Wonder Ballroom,Portland,OR,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-12-30T20:00:00-0800,Wonder Ballroom,Portland,OR,US,"['STRFKR', 'Minden']"
+STRFKR,2017-11-18T18:00:00-0600,Canton Hall,Dallas,TX,US,"['BoomBox', 'Com Truise', 'STRFKR', 'Phantogram', 'Hippie Sabotage', 'Mystery Skulls', 'Chrome Sparks', 'tomkat', 'Jessie Frye', 'Kaela Sinclair', 'Body English', 'Supersonic Lips', 'Medicine Man Revival', 'Loafers', 'Chrome Sparks (dj set)', 'Cure for Paranoia', 'Left/Right']"
+STRFKR,2017-11-17,The Bomb Factory,Dallas,TX,US,['STRFKR']
+STRFKR,2017-10-06,Rockademy,Bangkok,,Thailand,['STRFKR']
+STRFKR,2017-10-04,Tsutaya O-nest,Shibuya,,Japan,['STRFKR']
+STRFKR,2017-10-03,Conpass,Osaka,,Japan,['STRFKR']
+STRFKR,2017-10-01,Yugong Yishan,Beijing,,China,['STRFKR']
+STRFKR,2017-09-30,T-union,Guangzhou,,China,['STRFKR']
+STRFKR,2017-09-29,MAO Livehouse,Shanghai,,China,['STRFKR']
+STRFKR,2017-09-27,The Wall Live House Gong-Guan,Taipei,,Taiwan,['STRFKR']
+STRFKR,2017-09-01T19:00:00-0600,Metro Music Hall,Salt Lake City,UT,US,"['STRFKR', 'audiotreats', 'Civil Lust', 'Conquer Monster']"
+STRFKR,2017-08-31T12:00:00-0600,The Gateway,Salt Lake City,UT,US,['STRFKR']
+STRFKR,2017-08-26,Cornell University,Ithaca,NY,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-07-15T19:00:00-0500,The Mill & Mine,Knoxville,TN,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-14,Waterfront Park,Louisville,KY,US,['STRFKR']
+STRFKR,2017-07-14T20:00:00-0500,The Revelry Room,Chattanooga,TN,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-13T20:00:00-0400,Terminal West,Atlanta,GA,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-12T19:00:00-0400,Neighborhood Theatre,Charlotte,NC,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-11T20:00:00-0400,Music Farm,Columbia,SC,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-10T20:00:00-0400,The Beacham,Orlando,FL,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-09T20:00:00-0400,The Hangar,Miami,FL,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-08T20:00:00-0400,Orpheum Theatre,Tampa,FL,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-07T19:00:00-0400,Vinyl Music Hall,Pensacola,FL,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-06T20:00:00-0500,The Lyric Oxford,Oxford,MS,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-05T19:00:00-0500,George's Majestic Lounge,Fayetteville,AR,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-03T19:00:00-0500,Emo's Austin,Austin,TX,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-07-01T19:00:00-0600,Aggie Theatre,Fort Collins,CO,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-06-30T21:00:00-0600,Pink Garter Theatre,Jackson,WY,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-06-29T21:00:00-0600,Top Hat,Missoula,MT,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-06-28T20:00:00-0600,The Pub Station,Billings,MT,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-06-26T19:00:00-0500,Fine Line,Minneapolis,MN,US,"['STRFKR', 'Reptaliens']"
+STRFKR,2017-06-24T12:00:00-0500,Oakwood Beach,Chicago,IL,US,['STRFKR']
+STRFKR,2017-05-20T13:00:00-0600,Rino Neighborhood,Denver,CO,US,['STRFKR']
+STRFKR,2017-04-28,Arvest Bank Theatre at The Midland,Kansas City,MO,US,['STRFKR']
+STRFKR,2017-03-31T20:00:00-0700,Fremont Theater,San Luis Obispo,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-30,The Catalyst,Santa Cruz,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-29,Ace of Spades,Sacramento,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-28,Mystic Theatre,Petaluma,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-25,Roseland Theater,Portland,OR,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-24,Showbox at the Market,Seattle,WA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-22,Treefort Music Fest 2017,Boise,ID,US,['STRFKR']
+STRFKR,2017-03-22,The Imperial,Vancouver,BC,Canada,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-20,Commonwealth Bar,Calgary,AB,Canada,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-19,The Needle Vinyl Tavern,Edmonton,AB,Canada,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-18,"Louis' Pub, University of Saskatchewan",Saskatoon,SK,Canada,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-17,Pyramid Cabaret,Winnipeg,MB,Canada,"['STRFKR', 'Psychic Twin', 'Ghost Twin']"
+STRFKR,2017-03-16,Sanctuary Events Center,Fargo,ND,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-15,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-14,The Moxi Theater,Greeley,CO,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-13T22:00:00-0600,Metro Music Hall,Salt Lake City,UT,US,['STRFKR']
+STRFKR,2017-03-13,The Depot,Salt Lake City,UT,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-11,Glass House,Pomona,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-03-10,The Observatory,Santa Ana,CA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-25,Icon Lounge,Sioux Falls,SD,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-24,Majestic Theatre,Madison,WI,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-23,The Ready Room,St Louis,MO,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-22,The Blue Note,Columbia,MO,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-21,Granada Theatre,Lawrence,KS,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-20,Granada Theater - TX,Dallas,TX,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-18,Live Wire Athens,Athens,GA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-17,Cat's Cradle,Carrboro,NC,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-16,Mainstage Morgantown,Morgantown,WV,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-14,Pearl Street Nightclub,Northampton,MA,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-12,Higher Ground,South Burlington,VT,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-11,Waiting Room,Buffalo,NY,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-10T20:30:00-0500,Beachland Ballroom,Cleveland,OH,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-09,Woodward Theater,Cincinnati,OH,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-08,Accord,Champaign,IL,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2017-02-07,The Vogue Theatre,Indianapolis,IN,US,"['STRFKR', 'Psychic Twin']"
+STRFKR,2016-12-09,Club Congress,Tucson,AZ,US,['STRFKR']
+STRFKR,2016-12-09,Club Congress,Tucson,AZ,US,"['STRFKR', 'Barns Courtney', 'DREAMERS (US)']"
+STRFKR,2016-12-03,Exit/In,Nashville,TN,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-12-02,The Orange Peel,Asheville,NC,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-12-01,Jefferson Theater,Charlottesville,VA,US,"['STRFKR', 'Gigamesh', 'Psychic Twin']"
+STRFKR,2016-11-30,9:30 CLUB,Washington,DC,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-29,Union Transfer,Philadelphia,PA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-27,Royale Boston,Boston,MA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-26T19:00:00-0500,Webster Hall,New York (NYC),NY,US,"['STRFKR', 'Gigamesh', 'Psychic Twin']"
+STRFKR,2016-11-25,Music Hall of Williamsburg,Brooklyn,NY,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-24,Théâtre Fairmount,Montreal,QC,Canada,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-23,Lee's Palace,Toronto,ON,Canada,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-22,The Crofoot Ballroom,Pontiac,MI,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-21,Bell's Eccentric Cafe,Kalamazoo,MI,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-20,Thalia Hall,Chicago,IL,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-19,First Avenue,Minneapolis,MN,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-18,Vega,Lincoln,NE,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-17T20:00:00-0700,Gothic Theatre,Englewood,CO,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-15,The Fillmore,San Francisco,CA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-14,The Fillmore,San Francisco,CA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-12T20:00:00-0800,El Rey Theatre,Los Angeles (LA),CA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-11T20:00:00-0800,El Rey Theatre,Los Angeles (LA),CA,US,"['STRFKR', 'Gigamesh', 'Psychic Twin']"
+STRFKR,2016-11-10,The Observatory North Park,San Diego,CA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-09,Crescent Ballroom,Phoenix,AZ,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-05,Paper Tiger,San Antonio,TX,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-04,Sherwood Forest Faire,McDade,TX,US,['STRFKR']
+STRFKR,2016-11-04,White Oak Music Hall,Houston,TX,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-03,Saturn,Birmingham,AL,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-11-02,Terminal West,Atlanta,GA,US,"['STRFKR', 'Psychic Twin', 'Gigamesh']"
+STRFKR,2016-10-22,New Noise Block Party,Santa Barbara,CA,US,"['STRFKR', 'Unknown Mortal Orchestra']"
+STRFKR,2016-08-27T12:00:00-0700,Tom McCall Waterfront Park,Portland,OR,US,['STRFKR']
+STRFKR,2016-08-27T12:00:00-0700,Tom McCall Waterfront Park,Portland,OR,US,"['Ice Cube', 'Nathaniel Rateliff & The Night Sweats', 'STRFKR', 'A$AP Ferg', 'Andrew W.K.', 'Lizzo', 'The Coathangers', 'Kyle Craft', 'Tame Impala', 'Ween', 'Drive Like Jehu', 'Unknown Mortal Orchestra', 'Parquet Courts', 'Sheer Mag', 'Hop Along', 'Diarrhea Planet', 'Tenement']"
+STRFKR,2016-07-22,Capitol Hill Block Party 2016,Seattle,WA,US,['STRFKR']
+STRFKR,2016-07-21,Neumos,Seattle,WA,US,['STRFKR']
+STRFKR,2016-05-28,Cleveland Square Park,El Paso,TX,US,['STRFKR']
+STRFKR,2016-05-28T20:00:00-0700,Brooklyn Bowl - Las Vegas,Las Vegas,NV,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-27,Green Room,Flagstaff,AZ,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-26,Marquee Theatre,Tempe,AZ,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-24,Cain's Ballroom,Tulsa,OK,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-23,"1884 Lounge, Minglewood Hall",Memphis,TN,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-22,Republic NOLA,New Orleans,LA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-20,Centennial Olympic Park,Atlanta,GA,US,['STRFKR']
+STRFKR,2016-05-19,Orpheum Theatre,Tampa,FL,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-18,Culture Room,Fort Lauderdale,FL,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-17,The Beacham,Orlando,FL,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-16,Music Farm,Charleston,SC,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-15,Neighborhood Theatre,Charlotte,NC,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-14,The National,Richmond,VA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-13,Rams Head Live!,Baltimore,MD,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-12,College Street Music Hall,New Haven,CT,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-11,Altar Bar,Pittsburgh,PA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-10,Skully's Music Diner,Columbus,OH,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-09,Turner Hall Ballroom,Milwaukee,WI,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-08,Majestic Theatre,Madison,WI,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-07T19:00:00-0500,recordBar,Kansas City,MO,US,"['STRFKR', 'Com Truise', 'Fake Drugs', 'Hipshot Killer', 'SISTERS OF']"
+STRFKR,2016-05-06,Wooly's,Des Moines,IA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-05,Icon Lounge,Sioux Falls,SD,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-05-04,Middle of the Map Festival 2016,Kansas City,MO,US,['STRFKR']
+STRFKR,2016-04-08,Williwaw,Anchorage,AK,US,"['STRFKR', 'Turquoise Boy', 'Jacob Mattie']"
+STRFKR,2016-02-27,El Rey Theater,Albuquerque,NM,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-26,Black Sheep,Colorado Springs,CO,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-25,Boulder Theater,Boulder,CO,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-24,Aggie Theatre,Fort Collins,CO,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-23,The Depot,Salt Lake City,UT,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-22T20:00:00-0700,Urban Lounge,Salt Lake City,UT,US,"['STRFKR', 'Com Truise']"
+STRFKR,2016-02-21,Knitting Factory - Boise,Boise,ID,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-20,Top Hat,Missoula,MT,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-19,Knitting Factory Concert House - Spokane,Spokane,WA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-18,Neumos,Seattle,WA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-17,WOW Hall,Eugene,OR,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-16T20:30:00-0800,Wonder Ballroom,Portland,OR,US,"['STRFKR', 'Nurses', 'Fake Drugs']"
+STRFKR,2016-02-15,Ace of Spades,Sacramento,CA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-14,Cargo Concert Hall,Reno,NV,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-13,Majestic Ventura Theater,Ventura,CA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-12,The Observatory North Park,San Diego,CA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-11,The Observatory,Santa Ana,CA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2016-02-10,Glass House,Pomona,CA,US,"['STRFKR', 'Com Truise', 'Fake Drugs']"
+STRFKR,2015-12-31T20:00:00-0800,Teragram Ballroom,Los Angeles (LA),CA,US,"['STRFKR', 'Drug Cabin']"
+STRFKR,2015-12-13,Yu Gong Yi Shan (愚公移山),Beijing,,China,['STRFKR']
+STRFKR,2015-12-12,MAO Livehouse,Shanghai,,China,['STRFKR']
+STRFKR,2015-12-11,Y-UNION,Guangzhou,,China,['STRFKR']
+STRFKR,2015-12-09,Tsutaya O-nest,Shibuya,,Japan,['STRFKR']
+STRFKR,2015-12-08,Tsutaya O-nest,Shibuya,,Japan,['STRFKR']
+STRFKR,2015-12-07,Perversion Chika Ikkai,Osaka,,Japan,['STRFKR']
+STRFKR,2015-12-06,Helluva Lounge,Kobe,,Japan,['STRFKR']
+STRFKR,2015-12-05,Neo Brotherz,Sendai,,Japan,['STRFKR']
+STRFKR,2015-12-01T20:00:00-1000,The Republik,Honolulu,HI,US,['STRFKR']
+STRFKR,2015-08-08T21:00:00-0700,Mezzanine,San Francisco,CA,US,"['Classixx', 'STRFKR', 'Aaron Axelsen']"
+STRFKR,2015-07-23,Underground Music Showcase,Denver,CO,US,['STRFKR']
+STRFKR,2015-07-23,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-07-21T21:30:00-0500,Bear's on Fairfield,Shreveport,LA,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-07-20,Fitzgerald's,Houston,TX,US,"['STRFKR', 'Shy Boys', 'Telephantom']"
+STRFKR,2015-07-19,Paper Tiger,San Antonio,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-07-18T20:00:00-0500,Trees,Dallas,TX,US,"['STRFKR', 'Giraffage', 'Shy Boys', 'Basement', 'Roosevelt']"
+STRFKR,2015-07-17,Mohawk - Indoor,Austin,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-07-16T22:00:00-0500,Lowbrow Palace,El Paso,TX,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-07-15T20:00:00-0700,The Rialto Theatre,Tucson,AZ,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2015-06-07T13:00:00-0700,Phoenix Hotel,San Francisco,CA,US,['STRFKR']
+STRFKR,2015-03-27,McDowell Mountain Music Festival 2015,Phoenix,AZ,US,['STRFKR']
+STRFKR,2015-03-14T12:00:00-0700,Waterfront Park,San Diego,CA,US,['STRFKR']
+STRFKR,2014-12-31T21:00:00-0800,The Independent,San Francisco,CA,US,"['STRFKR', 'Trails and Ways', 'Vin Sol']"
+STRFKR,2014-12-30T20:00:00-0800,The Independent,San Francisco,CA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2014-12-29T20:00:00-0800,The Independent,San Francisco,CA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2014-12-06T20:00:00-0500,Beacon Theatre,New York (NYC),NY,US,"['Cyndi Lauper', '50 Cent', 'Sufjan Stevens', 'Patty Griffin', 'Salt-N-Pepa', 'Liv Warfield', 'STRFKR', 'Emily West']"
+STRFKR,2014-10-11,The Beach at Governors Island,New York (NYC),NY,US,['STRFKR']
+STRFKR,2014-09-21T15:30:00-0700,PNE Amphitheatre,Vancouver,BC,Canada,"['Diplo', 'Dillon Francis', 'DJ Snake', 'STRFKR', 'Bear Mountain', 'Flosstradamus', 'Fatboy Slim']"
+STRFKR,2014-09-19T18:00:00-0700,Greek Theatre,Berkeley,CA,US,"['Diplo', 'Cashmere Cat', 'Dillon Francis', 'Fatboy Slim', 'Flosstradamus', 'STRFKR']"
+STRFKR,2014-09-14,East Village Lot,San Diego,CA,US,['STRFKR']
+STRFKR,2014-09-14T14:00:00-0700,LED,San Diego,CA,US,"['Diplo', 'STRFKR']"
+STRFKR,2014-09-12T17:25:00-0700,Rawhide Western Town & Event Center,Chandler,AZ,US,"['Zeds Dead', 'Diplo', 'Dillon Francis', 'Flosstradamus', 'Big Gigantic', 'STRFKR', 'Cashmere Cat', 'Thurz']"
+STRFKR,2014-09-12T20:00:00-0700,Rawhide Western Town & Event Center,Chandler,AZ,US,['STRFKR']
+STRFKR,2014-08-31,Float Fest 2014,San Marcos,TX,US,['STRFKR']
+STRFKR,2014-08-30T19:30:00-0500,"South Side Ballroom, Gilley's",Dallas,TX,US,"['Grouplove', 'Portugal. The Man', 'STRFKR']"
+STRFKR,2014-08-29,CrossroadsKC,Kansas City,MO,US,"['Portugal. The Man', 'STRFKR', 'Grouplove']"
+STRFKR,2014-08-27T19:00:00-0500,Simon Estes Riverfront Amphitheater,Des Moines,IA,US,"['Grouplove', 'Portugal. The Man', 'STRFKR']"
+STRFKR,2014-08-26,The District,Sioux Falls,SD,US,"['STRFKR', 'Shy Boys']"
+STRFKR,2014-08-24T18:30:00-0500,"Eagles Ballroom, The Rave/Eagles Club",Milwaukee,WI,US,"['Grouplove', 'Portugal. The Man', 'STRFKR']"
+STRFKR,2014-08-22T19:00:00-0500,"Stir Concert Cove, Harrah's Council Bluffs Casino & Hotel",Council Bluffs,IA,US,"['Portugal. The Man', 'Grouplove', 'STRFKR']"
+STRFKR,2014-08-21T19:30:00-0600,Red Rocks Amphitheatre,Morrison,CO,US,"['Grouplove', 'Portugal. The Man', 'STRFKR']"
+STRFKR,2014-08-20T21:30:00-0600,Belly Up Aspen,Aspen,CO,US,['STRFKR']
+STRFKR,2014-08-07T19:00:00-0700,Whitehorse Mountain Amphitheater,Darrington,WA,US,['STRFKR']
+STRFKR,2014-08-02T20:00:00-0700,Neumos,Seattle,WA,US,['STRFKR']
+STRFKR,2014-07-13T20:00:00-0400,Winston Farm,Saugerties,NY,US,['STRFKR']
+STRFKR,2014-06-27T20:00:00-0700,DNA Lounge,San Francisco,CA,US,"['STRFKR', 'Solidisco', 'Slaptop']"
+STRFKR,2014-06-19T19:00:00-0400,House of Vans,Brooklyn,NY,US,"['STRFKR', 'Poolside', 'Chrome Sparks']"
+STRFKR,2014-04-18T12:00:00-0700,Empire Polo Club,Indio,CA,US,['STRFKR']
+STRFKR,2014-04-11T23:59:20-0700,Empire Polo Club,Indio,CA,US,['STRFKR']
+STRFKR,2014-04-11T19:30:00-0700,SLO Brew,San Luis Obispo,CA,US,"['STRFKR', 'Painted Palms']"
+STRFKR,2014-04-09T20:00:00-0700,The Roxy Theatre,West Hollywood,CA,US,"['STRFKR', 'Painted Palms', 'DJ Beyondadoubt']"
+STRFKR,2014-04-04T14:00:00-0600,Sports Authority Field at Mile High,Denver,CO,US,['STRFKR']
+STRFKR,2013-12-31T20:00:00-0800,Neumos,Seattle,WA,US,"['STRFKR', 'Teen Daze']"
+STRFKR,2013-12-30T20:00:00-0800,Neumos,Seattle,WA,US,"['STRFKR', 'Teen Daze']"
+STRFKR,2013-12-03T20:30:00+0100,Molotow,Hamburg,,Germany,"['STRFKR', 'Electric Ocean People']"
+STRFKR,2013-12-02T21:00:00+0100,Musik & Frieden,Berlin,,Germany,"['STRFKR', 'Electric Ocean People']"
+STRFKR,2013-12-01T21:00:00+0100,Puschkin Club,Dresden,,Germany,"['STRFKR', 'Electric Ocean People']"
+STRFKR,2013-11-28T19:00:00+0100,Hydrozagadka,Warsaw,,Poland,['STRFKR']
+STRFKR,2013-11-26T20:30:00+0100,MeetFactory,Prague,,Czech Republic,['STRFKR']
+STRFKR,2013-11-25T22:00:00+0100,Chelsea,Vienna,,Austria,['STRFKR']
+STRFKR,2013-11-21T20:30:00+0100,KiFF,Aarau,,Switzerland,"['STRFKR', 'Alvin Zealot']"
+STRFKR,2013-11-18T19:00:00+0000,The Bodega,Nottingham,,UK,['STRFKR']
+STRFKR,2013-11-17T19:30:00+0000,Deaf Institute,Manchester,,UK,['STRFKR']
+STRFKR,2013-11-16T19:00:00+0000,Electric Circus,Edinburgh,,UK,['STRFKR']
+STRFKR,2013-11-14T19:30:00+0000,The Sunflower Lounge,Birmingham,,UK,['STRFKR']
+STRFKR,2013-11-13T20:00:00+0000,Hoxton Square Bar & Kitchen,London,,UK,"['STRFKR', 'Deafkid']"
+STRFKR,2013-11-11T20:00:00+0100,La Péniche,Lille,,France,['STRFKR']
+STRFKR,2013-11-10T20:00:00+0100,Point Éphémère,Paris,,France,"['STRFKR', 'Yucca Velux']"
+STRFKR,2013-11-05T21:00:00+0100,Gleis 22,Münster,,Germany,['STRFKR']
+STRFKR,2013-11-03T21:00:00+0100,Pumpehuset,Copenhagen,,Denmark,['STRFKR']
+STRFKR,2013-11-01T22:00:00+0100,Debaser Strand,Stockholm,,Sweden,['STRFKR']
+STRFKR,2013-10-23T20:00:00-0700,Glass House,Pomona,CA,US,"['STRFKR', 'Chrome Sparks']"
+STRFKR,2013-10-22T20:00:00-0700,Avalon,Hollywood,CA,US,"['STRFKR', 'Chrome Sparks']"
+STRFKR,2013-10-19T12:00:00-0700,Treasure Island Music Festival 2013,San Francisco,CA,US,['STRFKR']
+STRFKR,2013-10-18T21:00:00-0700,WOW Hall,Eugene,OR,US,['STRFKR']
+STRFKR,2013-10-17,McMenamins Crystal Ballroom,Portland,OR,US,['STRFKR']
+STRFKR,2013-10-16T20:00:00-0600,Knitting Factory - Boise,Boise,ID,US,"['STRFKR', 'Chrome Sparks', 'Big Gigantic', 'Beats Antique', 'Zeds Dead', 'Gramatik', 'Ill-Esha', 'Morgan Page']"
+STRFKR,2013-10-14T20:00:00-0600,Gothic Theatre,Englewood,CO,US,['STRFKR']
+STRFKR,2013-10-12T20:00:00-0500,Trees,Dallas,TX,US,"['Chrome Sparks', 'Feelings', 'STRFKR']"
+STRFKR,2013-10-11T22:00:00-0500,Emo's Austin,Austin,TX,US,"['STRFKR', 'Bear Mountain', 'Chrome Sparks']"
+STRFKR,2013-09-28T21:00:00-0400,Jefferson Theater,Charlottesville,VA,US,"['STRFKR', 'Chrome Sparks']"
+STRFKR,2013-09-27T21:00:00-0400,Cat's Cradle,Carrboro,NC,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-25T20:00:00-0400,The Social,Orlando,FL,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-24T22:00:00-0400,Grand Central,Miami,FL,US,"['STRFKR', 'Chrome Sparks', 'Waze & Odyssey']"
+STRFKR,2013-09-22T20:00:00-0400,Music Farm,Charleston,SC,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-21T21:00:00-0400,40 Watt Club,Athens,GA,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-20T20:00:00-0500,Exit/In,Nashville,TN,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-20T21:00:00-0500,Exit/In,Nashville,TN,US,['STRFKR']
+STRFKR,2013-09-19T18:30:00-0500,Off Broadway,St Louis,MO,US,"['STRFKR', 'Chrome Sparks']"
+STRFKR,2013-09-18T20:00:00-0400,Bluebird,Bloomington,IN,US,"['STRFKR', 'Chrome Sparks', 'Feelings']"
+STRFKR,2013-09-17T21:00:00-0500,Metro,Chicago,IL,US,['STRFKR']
+STRFKR,2013-09-15T20:00:00-0400,The Crofoot Ballroom,Pontiac,MI,US,"['STRFKR', 'Small Black']"
+STRFKR,2013-09-14T19:00:00-0400,The Opera House,Toronto,ON,Canada,['STRFKR']
+STRFKR,2013-09-14T20:00:00-0400,The Opera House,Toronto,ON,Canada,"['STRFKR', 'Small Black', 'Feelings']"
+STRFKR,2013-09-12T20:00:00-0400,Higher Ground,South Burlington,VT,US,['STRFKR']
+STRFKR,2013-09-10T20:00:00-0400,Port City Music Hall,Portland,ME,US,['STRFKR']
+STRFKR,2013-09-09T19:00:00-0400,Royale Boston,Boston,MA,US,['STRFKR']
+STRFKR,2013-09-08T20:00:00-0400,Toad's Place,New Haven,CT,US,"['STRFKR', 'Small Black', 'Feelings']"
+STRFKR,2013-09-07T19:00:00-0400,Terminal 5,New York (NYC),NY,US,"['STRFKR', 'Small Black', 'Com Truise']"
+STRFKR,2013-09-06T20:30:00-0400,Union Transfer,Philadelphia,PA,US,"['STRFKR', 'Small Black', 'Feelings']"
+STRFKR,2013-09-04T19:00:00-0400,9:30 CLUB,Washington,DC,US,"['STRFKR', 'Small Black', 'Feelings']"
+STRFKR,2013-09-03T20:00:00-0400,Altar Bar,Pittsburgh,PA,US,"['STRFKR', 'Small Black', 'Feelings']"
+STRFKR,2013-08-24T15:15:00-0700,Los Angeles State Historic Park,Los Angeles (LA),CA,US,['STRFKR']
+STRFKR,2013-08-10,Somerset Amphitheater,Somerset,WI,US,['STRFKR']
+STRFKR,2013-07-26T12:00:00-0700,Capitol Hill Block Party,Seattle,WA,US,['STRFKR']
+STRFKR,2013-07-25T20:00:00-0700,Fortune Sound Club,Vancouver,BC,Canada,"['STRFKR', 'Fine Times']"
+STRFKR,2013-06-13,Beauty Bar,Las Vegas,NV,US,"['STRFKR', 'Wampire']"
+STRFKR,2013-06-12T20:00:00-0700,Fulton 55,Fresno,CA,US,"['Starf', 'STRFKR', 'Wampire', 'Feelings']"
+STRFKR,2013-06-11T20:00:00-0700,Knitting Factory - Reno,Reno,NV,US,"['STRFKR', 'Wampire', 'Feelings']"
+STRFKR,2013-06-10,Urban Lounge,Salt Lake City,UT,US,"['Wampire', 'STRFKR']"
+STRFKR,2013-06-08T19:00:00-0600,Snowmass Town Park,Snowmass Village,CO,US,['STRFKR']
+STRFKR,2013-06-08T18:00:00-0600,Snowmass Town Park,Snowmass Village,CO,US,"['Lord Huron', 'STRFKR', 'The Joy Formidable', 'AWOLNATION', 'JJ Grey & Mofro', 'The Green']"
+STRFKR,2013-06-06,Launchpad,Albuquerque,NM,US,"['STRFKR', 'Wampire']"
+STRFKR,2013-06-05T20:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Wampire', 'STRFKR', 'Feelings']"
+STRFKR,2013-06-04T20:00:00-0700,Club Congress,Tucson,AZ,US,"['Wampire', 'STRFKR', 'Feelings']"
+STRFKR,2013-05-25T12:00:00-0500,Cleveland Square Park,El Paso,TX,US,['STRFKR']
+STRFKR,2013-03-24T21:00:00-0500,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-23T21:00:00-0500,Boonies Bar & BBQ,Sioux Falls,SD,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-22T20:00:00-0500,Varsity Theater,Minneapolis,MN,US,"['STRFKR', 'Blackbird Blackbird', 'Starf', 'Cker']"
+STRFKR,2013-03-21T21:00:00-0500,Majestic Theatre,Madison,WI,US,"['Blackbird Blackbird', 'Starf', 'Cker', 'STRFKR']"
+STRFKR,2013-03-20T19:00:00-0500,Turner Hall Ballroom,Milwaukee,WI,US,"['STRFKR', 'Blackbird Blackbird', 'Starf', 'Cker']"
+STRFKR,2013-03-19T21:00:00-0500,Metro,Chicago,IL,US,"['Blackbird Blackbird', 'STRFKR']"
+STRFKR,2013-03-18T20:00:00-0400,Beachland Ballroom,Cleveland,OH,US,"['STRFKR', 'Trust', 'Blackbird Blackbird', 'Starf', 'Cker']"
+STRFKR,2013-03-16T21:00:00-0400,Paradise Rock Club,Boston,MA,US,"['STRFKR', 'Blackbird Blackbird', 'Starf', 'Cker']"
+STRFKR,2013-03-15T23:30:00-0400,Webster Hall,New York (NYC),NY,US,"['STRFKR', 'Blackbird Blackbird', 'Cker']"
+STRFKR,2013-03-14T20:30:00-0400,Union Transfer,Philadelphia,PA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-13T19:00:00-0400,9:30 CLUB,Washington,DC,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-12T21:00:00-0400,The Orange Peel,Asheville,NC,US,"['STRFKR', 'Blackbird Blackbird', 'Starf', 'Cker']"
+STRFKR,2013-03-11T21:00:00-0400,Terminal West,Atlanta,GA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-10T19:30:00-0400,Vinyl Music Hall,Pensacola,FL,US,"['STRFKR', 'Str Fkr', 'Blackbird Blackbird']"
+STRFKR,2013-03-09T15:00:00-0600,Mardi Gras World,New Orleans,LA,US,['STRFKR']
+STRFKR,2013-03-08T17:00:00-0600,2727 Canal,Houston,TX,US,"['Super Mash Bros.', 'Devin The Dude', 'Dann Halen', 'Sideshow Tramps', 'A Fistful of Soul', 'Hates', 'Venomous Maximus', 'Wild Moccasins', 'STRFKR']"
+STRFKR,2013-03-07T21:00:00-0600,Red 7,Austin,TX,US,"['STRFKR', 'Sip Sip', 'White Walls']"
+STRFKR,2013-03-07T20:00:00-0600,Mohawk - Indoor,Austin,TX,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-03T20:00:00-0800,The Stage @ Porter's Pub,La Jolla,CA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-02T20:00:00-0800,Fonda Theatre,Los Angeles (LA),CA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-03-01,The Regency Ballroom,San Francisco,CA,US,['STRFKR']
+STRFKR,2013-03-01T21:00:00-0800,The Regency Ballroom,San Francisco,CA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-02-27,Roseland Theater,Portland,OR,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-02-26T20:00:00-0800,Neptune Theatre,Seattle,WA,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2013-02-16T21:00:00+0100,Club Tante JU,Dresden,,Germany,['STRFKR']
+STRFKR,2012-11-21T19:30:00-0800,The Viper Room,West Hollywood,CA,US,"['Starfuckers', 'Rockett Queens', 'And Love', 'Love and a .38', 'STRFKR']"
+STRFKR,2012-11-08,Green Room,Flagstaff,AZ,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-11-07,Crescent Ballroom,Phoenix,AZ,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-11-06T19:00:00-0700,Sol Stage & Grill,Santa Fe,NM,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-11-05T21:00:00-0600,Lowbrow Palace,El Paso,TX,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-11-03T11:30:00-0500,Fun Fun Fun Fest,Austin,TX,US,['STRFKR']
+STRFKR,2012-11-02T11:30:00-0500,Auditorium Shores,Austin,TX,US,['STRFKR']
+STRFKR,2012-11-02,Trees,Dallas,TX,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-11-01T19:00:00-0500,Revolution Music Room (Rev Room),Little Rock,AR,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-31T19:00:00-0500,Cain's Ballroom,Tulsa,OK,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-30T20:00:00-0500,The Blue Note,Columbia,MO,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-29T20:30:00-0500,Granada Theatre,Lawrence,KS,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-27,Bluebird Theater,Denver,CO,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-25T21:00:00-0600,Urban Lounge,Salt Lake City,UT,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-25T18:00:00-0600,Kilby Court,Salt Lake City,UT,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-23,The Reef,Boise,ID,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-22T19:00:00-0700,BellTower Event Venue & Performance Center,Pullman,WA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-21T19:00:00-0700,A Club,Spokane,WA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-20,Wild Buffalo,Bellingham,WA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-19T20:30:00-0700,WOW Hall,Eugene,OR,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-17,Harlow's,Sacramento,CA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-16,SLO Brew,San Luis Obispo,CA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-15,SOhO Restaurant & Music Club,Santa Barbara,CA,US,"['STRFKR', 'Onuinu']"
+STRFKR,2012-10-13,Central Social Aid & Pleasure Club (Central SPAC),Santa Monica,CA,US,"['Zak Waters', 'STRFKR', 'Steffi Graff', 'Mystery Skulls']"
+STRFKR,2012-09-28,Riverside,Riverside,CA,US,"['Nelly', 'Cold War Kids', 'Dom Kennedy', 'STRFKR']"
+STRFKR,2012-09-10T20:00:00-0700,"The Lodge, Regency Center",San Francisco,CA,US,['STRFKR']
+STRFKR,2012-09-08T20:00:00-0700,Pioneer Square,Portland,OR,US,"['Au', 'Girl Talk', 'STRFKR']"
+STRFKR,2012-06-17T19:00:00-0400,Warsaw,Brooklyn,NY,US,['STRFKR']
+STRFKR,2012-06-17T21:00:00-0400,Warsaw,Brooklyn,NY,US,['STRFKR']
+STRFKR,2012-06-02T11:00:00-0500,Eleanor Tinsley Park,Houston,TX,US,['STRFKR']
+STRFKR,2012-06-02T11:00:00-0500,Eleanor Tinsley Park,Houston,TX,US,"['Major Lazer', 'Best Coast', 'Maps & Atlases', 'Big Sleep', 'Sundress', 'Phantogram', 'Willie Nelson', 'Snoop Dogg', 'The Avett Brothers', 'Afrojack', 'Diplo', 'Primus', 'The Flaming Lips', 'STRFKR']"
+STRFKR,2012-05-31,Dallas Contemporary,Dallas,TX,US,"['Onra', 'Ben Aqua', 'STRFKR']"
+STRFKR,2012-05-31T20:30:00-0500,Contemporary Theater of Dallas,Dallas,TX,US,['STRFKR']
+STRFKR,2012-05-28T11:00:00-0700,Gorge Amphitheatre,George,WA,US,['STRFKR']
+STRFKR,2012-05-24T20:00:00-0700,Branx,Portland,OR,US,"['STRFKR', 'Wampire', 'Fake Drugs', 'Unknown Mortal Orchestra']"
+STRFKR,2012-05-04,"The Hub, UC Santa Barbara",Santa Barbara,CA,US,['STRFKR']
+STRFKR,2012-03-24T12:00:00-0700,The Den,Las Vegas,NV,US,['STRFKR']
+STRFKR,2012-03-24,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Blackbird Blackbird']"
+STRFKR,2012-02-25,University of Southern California (USC),Los Angeles (LA),CA,US,"['STRFKR', 'Nosaj Thing', 'White Fence', 'Trmrs', 'Only You', 'Gothic Tropic', 'Fiore']"
+STRFKR,2012-02-23T20:00:00-0800,The Observatory,Santa Ana,CA,US,['STRFKR']
+STRFKR,2012-01-20T21:00:00-0500,Bardot,Miami,FL,US,"['STRFKR', '12012', 'ALEXICO']"
+STRFKR,2012-01-19T20:00:00-0500,Backbooth,Orlando,FL,US,"['STRFKR', 'ALEXICO']"
+STRFKR,2012-01-18,The Engine Room,Tallahassee,FL,US,['STRFKR']
+STRFKR,2012-01-17T22:00:00-0600,One Eyed Jacks,New Orleans,LA,US,"['STRFKR', 'Painted Palms', 'ALEXICO']"
+STRFKR,2012-01-15T20:00:00-0600,Fitzgerald's,Houston,TX,US,"['STRFKR', 'Painted Palms', 'Cass McCombs', 'Frank Fairfield', 'ALEXICO', 'Starf']"
+STRFKR,2012-01-14T21:00:00-0600,Mohawk - Indoor,Austin,TX,US,"['STRFKR', 'Painted Palms', 'ALEXICO']"
+STRFKR,2012-01-13T21:00:00-0600,Prophet Bar Elm Street,Dallas,TX,US,"['STRFKR', 'Painted Palms', 'ALEXICO']"
+STRFKR,2012-01-11,VFW Post 2951,Santa Fe,NM,US,"['Painted Palms', 'STRFKR']"
+STRFKR,2012-01-10T20:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['STRFKR', 'Painted Palms']"
+STRFKR,2012-01-09T20:30:00-0800,Casbah,San Diego,CA,US,"['STRFKR', 'Painted Palms']"
+STRFKR,2012-01-08T19:00:00-0800,Glass House,Pomona,CA,US,"['STRFKR', 'Painted Palms']"
+STRFKR,2012-01-07T21:00:00-0800,The Independent,San Francisco,CA,US,"['STRFKR', 'Painted Palms', 'Feelings']"
+STRFKR,2012-01-06T21:00:00-0800,Great American Music Hall,San Francisco,CA,US,"['STRFKR', 'Painted Palms', 'Feelings']"
+STRFKR,2012-01-05T20:30:00-0800,The Catalyst,Santa Cruz,CA,US,"['STRFKR', 'Painted Palms']"
+STRFKR,2012-01-04T21:00:00-0800,The New Parish,Oakland,CA,US,"['STRFKR', 'Painted Palms', 'Feelings']"
+STRFKR,2011-12-31T20:00:00-0800,The Crocodile - Old Location,Seattle,WA,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-12-10,Parkteatret,Oslo,,Norway,['STRFKR']
+STRFKR,2011-12-09,"Klubb Din Mamma, Nationernas Hus",Linköping,,Sweden,['STRFKR']
+STRFKR,2011-12-08,Debaser Malmö,Malmö,,Sweden,['STRFKR']
+STRFKR,2011-12-07,Debaser Slussen,Stockholm,,Sweden,['STRFKR']
+STRFKR,2011-12-06,Vestergade 58 (V58),Aarhus,,Denmark,['STRFKR']
+STRFKR,2011-12-04T22:00:00+0100,Paradiso Kleine Zaal,Amsterdam,,Netherlands,['STRFKR']
+STRFKR,2011-12-04T21:00:00+0100,Gebäude 9,Cologne,,Germany,"['STRFKR', 'Mister Heavenly']"
+STRFKR,2011-12-03,Grammatikoff,Duisburg,,Germany,"['STRFKR', 'Petula']"
+STRFKR,2011-12-01T20:00:00+0100,Schlachthof Wiesbaden,Wiesbaden,,Germany,"['Gold Panda', 'Petula', 'STRFKR']"
+STRFKR,2011-11-29T20:00:00+0000,Madame JoJo's,London,,UK,"['Com Truise', 'STRFKR', 'Victoria & Jacob']"
+STRFKR,2011-11-28,L'Espace B,Paris,,France,"['STRFKR', 'Dead Sea Lions']"
+STRFKR,2011-11-26,L'Amalgame,Yverdon-Les-Bains,,Switzerland,['STRFKR']
+STRFKR,2011-11-25,Royal,Baden,,Switzerland,['STRFKR']
+STRFKR,2011-11-24,Kino Šiška (Centre for Urban Culture),Ljubljana,,Slovenia,['STRFKR']
+STRFKR,2011-11-23,B72,Vienna,,Austria,['STRFKR']
+STRFKR,2011-11-22,Down Under,Innsbruck,,Austria,['STRFKR']
+STRFKR,2011-11-19,Postbahnhof (PBHFCLUB),Berlin,,Germany,['STRFKR']
+STRFKR,2011-10-05T20:00:00-0700,Wonder Ballroom,Portland,OR,US,"['The Pains of Being Pure at Heart', 'STRFKR', 'Big Troubles', 'ALEXICO']"
+STRFKR,2011-10-03,Badlander,Missoula,MT,US,['STRFKR']
+STRFKR,2011-09-30,The Vault,Sioux Falls,SD,US,['STRFKR']
+STRFKR,2011-09-29,The Cave,Northfield,MN,US,['STRFKR']
+STRFKR,2011-09-28T19:00:00-0500,Turner Hall Ballroom,Milwaukee,WI,US,"['STRFKR', 'ALEXICO']"
+STRFKR,2011-09-27T19:00:00-0500,Lincoln Hall,Chicago,IL,US,"['STRFKR', 'Beat Connection', 'ALEXICO']"
+STRFKR,2011-09-26T19:00:00-0500,Lincoln Hall,Chicago,IL,US,"['STRFKR', 'Beat Connection', 'ALEXICO']"
+STRFKR,2011-09-24,High Dive,Champaign,IL,US,"['Someone Still Loves You Boris Yeltsin', 'Joan of Arc', 'Deerhoof', 'Asobi Seksu', 'Owen', 'STRFKR', 'Xiu Xiu', 'Japandroids', 'Braid']"
+STRFKR,2011-09-21,Pygmalion Music Festival 2011,Urbana,IL,US,['STRFKR']
+STRFKR,2011-09-21,Majestic Theatre,Detroit,MI,US,"['STRFKR', 'Beat Connection']"
+STRFKR,2011-09-21T20:00:00-0400,Magic Stick,Detroit,MI,US,['STRFKR']
+STRFKR,2011-09-20T20:00:00-0400,Lee's Palace,Toronto,ON,Canada,['STRFKR']
+STRFKR,2011-09-19,Bar le Ritz PDB,Montreal,QC,Canada,['STRFKR']
+STRFKR,2011-09-18T21:00:00-0400,The Middle East - Downstairs,Cambridge,MA,US,"['Alex Goot', 'Lovewhip', 'STRFKR', 'Beat Connection', 'Tiffany Alvord', 'Luke Conard', 'Heroes By Day', 'ALEXICO']"
+STRFKR,2011-09-17T20:30:00-0400,Bowery Ballroom,New York (NYC),NY,US,"['STRFKR', 'Beat Connection', 'ALEXICO']"
+STRFKR,2011-09-16T20:00:00-0400,Knitting Factory - Brooklyn,Brooklyn,NY,US,"['STRFKR', 'Beat Connection', 'ALEXICO']"
+STRFKR,2011-09-13T20:00:00-0400,First Unitarian Church,Philadelphia,PA,US,"['STRFKR', 'Beat Connection', 'Moon Women', 'ALEXICO']"
+STRFKR,2011-09-12T20:00:00-0400,Black Cat,Washington,DC,US,"['STRFKR', 'Beat Connection', 'ALEXICO']"
+STRFKR,2011-09-11T21:00:00-0400,Cat's Cradle,Carrboro,NC,US,['STRFKR']
+STRFKR,2011-09-10T20:00:00-0400,The Masquerade - Hell,Atlanta,GA,US,"['STRFKR', 'Beat Connection']"
+STRFKR,2011-09-09T21:00:00-0500,12th and Porter,Nashville,TN,US,"['STRFKR', 'Beat Connection', 'The Connection', 'ALEXICO']"
+STRFKR,2011-09-07T21:00:00-0600,Bluebird Theater,Denver,CO,US,"['Beat Connection', 'ALEXICO', 'STRFKR']"
+STRFKR,2011-09-06,Urban Lounge,Salt Lake City,UT,US,['STRFKR']
+STRFKR,2011-09-05,Kilby Court,Salt Lake City,UT,US,['STRFKR']
+STRFKR,2011-09-04T21:00:00-0600,The Reef,Boise,ID,US,"['STRFKR', 'Beat Connection']"
+STRFKR,2011-09-04T20:00:00-0600,Neurolux Lounge,Boise,ID,US,['STRFKR']
+STRFKR,2011-09-03T03:30:00-0700,Bumbershoot 2011,Seattle,WA,US,['STRFKR']
+STRFKR,2011-09-02T21:30:00-0700,Electric Owl Social Club,Vancouver,BC,Canada,['STRFKR']
+STRFKR,2011-08-12T23:59:20-0700,Outside Lands Music & Arts Festival 2011,San Francisco,CA,US,['STRFKR']
+STRFKR,2011-08-11T20:00:00-0700,El Rey Theatre,Los Angeles (LA),CA,US,"['STRFKR', 'Melted Toys']"
+STRFKR,2011-08-10,SOhO Restaurant & Music Club,Santa Barbara,CA,US,['STRFKR']
+STRFKR,2011-07-29,OneFiveOne,Wollongong,NSW,Australia,['STRFKR']
+STRFKR,2011-07-17,Valkhofpark,Nijmegen,,Netherlands,"['Cloud Control', '2562', 'Aux Raus', 'Bedroom Monkees', 'Birth of Joy', 'Black Bottle Riot', 'Blues Brother Castro', 'Bob Fosko', ""Chef'Special"", 'De Kift', 'Eefje', 'Eins Zwei Orchestra', 'Eklin', 'Jah6', 'Knalpot', 'Krach', 'la Boutique Fantastique', 'Memphis Maniacs', 'No Blues', 'Obeah', 'Pien Feith', 'Pitto', 'Pop Up Animal Kids', 'Roy Santiago', 'Ruben Hein', 'Shaking Godspeed', 'The Black Atlantic', 'Phantom Four & the Arguido', 'Vanderbuyst', 'About Group', 'Architecture In Helsinki', 'Aucan', 'Avi Buffalo', 'Bibio', 'blackie & the oohoos', 'C.w. Stoneking & His Primitive Horn Orchestra', ""Charlie Jones' Big Band"", 'Crocodiles', 'Dagoba', 'Dananananaykroyd', 'Dirty Beaches', 'Edward Sharpe & The Magnetic Zeros', 'Eskmo', 'Fenech-Soler', 'Gesaffelstein', 'Hauschka', 'James Vincent McMorrow', 'Jamie Woon', 'Kap Bambino', 'Keko Yoma', 'Mama Rosin', 'MDC', 'Mike Dehnert', 'Mount Kimbie', 'Palmbomen', 'Pete and The Pirates', 'Puro Instinct', 'Radio Moscow', 'Retro Stefson', 'San Soda', 'SBTRKT', 'Ska3', 'Smoke Fairies', 'Spokes', 'Steak Number Eight', 'The .357 String Band', 'The Books', 'The Duke and the King', 'The Ocean', 'The Phoenix Foundation', 'Severed Limb', 'traumahelikopter', 'Tuxedo Buck', 'Washed Out', 'Yori Swart', 'DD/MM/YYYY', 'Ólafur Arnalds', 'Hunting the Robot', 'Nausica', 'The Brew', 'Ceumar', 'Daar', 'Headaches', 'J.v. Mcmorrow', 'Leeways', 'Rey Cabrera Y Sus Amigos Habana', 'Sunnpimp', 'STRFKR']"
+STRFKR,2011-07-16,Valkhofpark,Nijmegen,,Netherlands,['STRFKR']
+STRFKR,2011-07-16T12:00:00+0200,Festival de-Affaire 2011,Nijmegen,,Netherlands,['STRFKR']
+STRFKR,2011-06-26,A Club,Spokane,WA,US,['STRFKR']
+STRFKR,2011-06-24T20:00:00+0200,Q24,Pirna,,Germany,['STRFKR']
+STRFKR,2011-06-22,Sled Island 2011,Calgary,AB,Canada,['STRFKR']
+STRFKR,2011-06-20,BellTower Event Venue & Performance Center,Pullman,WA,US,"['STRFKR', 'Yarn Owl']"
+STRFKR,2011-06-03,Caradura,Mexico City,,Mexico,['STRFKR']
+STRFKR,2011-05-22T20:30:00+0200,Turnhalle im PROGR,Bern,,Switzerland,"['STRFKR', 'zachov']"
+STRFKR,2011-05-21,Albani,Winterthur,,Switzerland,['STRFKR']
+STRFKR,2011-05-19,Les Nuits,Brussels,,Belgium,['STRFKR']
+STRFKR,2011-05-18,La Flèche d'Or,Paris,,France,['STRFKR']
+STRFKR,2011-05-14T21:00:00+0200,Hotel & Restaurant Neu-helgoland,Berlin,,Germany,"['Stones Coverband', 'STRFKR']"
+STRFKR,2011-05-12,Start The Bus,Bristol,,UK,['STRFKR']
+STRFKR,2011-05-11,Milo Bar,Leeds,,UK,['STRFKR']
+STRFKR,2011-04-30,Mississippi Studios,Portland,OR,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-04-29T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['STRFKR', 'Blouse']"
+STRFKR,2011-04-28,Holocene,Portland,OR,US,"['Unknown Mortal Orchestra', 'STRFKR']"
+STRFKR,2011-04-26T20:00:00-0700,The Crocodile - Old Location,Seattle,WA,US,['STRFKR']
+STRFKR,2011-04-23T19:30:00-0700,The Vera Project,Seattle,WA,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-04-22T21:30:00-0700,Biltmore Cabaret,Vancouver,BC,Canada,"['STRFKR', 'We Need Surgery']"
+STRFKR,2011-04-20T20:00:00-0600,Neurolux Lounge,Boise,ID,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-04-19,Urban Lounge,Salt Lake City,UT,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-04-17T20:00:00-0600,Bluebird Theater,Denver,CO,US,"['STRFKR', 'Champagne Champagne']"
+STRFKR,2011-04-16,The Waiting Room,Omaha,NE,US,"['STRFKR', 'Champagne Champagne', 'Gardens & Villa']"
+STRFKR,2011-04-15,Orpheum Theater,Sioux Falls,SD,US,"['We All Have Hooks For Hands', 'STRFKR']"
+STRFKR,2011-04-14T19:00:00-0500,Triple Rock Social Club,Minneapolis,MN,US,"['Subhumans', 'MDC', 'Champagne Champagne', 'STRFKR', 'Varix', 'Brain Tumors']"
+STRFKR,2011-04-13T21:00:00-0500,Cause Spirits & Soundbar,Minneapolis,MN,US,"['Mike Droho & The Compass Rose', 'Lee MacDougall', 'STRFKR', 'Champagne Champagne', 'Mike Droho']"
+STRFKR,2011-04-12,Lincoln Hall,Chicago,IL,US,"['Champagne Champagne', 'STRFKR']"
+STRFKR,2011-04-11T21:00:00-0400,Skully's Music Diner,Columbus,OH,US,"['STRFKR', 'Casiokids', 'Champagne Champagne', 'Professional Wrestling']"
+STRFKR,2011-04-10T21:00:00-0400,Grog Shop,Cleveland,OH,US,"['Champagne Champagne', 'STRFKR', 'Hot Cha Cha', 'HotChaCha']"
+STRFKR,2011-04-08,Higher Ground,South Burlington,VT,US,"['Dar Williams', 'Champagne Champagne', 'STRFKR']"
+STRFKR,2011-04-07T20:00:00-0400,Delilah's on Cayuga,Ithaca,NY,US,"['Zach Brock', 'Champagne Champagne', 'STRFKR']"
+STRFKR,2011-04-06,Space Gallery,Portland,ME,US,"['STRFKR', 'VISTAS (UK)']"
+STRFKR,2011-04-05T21:00:00-0400,Brighton Music Hall,Boston,MA,US,"['Champagne Champagne', 'STRFKR']"
+STRFKR,2011-04-02T21:30:00-0400,Bowery Ballroom,New York (NYC),NY,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-04-01,River Street Jazz Cafe,Plains,PA,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-31,Johnny Brenda's,Philadelphia,PA,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-30T20:30:00-0400,Rock & Roll Hotel,Washington,DC,US,"['STRFKR', 'Casiokids']"
+STRFKR,2011-03-29,Local 506,Chapel Hill,NC,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-27,Jack Rabbits,Jacksonville,FL,US,"['Casiokids', 'STRFKR', 'After the Bomb Baby']"
+STRFKR,2011-03-26T20:00:00-0400,Backbooth,Orlando,FL,US,"['Casiokids', 'STRFKR', 'Le Blorr']"
+STRFKR,2011-03-25,Crowbar,Ybor City,FL,US,"['Casiokids', 'STRFKR', 'Easybreezy']"
+STRFKR,2011-03-23T21:00:00-0400,The Drunken Unicorn,Atlanta,GA,US,"['STRFKR', 'Casiokids']"
+STRFKR,2011-03-22,Bottletree Cafe,Birmingham,AL,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-21T21:00:00-0500,Spanish Moon,Baton Rouge,LA,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-20,Fitzgerald's,Houston,TX,US,"['Kevin Devine', 'STRFKR', 'Casiokids', 'River City Extension', 'An Horse']"
+STRFKR,2011-03-20,Fitzgerald's - Downstairs,Houston,TX,US,"['Casiokids', 'STRFKR']"
+STRFKR,2011-03-19T20:00:00-0500,Parish,Austin,TX,US,"['Asobi Seksu', 'Okkervil River', 'Someone Still Loves You Boris Yeltsin', 'STRFKR', 'Casiokids', 'Maps & Atlases', 'The Globes', 'Joan of Arc', 'Yip Deceiver']"
+STRFKR,2011-03-13T20:00:00-0700,The Trunk Space,Phoenix,AZ,US,"['STRFKR', 'Unknown Mortal Orchestra', 'St. Ranger']"
+STRFKR,2011-03-12T21:00:00-0800,Detroit Bar,Costa Mesa,CA,US,"['STRFKR', 'Unknown Mortal Orchestra', 'Brahms']"
+STRFKR,2011-03-11T12:00:00-0600,SXSW 2011,Austin,TX,US,['STRFKR']
+STRFKR,2011-03-11T20:00:00-0800,Troubadour,West Hollywood,CA,US,"['STRFKR', 'Unknown Mortal Orchestra', 'Skull Tape']"
+STRFKR,2011-03-09T20:00:00-0800,Rickshaw Stop,San Francisco,CA,US,"['STRFKR', 'Unknown Mortal Orchestra']"
+STRFKR,2011-03-08T20:00:00-0800,The Independent,San Francisco,CA,US,"['STRFKR', 'Unknown Mortal Orchestra']"
+STRFKR,2011-02-19T21:00:00+0100,Club Tante JU,Dresden,,Germany,['STRFKR']
+STRFKR,2010-12-31,Club 77,Sydney,NSW,Australia,['STRFKR']
+STRFKR,2010-12-11T21:00:00+0100,Hotel & Restaurant Neu-helgoland,Berlin,,Germany,"['Stones Coverband', 'STRFKR']"
+STRFKR,2010-11-26,Fenix,Sittard,,Netherlands,"['DeWolff', 'STRFKR']"
+STRFKR,2010-11-19,Willamette University,Salem,OR,US,['STRFKR']
+STRFKR,2010-11-04T21:00:00-0700,Detroit Bar,Costa Mesa,CA,US,"['STRFKR', 'Ruben Albarran', 'Las Cafeteras', 'Torreblanca']"
+STRFKR,2010-10-28T21:00:00-0700,Detroit Bar,Costa Mesa,CA,US,['STRFKR']
+STRFKR,2010-10-25T21:30:00-0700,Plush,Tucson,AZ,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-24,Casbah,San Diego,CA,US,"['The Octopus Project', 'STRFKR', 'Strength']"
+STRFKR,2010-10-23T20:30:00-0700,Echoplex,Los Angeles (LA),CA,US,"['The Octopus Project', 'STRFKR', 'Strength', 'Physical Forms']"
+STRFKR,2010-10-22T21:00:00-0700,Great American Music Hall,San Francisco,CA,US,"['The Octopus Project', 'STRFKR', 'Strength']"
+STRFKR,2010-10-20T21:00:00-0700,Roseland Theater,Portland,OR,US,"['The Octopus Project', 'STRFKR', 'Strength', 'Super XX Man']"
+STRFKR,2010-10-19,Neumos,Seattle,WA,US,"['STRFKR', 'The Octopus Project']"
+STRFKR,2010-10-16T21:00:00-0500,Triple Rock Social Club,Minneapolis,MN,US,"['The Octopus Project', 'STRFKR', 'From a Fountain']"
+STRFKR,2010-10-15T21:00:00-0500,Bottom Lounge,Chicago,IL,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-15T20:30:00+0200,Effenaar Grote Zaal,Eindhoven,,Netherlands,"['The Opposites', 'The Reverse', 'DeWolff', 'De Opposites', 'STRFKR']"
+STRFKR,2010-10-14T20:00:00-0400,Grog Shop,Cleveland,OH,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-13,Garfield Artworks,Pittsburgh,PA,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-12T20:00:00-0400,Wrongbar,Toronto,ON,Canada,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-11,Casa Del Popolo,Montreal,QC,Canada,"['The Octopus Project', 'STRFKR', 'Silly Kissers']"
+STRFKR,2010-10-10T20:30:00-0400,T.T. the Bear's Place,Cambridge,MA,US,"['The Octopus Project', 'STRFKR', 'Felix and Volcano']"
+STRFKR,2010-10-09,Cafe Nine,New Haven,CT,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-08T21:00:00-0400,Music Hall of Williamsburg,Brooklyn,NY,US,"['The Octopus Project', 'STRFKR', 'Philip Seymour Hoffman']"
+STRFKR,2010-10-07T19:00:00-0400,Kung Fu Necktie,Philadelphia,PA,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-06T21:00:00-0400,DC9 Nightclub,Washington,DC,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-05,Local 506,Chapel Hill,NC,US,"['The Octopus Project', 'Starfucker (Rolling Stones Tribute)', 'STRFKR']"
+STRFKR,2010-10-02T21:00:00-0400,The Drunken Unicorn,Atlanta,GA,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-10-01,Bottletree Cafe,Birmingham,AL,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-09-30,The Collective,Shreveport,LA,US,"['The Octopus Project', 'STRFKR', 'Jean-Eric']"
+STRFKR,2010-09-29T21:00:00-0500,Juanita's,Little Rock,AR,US,"['The Octopus Project', 'STRFKR']"
+STRFKR,2010-09-27,recordBar,Kansas City,MO,US,"['STRFKR', ""The ACB's"", 'The Latenight Callers']"
+STRFKR,2010-09-25T22:00:00-0600,Hi-Dive,Denver,CO,US,"['STRFKR', 'Tennis', 'Tommy Metz']"
+STRFKR,2010-09-24,Kilby Court,Salt Lake City,UT,US,['STRFKR']
+STRFKR,2010-09-23T20:00:00-0600,Neurolux Lounge,Boise,ID,US,"['STRFKR', 'Jumping Sharks']"
+STRFKR,2010-07-27T22:00:00-0500,recordBar,Kansas City,MO,US,"['The Caves', 'STRFKR']"
+STRFKR,2010-07-02,Hee Tervuren,Tervuren,,Belgium,['STRFKR']
+STRFKR,2010-06-12T21:00:00+0200,Hotel & Restaurant Neu-helgoland,Berlin,,Germany,"['Stones Coverband', 'STRFKR']"
+STRFKR,2010-05-22,The Blvd.,Spokane,WA,US,['STRFKR']
+STRFKR,2010-05-21T20:00:00-0600,Neurolux Lounge,Boise,ID,US,"['Pyramiddd', 'Vagerfly', 'STRFKR']"
+STRFKR,2010-05-20,Kilby Court,Salt Lake City,UT,US,"['Pyramiddd', 'Weatherbox', 'STRFKR']"
+STRFKR,2010-05-18T21:00:00-0700,Beauty Bar,Las Vegas,NV,US,"['Kid Meets Cougar', 'STRFKR', 'Fake Drugs']"
+STRFKR,2010-05-17,The Echo,Los Angeles (LA),CA,US,"['The Like', 'Gestapo Khazi', 'STRFKR', 'Jail Weddings']"
+STRFKR,2010-05-16,The Cozy Castle,Los Angeles (LA),CA,US,"['STRFKR', 'Fake Drugs', 'Professor Calculus', 'Moon Pearl']"
+STRFKR,2010-05-15,Homestead Bowl & The X-Bar,Cupertino,CA,US,['STRFKR']
+STRFKR,2010-05-14T20:00:00-0700,Rickshaw Stop,San Francisco,CA,US,"['Pyramiddd', 'Butterfly Bones', 'Fake Drugs', 'Silver Swans', 'STRFKR']"
+STRFKR,2010-05-13T21:00:00-0700,Milk Bar,San Francisco,CA,US,"['Tempo No Tempo', 'Fake Drugs', 'STRFKR', 'Bye Bye Blackbird']"
+STRFKR,2010-05-11,Mississippi Studios,Portland,OR,US,"['STRFKR', 'Experimental Dental School', 'Wampire']"
+STRFKR,2010-05-10,Neumos,Seattle,WA,US,"['STRFKR', 'Copy', 'Truckasauras']"
+STRFKR,2010-05-02,De Vaartkapoen (VK),Brussels,,Belgium,"['Brokencyde', 'Jeffree Star', 'STRFKR']"
+STRFKR,2010-02-20T21:00:00+0100,Club Tante JU,Dresden,,Germany,['STRFKR']
+STRFKR,2010-01-23,Grand Theatre,Salem,OR,US,"['The Madrigals', 'The Volks', 'STRFKR', 'Set Fazers to Kill', 'Gals']"
+STRFKR,2009-12-19,Hexenkessel,Genk,,Belgium,['STRFKR']
+STRFKR,2009-12-18,Hof Ter Lo,Antwerp,,Belgium,['STRFKR']
+STRFKR,2009-12-18T19:30:00+0100,TRIX,Antwerp,,Belgium,"['Heideroosjes', 'The Devils Blood', 'Belgian Asociality', 'Nox', 'Goat Torment', 'STRFKR']"
+STRFKR,2009-11-24,Heroes,London,,UK,"['STRFKR', 'Pyramiddd']"
+STRFKR,2009-11-23T20:00:00+0100,Point Éphémère,Paris,,France,"['White Rabbits', 'Golden Silvers', 'STRFKR', 'Pyramiddd']"
+STRFKR,2009-11-20,The Garage,London,,UK,"['STRFKR', 'Pyramiddd']"
+STRFKR,2009-10-31T20:00:00-0700,Wonder Ballroom,Portland,OR,US,['STRFKR']
+STRFKR,2009-10-10T21:00:00-0700,Biltmore Cabaret,Vancouver,BC,Canada,['STRFKR']
+STRFKR,2009-10-09T19:30:00-0700,The Vera Project,Seattle,WA,US,"['STRFKR', 'Phantogram', 'Deelay Ceelay']"
+STRFKR,2009-10-07,Bottom of the Hill,San Francisco,CA,US,"['STRFKR', 'Strength', 'Deelay Ceelay']"
+STRFKR,2009-10-06T20:00:00-0700,The Echo,Los Angeles (LA),CA,US,"['Deelay Ceelay', 'Strength', 'STRFKR']"
+STRFKR,2009-10-05T20:30:00-0700,"University of California, San Diego (UCSD)",La Jolla,CA,US,['STRFKR']
+STRFKR,2009-10-04T20:30:00-0700,Modified Arts,Phoenix,AZ,US,"['STRFKR', 'Deelay Ceelay']"
+STRFKR,2009-10-03,Cirq Gallery,Albuquerque,NM,US,"['STRFKR', 'Deelay Ceelay', 'North America']"
+STRFKR,2009-10-01,Mohawk - Indoor,Austin,TX,US,['STRFKR']
+STRFKR,2009-09-26,Duke Coffeehouse,Durham,NC,US,"['STRFKR', 'Deelay Ceelay']"
+STRFKR,2009-09-23T19:00:00-0400,Santos Party House,New York (NYC),NY,US,"['STRFKR', 'Deelay Ceelay']"
+STRFKR,2009-09-21,Middle East - Upstairs,Cambridge,MA,US,['STRFKR']
+STRFKR,2009-09-19T20:00:00-0400,Mohawk Place,Buffalo,NY,US,['STRFKR']
+STRFKR,2009-09-18T22:00:00-0400,Brillobox,Pittsburgh,PA,US,"['Deelay Ceelay', 'Chalk Dinosaur', 'STRFKR']"
+STRFKR,2009-09-16,Pygmalion Music Festival,Champaign,IL,US,['STRFKR']
+STRFKR,2009-09-16T21:30:00-0500,The Empty Bottle,Chicago,IL,US,"['Deelay Ceelay', 'STRFKR']"
+STRFKR,2009-09-14,Nuttys North,Sioux Falls,SD,US,['STRFKR']
+STRFKR,2009-09-12,Monolith Music Festival 2009,Morrison,CO,US,['STRFKR']
+STRFKR,2009-09-10,Kilby Court,Salt Lake City,UT,US,"['STRFKR', 'Palace of Buddies']"
+STRFKR,2009-09-09T20:00:00-0600,Neurolux Lounge,Boise,ID,US,"['We All Have Hooks For Hands', 'STRFKR']"
+STRFKR,2009-09-04T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,['STRFKR']
+STRFKR,2009-07-24,Capitol Hill,Seattle,WA,US,"['The Jesus Lizard', 'Sonic Youth', 'Gossip', 'Deerhunter', 'The Thermals', 'The Pains of Being Pure at Heart', 'Black Lips', 'Earth', 'STRFKR', 'Mika Miko', 'Micachu', 'Future of the Left', 'The Blakes', 'Spinnerette', 'Akimbo', 'Japandroids', 'Girls', 'The Dutchess and the Duke', 'Sol Roots', 'The Moondoggies', 'Truckasauras', 'Sleepy Eyes of Death', 'Past Lives', 'The Pica Beats', 'Hotels', 'New Faces', 'Hey Marseilles', 'Audacity', 'Spaceman', 'D Black', 'The Maldives', 'Bow & Arrow', 'Flexions', 'Fatal Lucciauno', 'Faux Punk', 'Built to Spill', 'Pela', 'Sing-Sing', 'Band of Skulls', 'Awesome Color', 'Micachu & The Shapes', 'The Lonely Forest', 'Wild Orchid Children', 'Fences', 'Pretty Titty', 'FOURCOLORZACK']"
+STRFKR,2009-07-19,Heldenplein,Knokke Heist,,Belgium,['STRFKR']
+STRFKR,2009-06-22,Steynberg Gallery,San Luis Obispo,CA,US,"['STRFKR', 'Concern', 'Atole']"
+STRFKR,2009-06-21,The Smell,Los Angeles (LA),CA,US,"['STRFKR', 'Captain Ahab', 'Atole']"
+STRFKR,2009-06-19,Beauty Bar,Las Vegas,NV,US,"['STRFKR', 'Atole', 'Kid Meets Cougar']"
+STRFKR,2009-06-15,Little Vert Theater,Pendleton,OR,US,"['STRFKR', 'Atole']"
+STRFKR,2009-04-25,The Drunken Unicorn,Atlanta,GA,US,"['STRFKR', 'Kuroma', 'The Tealights']"
+STRFKR,2009-04-22T19:30:00-0400,Union Hall,Brooklyn,NY,US,"['STRFKR', 'Kuroma', 'Guidance Counselor', 'Mancino']"
+STRFKR,2009-04-21T19:00:00-0400,Mercury Lounge,New York (NYC),NY,US,['STRFKR']
+STRFKR,2009-04-18T22:00:00-0400,Sneaky Dee's,Toronto,ON,Canada,"['STRFKR', 'Kuroma']"
+STRFKR,2009-04-17T20:00:00-0500,AV-aerie,Chicago,IL,US,"['STRFKR', 'Kuroma', 'Parks and Gardens']"
+STRFKR,2009-04-15,Nuttys North,Sioux Falls,SD,US,"['STRFKR', 'Kuroma']"
+STRFKR,2009-04-10T19:30:00-0700,The Vera Project,Seattle,WA,US,"['STRFKR', 'Kuroma']"
+STRFKR,2009-04-09T21:30:00-0700,The Media Club,Vancouver,BC,Canada,['STRFKR']
+STRFKR,2009-03-28,Hemlock Tavern,San Francisco,CA,US,"['Grand Lake', 'STRFKR']"
+STRFKR,2009-03-27T20:00:00-0700,LoBot Gallery,Oakland,CA,US,"['STRFKR', 'Grand Lake', 'Man/Miracle', 'Guidance Counselor']"
+STRFKR,2009-03-26T21:00:00-0700,The Crepe Place,Santa Cruz,CA,US,"['STRFKR', 'Man/Miracle']"
+STRFKR,2009-03-25T20:30:00-0700,The Echo,Los Angeles (LA),CA,US,"['Marnie Stern', 'STRFKR', ""What's Up""]"
+STRFKR,2009-03-24T18:30:00-0700,The Rhythm Room,Phoenix,AZ,US,"['Marnie Stern', 'Beep Beep', 'Guidance Counselor', 'The Show Is The Rainbow', 'STRFKR']"
+STRFKR,2009-03-14,Kilby Court,Salt Lake City,UT,US,"['STRFKR', 'Guidance Counselor', 'The Future of the Ghost']"
+STRFKR,2009-03-13T20:00:00-0600,Neurolux Lounge,Boise,ID,US,"['STRFKR', 'Guidance Counselor']"
+STRFKR,2008-12-31,Backspace,Portland,OR,US,"['STRFKR', 'The Hugs', 'blue horns']"
+STRFKR,2008-12-04T20:00:00-0800,Wonder Ballroom,Portland,OR,US,"['Blitzen Trapper', 'STRFKR', 'The Parson Red Heads']"
+STRFKR,2008-11-10,Steynberg Gallery,San Luis Obispo,CA,US,"['STRFKR', 'Golden Delicious']"
+STRFKR,2008-11-08T21:00:00-0800,The Satellite,Los Angeles (LA),CA,US,"['Jeans Team', 'STRFKR', 'Moonrats', 'Them Terribles']"
+STRFKR,2008-11-07T21:30:00-0800,Hemlock Tavern,San Francisco,CA,US,"['STRFKR', 'Man/Miracle']"
+STRFKR,2008-11-06T21:00:00-0800,Eagle Tavern,San Francisco,CA,US,"['(vn)(c)', 'STRFKR']"
+STRFKR,2008-11-01T19:30:00-0700,The Vera Project,Seattle,WA,US,['STRFKR']
+STRFKR,2008-10-27T17:00:00-0500,Reckless Records - Old Location,Chicago,IL,US,['STRFKR']
+STRFKR,2008-10-27T21:00:00-0500,Hideout,Chicago,IL,US,"['STRFKR', 'Mother Mother']"
+STRFKR,2008-10-26T21:00:00-0400,Beachland Ballroom,Cleveland,OH,US,"['STRFKR', 'The Sewing Machine War', 'Foam']"
+STRFKR,2008-10-22T19:00:00-0400,Cake Shop,New York (NYC),NY,US,"['School of Seven Bells', 'Marnie Stern', 'Takka Takka', 'Faunts', 'Shugo Tokumaru', 'STRFKR', 'Skeletons', 'Adept', 'The Moi non Plus', 'Bonne Aparte']"
+STRFKR,2008-10-22T19:00:00-0400,The Knitting Factory - TriBeCa,New York (NYC),NY,US,"['The Depreciation Guild', 'The Pains of Being Pure at Heart', 'A Sunny Day In Glasgow', 'Juvelen', 'STRFKR', 'Crystal Antlers', 'Alina Simone', 'The Beets', 'My Teenage Stride', 'Best Friends Forever', 'Ringo Deathstarr', 'Inlets', 'Heloise & The Savoir Faire', 'Bad Veins', 'Motel Motel', 'The Lisps', 'The Muggabears', 'Unicycle Loves You']"
+STRFKR,2008-10-21T19:30:00-0400,CMJ Music Marathon 2008,New York (NYC),NY,US,['STRFKR']
+STRFKR,2008-10-18T21:00:00-0400,The M Room,Philadelphia,PA,US,"['STRFKR', 'Cortez Cortez', 'Faux Slang']"
+STRFKR,2008-10-16T19:00:00-0400,Starland Ballroom,Sayreville,NJ,US,"['STRFKR', 'Gwar']"
+STRFKR,2008-09-27T22:00:00-0700,Deco Lounge,San Francisco,CA,US,"['Beat Electric', 'STRFKR']"
+STRFKR,2008-09-19,Handelsbeurs Concertzaal,Ghent,,Belgium,"['The Charlatans', 'STRFKR']"
+STRFKR,2008-09-04T20:30:00-0700,Wonder Ballroom,Portland,OR,US,['STRFKR']
+STRFKR,2007-09-02,Sojo,Leuven,,Belgium,"['Easyway', 'STRFKR', 'Homer', 'ENEMY ALLIANCE', 'Sixtoys', 'The Indecision Alarm']"
+STRFKR,2007-08-16,Pukkelpop 2007,Kiewit-Hasselt,,Belgium,['STRFKR']
+STRFKR,2005-07-29,Suikerrock,Tienen,,Belgium,['STRFKR']

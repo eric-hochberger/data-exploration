@@ -1,0 +1,496 @@
+artist,date,venue,city,region,country,performers
+Tennis,2022-09-27T18:00:00-0600,Civic Center Park,Denver,CO,US,"['Khruangbin', 'Tennis']"
+Tennis,2022-06-04T19:00:00-0700,The Greek Theatre,Los Angeles (LA),CA,US,"['Belle and Sebastian', 'Tennis']"
+Tennis,2022-06-03T19:00:00-0700,Fox Theater,Oakland,CA,US,"['Belle and Sebastian', 'Tennis', 'Thee Sacred Souls']"
+Tennis,2021-11-15T20:00:00-0600,The Vic Theatre,Chicago,IL,US,['Tennis']
+Tennis,2021-11-13,"Deluxe, Old National Centre",Indianapolis,IN,US,['Tennis']
+Tennis,2021-11-12,Mr. Smalls,Pittsburgh,PA,US,['Tennis']
+Tennis,2021-11-11,Brooklyn Steel,Brooklyn,NY,US,['Tennis']
+Tennis,2021-11-10T20:00:00-0500,Brooklyn Steel,Brooklyn,NY,US,['Tennis']
+Tennis,2021-11-08T20:00:00-0500,Royale Boston,Boston,MA,US,['Tennis']
+Tennis,2021-11-06T20:00:00-0400,Gateway City Arts,Holyoke,MA,US,['Tennis']
+Tennis,2021-11-05T20:30:00-0400,Higher Ground Ballroom,South Burlington,VT,US,"['Tennis', 'Molly Burch']"
+Tennis,2021-11-03T20:00:00-0400,The Danforth Music Hall,Toronto,ON,Canada,['Tennis']
+Tennis,2021-11-01T20:30:00-0400,Union Transfer,Philadelphia,PA,US,['Tennis']
+Tennis,2021-10-30T18:00:00-0400,9:30 CLUB,Washington,DC,US,"['Tennis', 'Molly Burch']"
+Tennis,2021-10-29T21:00:00-0400,Haw River Ballroom,Saxapahaw,NC,US,['Tennis']
+Tennis,2021-10-27T20:00:00-0400,The Orange Peel,Asheville,NC,US,['Tennis']
+Tennis,2021-10-26T20:00:00-0500,The Basement East,Nashville,TN,US,['Tennis']
+Tennis,2021-10-22T11:30:00-0400,Central Park,Atlanta,GA,US,['Tennis']
+Tennis,2021-10-20,White Oak Music Hall,Houston,TX,US,['Tennis']
+Tennis,2021-10-19T20:00:00-0500,Granada Theater - TX,Dallas,TX,US,['Tennis']
+Tennis,2021-10-18,Stubb's Bar-B-Q (Indoors),Austin,TX,US,['Tennis']
+Tennis,2021-10-16,El Rey Theater,Albuquerque,NM,US,['Tennis']
+Tennis,2021-10-15T19:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,['Tennis']
+Tennis,2021-10-13T19:00:00-0700,The Observatory North Park,San Diego,CA,US,"['Tennis', 'Molly Burch']"
+Tennis,2021-10-12T21:00:00-0700,Fonda Theatre,Los Angeles (LA),CA,US,['Tennis']
+Tennis,2021-10-11T21:00:00-0700,Fonda Theatre,Los Angeles (LA),CA,US,['Tennis']
+Tennis,2021-10-09T20:00:00-0700,Felton Music Hall,Felton,CA,US,['Tennis']
+Tennis,2021-10-08T20:00:00-0700,The Fillmore,San Francisco,CA,US,['Tennis']
+Tennis,2021-10-07T20:00:00-0700,The Fillmore,San Francisco,CA,US,['Tennis']
+Tennis,2021-10-05T20:30:00-0700,Wonder Ballroom,Portland,OR,US,['Tennis']
+Tennis,2021-10-04T20:30:00-0700,Wonder Ballroom,Portland,OR,US,['Tennis']
+Tennis,2021-10-02T20:00:00-0700,Knitting Factory Concert House - Spokane,Spokane,WA,US,['Tennis']
+Tennis,2021-10-01T20:00:00-0700,Moore Theatre,Seattle,WA,US,"['Tennis', 'Molly Burch']"
+Tennis,2021-09-29T19:00:00-0600,Metro Music Hall,Salt Lake City,UT,US,['Tennis']
+Tennis,2021-09-22T20:00:00-0600,Treefort Music Festival 2021,Boise,ID,US,['Tennis']
+Tennis,2021-06-03T18:00:00-0600,Red Rocks Amphitheatre,Morrison,CO,US,"['Tennis', 'Molly Burch']"
+Tennis,2020-12-01T20:00:00-0600,Saturn,Birmingham,AL,US,"['Tennis', 'Molly Burch']"
+Tennis,2020-04-22T20:30:00-0400,The Opera House,Toronto,ON,Canada,"['Tennis', 'Molly Burch']"
+Tennis,2020-04-18T20:00:00-0500,The Vic Theatre,Chicago,IL,US,"['Tennis', 'Molly Burch']"
+Tennis,2020-04-08T20:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Molly Burch']"
+Tennis,2020-04-01T20:30:00-0700,Wonder Ballroom,Portland,OR,US,"['Tennis', 'Molly Burch']"
+Tennis,2020-03-04,Meow Wolf,Santa Fe,NM,US,['Tennis']
+Tennis,2020-03-02T19:00:00-0600,White Oak Music Hall,Houston,TX,US,['Tennis']
+Tennis,2020-02-29,Stubb's Bar-B-Q (Indoors),Austin,TX,US,['Tennis']
+Tennis,2020-02-28T20:00:00-0600,Paper Tiger,San Antonio,TX,US,['Tennis']
+Tennis,2020-02-27T19:00:00-0600,Granada Theater - TX,Dallas,TX,US,['Tennis']
+Tennis,2020-02-25T20:00:00-0600,Madrid Theatre,Kansas City,MO,US,['Tennis']
+Tennis,2019-11-23,Monday Night Brewing Garage,Atlanta,GA,US,['Tennis']
+Tennis,2019-08-16,Old Fiddlers Green,Englewood,CO,US,['Tennis']
+Tennis,2019-05-04,Just Like Heaven Festival,Long Beach,CA,US,['Tennis']
+Tennis,2019-05-03T12:00:00-0700,Queen Mary Events Park,Long Beach,CA,US,['Tennis']
+Tennis,2018-11-23T18:30:00-0700,Central Presbyterian Church,Denver,CO,US,"['Tennis', 'Esme Patterson']"
+Tennis,2018-11-18T20:00:00-0600,3rd & Lindsley,Nashville,TN,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-17T21:00:00-0600,Saturn,Birmingham,AL,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-16T21:00:00-0500,Aisle 5,Atlanta,GA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-14T19:30:00-0500,Black Cat,Washington,DC,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-13T19:00:00-0500,Le Poisson Rouge,New York (NYC),NY,US,"['Matt Costa', 'Tennis']"
+Tennis,2018-11-11T19:00:00-0500,The Sinclair,Cambridge,MA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-10T20:30:00-0500,Bar le Ritz PDB,Montreal,QC,Canada,"['Matt Costa', 'Tennis']"
+Tennis,2018-11-09T20:00:00-0500,Longboat Hall at the Great Hall,Toronto,ON,Canada,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-07,Thalia Hall,Chicago,IL,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-11-06T19:00:00-0600,Cedar Cultural Center,Minneapolis,MN,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-16,Metro Music Hall,Salt Lake City,UT,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-15T20:00:00-0600,Top Hat,Missoula,MT,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-13T20:00:00-0700,Biltmore Cabaret,Vancouver,BC,Canada,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-12T20:00:00-0700,The Crocodile - Old Location,Seattle,WA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-11T20:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-09T20:00:00-0700,The Chapel,San Francisco,CA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-07T21:00:00-0700,Belly Up Tavern,Solana Beach,CA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-06T20:00:00-0700,Troubadour,West Hollywood,CA,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-05T21:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-10-04T19:00:00-0600,Meow Wolf,Santa Fe,NM,US,"['Tennis', 'Matt Costa']"
+Tennis,2018-09-14,Overland Park,Denver,CO,US,['Tennis']
+Tennis,2018-06-20,RBC Echo Beach,Toronto,ON,Canada,"['alt-J', 'Tennis']"
+Tennis,2018-06-18,Thompson’s Point,Portland,ME,US,"['alt-J', 'Tennis']"
+Tennis,2018-06-17T07:00:00-0400,Space Ballroom,Hamden,CT,US,['Tennis']
+Tennis,2018-06-16T07:00:00-0400,Fête Music Hall,Providence,RI,US,['Tennis']
+Tennis,2018-06-14T06:00:00-0400,Colony,Woodstock,NY,US,['Tennis']
+Tennis,2018-06-13T07:00:00-0400,Asbury Lanes,Asbury Park,NJ,US,['Tennis']
+Tennis,2018-06-12,Stage AE,Pittsburgh,PA,US,"['alt-J', 'Tennis']"
+Tennis,2018-06-08T20:00:00-0500,Iroquois Amphitheater,Louisville,KY,US,"['alt-J', 'Tennis']"
+Tennis,2018-06-07,Huntington Bank Pavilion at Northerly Island,Chicago,IL,US,"['alt-J', 'Tennis']"
+Tennis,2018-04-25T20:00:00-0500,Peabody Opera House,St Louis,MO,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-24T19:00:00-0400,Agora Theatre & Ballroom,Cleveland,OH,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-23T20:00:00-0400,Smith Opera House,Geneva,NY,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-21T20:00:00-0400,The Anthem,Washington,DC,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-20T19:00:00-0400,The National,Richmond,VA,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-19T20:00:00-0400,DPAC - Durham Performing Arts Center,Durham,NC,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-18T20:00:00-0400,Charlotte Metro Credit Union Amphitheatre,Charlotte,NC,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-16T19:30:00-0400,North Charleston Performing Arts Center,North Charleston,SC,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-15,Coca-Cola Roxy,Atlanta,GA,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-14T20:00:00-0500,Ryman Auditorium,Nashville,TN,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-13T20:00:00-0500,Ryman Auditorium,Nashville,TN,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-11T19:30:00-0500,Peoria Civic Center Theatre,Peoria,IL,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-10T19:30:00-0500,Chicago Theatre,Chicago,IL,US,"['The Decemberists', 'Tennis']"
+Tennis,2018-04-07,Foro Alterno,Guadalajara,,Mexico,['Tennis']
+Tennis,2018-02-03T20:00:00-0600,Emo's Austin,Austin,TX,US,"['Tennis', 'Overcoats']"
+Tennis,2018-02-02T21:00:00-0600,Paper Tiger,San Antonio,TX,US,"['Tennis', 'Overcoats']"
+Tennis,2018-02-01T20:00:00-0600,Trees,Dallas,TX,US,['Tennis']
+Tennis,2018-01-30T20:00:00-0600,Mercy Lounge,Nashville,TN,US,['Tennis']
+Tennis,2018-01-29T20:00:00-0500,Terminal West,Atlanta,GA,US,['Tennis']
+Tennis,2018-01-27T19:30:00-0500,Cat's Cradle,Carrboro,NC,US,['Tennis']
+Tennis,2018-01-25T20:30:00-0500,Union Transfer,Philadelphia,PA,US,['Tennis']
+Tennis,2018-01-24T19:00:00-0500,9:30 CLUB,Washington,DC,US,['Tennis']
+Tennis,2018-01-23T19:00:00-0500,Brooklyn Steel,Brooklyn,NY,US,['Tennis']
+Tennis,2018-01-21T00:00:00-0500,Royale Boston,Boston,MA,US,['Tennis']
+Tennis,2018-01-20T20:00:00-0500,Showcase Lounge at Higher Ground,South Burlington,VT,US,['Tennis']
+Tennis,2018-01-19T20:00:00-0500,The Haunt,Ithaca,NY,US,['Tennis']
+Tennis,2018-01-18T19:30:00-0500,Mod Club Theatre,Toronto,ON,Canada,['Tennis']
+Tennis,2018-01-16T00:00:00-0500,Majestic Theatre,Detroit,MI,US,['Tennis']
+Tennis,2018-01-15T20:00:00-0500,Hi-Fi,Indianapolis,IN,US,['Tennis']
+Tennis,2018-01-13T20:00:00-0600,Metro,Chicago,IL,US,"['Tennis', 'Overcoats']"
+Tennis,2018-01-12,Turner Hall Ballroom,Milwaukee,WI,US,"['Tennis', 'Overcoats']"
+Tennis,2018-01-11T19:00:00-0600,Fine Line,Minneapolis,MN,US,"['Tennis', 'Overcoats']"
+Tennis,2018-01-10T19:00:00-0600,The Waiting Room,Omaha,NE,US,"['Tennis', 'Overcoats']"
+Tennis,2018-01-06T20:00:00-0700,Ogden Theatre,Denver,CO,US,"['Tennis', 'Brent Cowles']"
+Tennis,2017-12-02,Rickshaw Theatre,Vancouver,BC,Canada,"['Tennis', 'Wild Ones']"
+Tennis,2017-12-01,Neptune Theatre,Seattle,WA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-30T19:00:00-0800,Wonder Ballroom,Portland,OR,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-29T21:00:00-0800,HiFi Music Hall,Eugene,OR,US,"['Wild Ones', 'Tennis']"
+Tennis,2017-11-27T20:00:00-0800,Harlow's,Sacramento,CA,US,"['Wild Ones', 'Tennis']"
+Tennis,2017-11-25,Constellation Room,Santa Ana,CA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-24,Music Box,San Diego,CA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-18T21:00:00-0800,SOhO Restaurant & Music Club,Santa Barbara,CA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-17,The Fillmore,San Francisco,CA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-16T20:00:00-0800,Fonda Theatre,Los Angeles (LA),CA,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-14T19:00:00-0700,191 Toole,Tucson,AZ,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-11-13,Sister,Albuquerque,NM,US,"['Tennis', 'Wild Ones']"
+Tennis,2017-08-23T20:00:00-0500,Cain's Ballroom,Tulsa,OK,US,['Tennis']
+Tennis,2017-08-20T20:00:00-0500,CrossroadsKC,Kansas City,MO,US,"['Father John Misty', 'Tennis']"
+Tennis,2017-08-19T19:00:00-0500,Surly Brewing,Minneapolis,MN,US,"['Father John Misty', 'Tennis']"
+Tennis,2017-08-11,Velorama Festival,Denver,CO,US,['Tennis']
+Tennis,2017-08-04T21:00:00-0400,Ottobar,Baltimore,MD,US,"['Tennis', 'Airpark']"
+Tennis,2017-06-15T20:00:00-0400,Prospect Park Bandshell,Brooklyn,NY,US,"['The Shins', 'Tennis']"
+Tennis,2017-06-03T19:00:00+0100,Omeara,London,,UK,['Tennis']
+Tennis,2017-06-02T19:00:00+0100,Omeara,London,,UK,['Tennis']
+Tennis,2017-05-31T18:45:00+0100,Rough Trade East,London,,UK,['Tennis']
+Tennis,2017-05-27T19:00:00-0700,Queen Elizabeth Theatre,Vancouver,BC,Canada,"['The Shins', 'Tennis']"
+Tennis,2017-05-25T20:00:00-0600,The Wilma,Missoula,MT,US,"['The Shins', 'Tennis']"
+Tennis,2017-05-23T20:00:00-0600,Northern Alberta Jubilee Auditorium,Edmonton,AB,Canada,"['The Shins', 'Tennis']"
+Tennis,2017-05-20T20:00:00-0500,"Stir Concert Cove, Harrah's Council Bluffs Casino & Hotel",Council Bluffs,IA,US,"['The Shins', 'Tennis']"
+Tennis,2017-05-19T20:00:00-0500,The Pageant,St Louis,MO,US,"['The Shins', 'Tennis']"
+Tennis,2017-05-17T19:00:00-0400,The National,Richmond,VA,US,"['The Shins', 'Tennis']"
+Tennis,2017-05-12T19:30:00-0400,House of Blues Cleveland,Cleveland,OH,US,"['Spoon', 'Tennis']"
+Tennis,2017-05-11,Newport Music Hall,Columbus,OH,US,['Tennis']
+Tennis,2017-05-09,The Mill & Mine,Knoxville,TN,US,['Tennis']
+Tennis,2017-05-07,The Ritz,Raleigh,NC,US,['Tennis']
+Tennis,2017-05-06,The Orange Peel,Asheville,NC,US,"['Spoon', 'Tennis']"
+Tennis,2017-05-05,Music Farm,Charleston,SC,US,['Tennis']
+Tennis,2017-05-03,Georgia Theatre,Athens,GA,US,['Tennis']
+Tennis,2017-05-02,House of Blues Orlando,Orlando,FL,US,['Tennis']
+Tennis,2017-05-01,The Ritz Ybor,Tampa,FL,US,['Tennis']
+Tennis,2017-04-29,Varsity Theatre,Baton Rouge,LA,US,['Tennis']
+Tennis,2017-04-28,The Lyric Oxford,Oxford,MS,US,['Tennis']
+Tennis,2017-04-27,Soul Kitchen,Mobile,AL,US,['Tennis']
+Tennis,2017-04-21,Empire Polo Club,Indio,CA,US,['Tennis']
+Tennis,2017-04-19,Fox Theater,Pomona,CA,US,['Tennis']
+Tennis,2017-04-17T20:00:00-0700,The Observatory North Park,San Diego,CA,US,"['Local Natives', 'Tennis']"
+Tennis,2017-04-14,Empire Polo Club,Indio,CA,US,['Tennis']
+Tennis,2017-04-12,White Oak Music Hall,Houston,TX,US,['Tennis']
+Tennis,2017-04-11,Mohawk - Indoor,Austin,TX,US,['Tennis']
+Tennis,2017-04-10T21:00:00-0500,Trees,Dallas,TX,US,"['Tennis', 'The Greeting Committee']"
+Tennis,2017-04-07T21:00:00-0500,Gabe's Oasis,Iowa City,IA,US,"['Tennis', 'SOULSHAKE', 'Sires', 'Port Authority']"
+Tennis,2017-04-06T20:00:00-0500,The Riot Room,Kansas City,MO,US,"['Tennis', 'Dreamgirl']"
+Tennis,2017-04-04,Mission Creek Festival 2017,Iowa City,IA,US,['Tennis']
+Tennis,2017-03-22T21:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,"['Tennis', 'Rolling Blackouts Coastal Fever']"
+Tennis,2017-03-21T21:00:00-0400,Bowery Ballroom,New York (NYC),NY,US,"['Tennis', 'Rolling Blackouts Coastal Fever']"
+Tennis,2017-03-19T19:00:00-0400,9:30 CLUB,Washington,DC,US,"['Tennis', 'Rolling Blackouts Coastal Fever']"
+Tennis,2017-03-18T21:00:00-0400,Underground Arts,Philadelphia,PA,US,"['Tennis', 'Rolling Blackouts Coastal Fever']"
+Tennis,2017-03-14T20:00:00-0400,The Sinclair,Cambridge,MA,US,['Tennis']
+Tennis,2017-03-11T21:00:00-0500,Horseshoe Tavern,Toronto,ON,Canada,"['Tennis', 'Overcoats']"
+Tennis,2017-03-10T20:00:00-0500,The Magic Bag,Ferndale,MI,US,"['Tennis', 'Overcoats']"
+Tennis,2017-03-08T20:00:00-0600,High Noon Saloon,Madison,WI,US,"['Tennis', 'Overcoats']"
+Tennis,2017-03-07T20:00:00-0600,Triple Rock Social Club,Minneapolis,MN,US,"['Tennis', 'Overcoats']"
+Tennis,2017-03-04T20:00:00-0700,Bluebird Theater,Denver,CO,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-03-03T20:00:00-0700,The State Room,Salt Lake City,UT,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-03-01,Biltmore Cabaret,Vancouver,BC,Canada,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-28,Neumos,Seattle,WA,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-27T19:30:00-0800,Wonder Ballroom,Portland,OR,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-25T20:00:00-0800,Great American Music Hall,San Francisco,CA,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-24T20:30:00-0800,The Roxy Theatre,West Hollywood,CA,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-22T20:00:00-0800,Irenic,San Diego,CA,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-21T20:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Hoops (IN)']"
+Tennis,2017-02-17,Starline Social Club,Oakland,CA,US,['Tennis']
+Tennis,2016-09-22T19:00:00-0700,The Greek Theatre,Los Angeles (LA),CA,US,"['Nathaniel Rateliff & The Night Sweats', 'Jamestown Revival', 'Tennis']"
+Tennis,2015-11-02T20:00:00-0700,The Wilma,Missoula,MT,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-10-31T20:00:00-0700,Arlene Schnitzer Concert Hall,Portland,OR,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-10-30T21:00:00-0700,The Fillmore,San Francisco,CA,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-10-29T20:00:00-0700,The Fillmore,San Francisco,CA,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-10-28T20:00:00-0700,The Observatory North Park,San Diego,CA,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-10-26T20:00:00-0700,The Theatre at Ace Hotel,Los Angeles (LA),CA,US,"['Shakey Graves', 'Tennis']"
+Tennis,2015-08-22,Exposition Park,Los Angeles (LA),CA,US,['Tennis']
+Tennis,2015-06-19,Taste of Randolph Festival 2015,Chicago,IL,US,['Tennis']
+Tennis,2015-05-22T22:00:00-0500,recordBar,Kansas City,MO,US,"['Tennis', 'Kuroma']"
+Tennis,2015-05-21T21:00:00-0400,Radio Radio,Indianapolis,IN,US,"['Tennis', 'Kuroma']"
+Tennis,2015-05-20T21:00:00-0400,The Loving Touch,Ferndale,MI,US,['Tennis']
+Tennis,2015-05-19T20:00:00-0400,Mod Club Theatre,Toronto,ON,Canada,"['Tennis', 'Kuroma']"
+Tennis,2015-05-17,Great Scott,Allston,MA,US,['Tennis']
+Tennis,2015-05-16T19:30:00-0400,Mercury Lounge,New York (NYC),NY,US,"['Tennis', 'Jay Stolar']"
+Tennis,2015-05-15T20:30:00-0400,MilkBoy Philly,Philadelphia,PA,US,"['Tennis', 'Kuroma']"
+Tennis,2015-05-13,Music Hall of Williamsburg,Brooklyn,NY,US,['Tennis']
+Tennis,2015-05-12T20:00:00-0400,U Street Music Hall,Washington,DC,US,"['Tennis', 'Kuroma']"
+Tennis,2015-05-09T21:00:00-0500,The High Watt,Nashville,TN,US,"['Tennis', 'Kuroma', 'Keeps']"
+Tennis,2015-05-08T22:00:00-0400,Atlantic Station Central Park,Atlanta,GA,US,['Tennis']
+Tennis,2015-05-06T21:00:00-0500,Gasa Gasa,New Orleans,LA,US,"['Tennis', 'Knew', 'Kuroma']"
+Tennis,2015-05-05T20:00:00-0500,Parish,Austin,TX,US,"['Tennis', 'Kuroma']"
+Tennis,2015-05-02T19:00:00-0700,Irenic,San Diego,CA,US,['Tennis']
+Tennis,2015-05-01T20:00:00-0700,Troubadour,West Hollywood,CA,US,"['Tennis', 'The Shilohs']"
+Tennis,2015-04-30T20:00:00-0700,The Independent,San Francisco,CA,US,"['Tennis', 'The Shilohs']"
+Tennis,2015-04-28,Urban Lounge,Salt Lake City,UT,US,['Tennis']
+Tennis,2015-04-25T20:00:00-0600,Bluebird Theater,Denver,CO,US,"['Tennis', 'Inner Oceans']"
+Tennis,2015-04-01T20:00:00-0700,The Theatre at Ace Hotel,Los Angeles (LA),CA,US,"['David Lynch', 'Angelo Badalamenti', 'Julee Cruise', 'Kinny Landrum', 'Duran Duran', 'Moby', 'Wayne Coyne', 'Steven Drozd', 'Zola Jesus', 'Karen O', 'Jim James', 'Sky Ferreira', 'Chrystabell', 'Rebekah Del Rio', 'Rob Mathes', 'Tennis', 'Twin Peaks']"
+Tennis,2015-03-07,Mca Denver,Denver,CO,US,"['Mark Mothersbaugh', 'Tennis', 'Mr. Pacman', 'DJ Gonda']"
+Tennis,2015-01-16T20:30:00-0800,Wonder Ballroom,Portland,OR,US,"['Tennis', 'The Shilohs']"
+Tennis,2015-01-15T20:00:00-0800,Fortune Sound Club,Vancouver,BC,Canada,"['Tennis', 'The Shilohs']"
+Tennis,2014-12-10T19:30:00-0600,Verizon Theatre at Grand Prairie,Grand Prairie,TX,US,"['Brandi Carlile', 'Tennis', ""Somebody's Darling""]"
+Tennis,2014-11-18,The Lexington,London,,UK,['Tennis']
+Tennis,2014-11-08,Belly Up Aspen,Aspen,CO,US,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-11-07T21:00:00-0700,Bluebird Theater,Denver,CO,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-11-05T21:00:00-0600,The Waiting Room,Omaha,NE,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-11-04T21:00:00-0600,Granada Theatre,Lawrence,KS,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-11-02T19:00:00-0600,The Loft at Gilley's,Dallas,TX,US,['Tennis']
+Tennis,2014-11-01,Red 7,Austin,TX,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-29T20:30:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-26T20:30:00-0700,Casbah,San Diego,CA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-25T20:00:00-0700,Troubadour,West Hollywood,CA,US,"['Tennis', 'Pure Bathing Culture', 'Devon Williams']"
+Tennis,2014-10-24T21:00:00-0700,Great American Music Hall,San Francisco,CA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-22T20:30:00-0700,Wonder Ballroom,Portland,OR,US,"['Tennis', 'Pure Bathing Culture', 'Crystal Skulls']"
+Tennis,2014-10-20T20:00:00-0700,Neumos,Seattle,WA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-18T20:00:00-0600,Knitting Factory - Boise,Boise,ID,US,"['Tennis', 'Pure Bathing Culture', 'Transistor Send']"
+Tennis,2014-10-17,Urban Lounge,Salt Lake City,UT,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-07T20:30:00-0500,Fine Line,Minneapolis,MN,US,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-10-05T20:00:00-0500,Lincoln Hall,Chicago,IL,US,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-10-04,A&R Music Bar,Columbus,OH,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-03T19:00:00-0400,Virgin Mobile Mod Club,Toronto,ON,Canada,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-10-02,La Vitrola,Montreal,QC,Canada,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-09-30T20:00:00-0400,Underground Arts,Philadelphia,PA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-29T21:00:00-0400,The Sinclair,Cambridge,MA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-27,Pearl Street Nightclub,Northampton,MA,US,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-09-26T19:30:00-0400,Webster Hall,New York (NYC),NY,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-25T20:00:00-0400,Black Cat,Washington,DC,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-22T20:00:00-0400,The Social,Orlando,FL,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-20T21:30:00-0400,Terminal West,Atlanta,GA,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-09-19,Headliners Music Hall,Louisville,KY,US,"['Pure Bathing Culture', 'Tennis']"
+Tennis,2014-09-18T21:00:00-0500,The Ready Room,St Louis,MO,US,"['Tennis', 'Pure Bathing Culture']"
+Tennis,2014-06-07,Make Music Pasadena,Pasadena,CA,US,['Tennis']
+Tennis,2014-05-24T17:30:00-0700,Malkin Bowl,Vancouver,BC,Canada,"['HAIM', 'Tennis']"
+Tennis,2014-05-22T19:00:00-0600,The Depot,Salt Lake City,UT,US,"['HAIM', 'Tennis']"
+Tennis,2014-05-19T19:00:00-0500,First Avenue,Minneapolis,MN,US,"['HAIM', 'Tennis']"
+Tennis,2014-05-18T20:00:00-0500,Lincoln Hall,Chicago,IL,US,"['Tennis', 'Ski Lodge']"
+Tennis,2014-05-17T20:00:00-0500,Riviera Theatre,Chicago,IL,US,"['HAIM', 'Tennis']"
+Tennis,2014-05-15T19:30:00-0400,Kool Haus,Toronto,ON,Canada,"['HAIM', 'Tennis']"
+Tennis,2014-05-14T20:00:00-0400,Tower Theater,Upper Darby,PA,US,"['HAIM', 'Tennis']"
+Tennis,2014-05-11T19:00:00-0400,Terminal 5,New York (NYC),NY,US,"['HAIM', 'Tennis']"
+Tennis,2014-05-10T11:30:00-0400,Jack H. Skirball Center for the Performing Arts (NYU),New York (NYC),NY,US,"['Tennis', 'Lolawolf']"
+Tennis,2014-05-10T20:00:00-0400,Music Hall of Williamsburg,Brooklyn,NY,US,['Tennis']
+Tennis,2014-05-08T19:00:00+0100,The Green Door Store,Brighton,,UK,"['Sam Fender', 'Beautiful Boy', 'The Trouble With Templeton', 'Matthew and the Atlas', 'Tennis', 'Grumbling Fur', 'East India Youth']"
+Tennis,2014-05-07T19:30:00+0100,Gullivers,Manchester,,UK,['Tennis']
+Tennis,2014-05-06T19:30:00+0100,London Oslo,London,,UK,['Tennis']
+Tennis,2014-05-04,Sauchiehall Street,Glasgow,,UK,['Tennis']
+Tennis,2014-05-04T21:00:00+0100,Broadcast,Glasgow,,UK,"['September Girls', 'Courtney Barnett', 'Tennis', 'Eyedress', 'Ratking']"
+Tennis,2014-05-03T20:00:00+0100,The Wardrobe,Leeds,,UK,"['Annie Eve', 'Tennis', 'Teleman', 'King Charles']"
+Tennis,2014-05-02T19:00:00+0100,Factory,Liverpool,,UK,"['Cats Park', 'Dolomite Minor', 'Tennis', 'Highasakite', 'Moko', 'Chloe Howl']"
+Tennis,2014-01-18,recordBar,Kansas City,MO,US,"['Tennis', 'Poor Moon']"
+Tennis,2014-01-17T21:00:00-0600,Opolis,Norman,OK,US,"['Tennis', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2014-01-16T20:00:00-0600,Club Dada,Dallas,TX,US,"['Tennis', 'Tennis Band', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2014-01-15T21:00:00-0600,Parish,Austin,TX,US,"['Tennis', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2014-01-12,Soda Bar,San Diego,CA,US,"['Tennis', 'Poor Moon']"
+Tennis,2014-01-11T21:00:00-0800,The Satellite,Los Angeles (LA),CA,US,"['Tennis', 'Poor Moon']"
+Tennis,2014-01-10T20:30:00-0800,Bottom of the Hill,San Francisco,CA,US,"['Tennis', 'Poor Moon', 'Poor Mono', 'Solo Performances By Christian', 'Kyle M. Terrizzi']"
+Tennis,2014-01-07,Barboza,Seattle,WA,US,"['Poor Moon', 'Tennis', 'Solo Performances By Christian']"
+Tennis,2014-01-06T20:00:00-0800,Fortune Sound Club,Vancouver,BC,Canada,"['Tennis', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2014-01-05T21:00:00-0800,Mississippi Studios,Portland,OR,US,"['Tennis', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2014-01-04T20:30:00-0700,Neurolux Lounge,Boise,ID,US,"['Tennis', 'Poor Moon', 'Solo Performances By Christian']"
+Tennis,2013-11-27T20:00:00-0700,Bluebird Theater,Denver,CO,US,"['Tennis', 'South of France']"
+Tennis,2013-11-20T19:00:00-0600,The Frequency,Madison,WI,US,"['Savoir Adore', 'Tennis', 'Nathaniel Rateliff & The Night Sweats', 'On an On']"
+Tennis,2013-11-19T20:00:00-0600,Varsity Theater,Minneapolis,MN,US,"['Communion Music', 'Tennis', 'Solid Gold', 'On an On', 'Savoir Adore', 'Carroll', 'Nathaniel Rateliff', 'Tennis Solid Gold', 'Nathaniel Rateliff & The Night Sweats']"
+Tennis,2013-11-17T20:00:00-0600,Off Broadway,St Louis,MO,US,"['Tennis', 'On an On', 'Nathaniel Rateliff']"
+Tennis,2013-11-16T22:00:00-0600,Lincoln Hall,Chicago,IL,US,"['Tennis', 'On an On', 'Nathaniel Rateliff', 'Night Sweats', 'Nathaniel Rateliff & The Night Sweats']"
+Tennis,2013-11-13T20:00:00-0600,Zanzabar,Louisville,KY,US,"['Communion Music', 'Tennis', 'Night Sweats', '4 On The Floor', 'Kyle James Hauser', 'New Bravado', 'Savoir Adore']"
+Tennis,2013-11-12T19:00:00-0500,Bluebird,Bloomington,IN,US,"['Tennis', 'On an On', 'Savoir Adore']"
+Tennis,2013-11-10T21:15:00-0500,The Garrison,Toronto,ON,Canada,"['Tennis', 'On an On', 'Nathaniel Rateliff']"
+Tennis,2013-11-09T21:30:00-0500,Bar le Ritz PDB,Montreal,QC,Canada,"['Leagues', 'Tennis', 'On an On']"
+Tennis,2013-11-07,Underground Art,Philadelphia,PA,US,['Tennis']
+Tennis,2013-11-07T20:00:00-0600,Off Broadway,St Louis,MO,US,"['Tennis', 'Deadstring Brothers', 'The Trophy Mules']"
+Tennis,2013-11-06T19:00:00-0500,Black Cat,Washington,DC,US,"['Night Sweats', 'Tennis', 'On an On', 'Savoir Adore', 'Mellen']"
+Tennis,2013-11-05T18:00:00-0500,Rockwood Music Hall,New York (NYC),NY,US,"['Communion Music', 'Tennis', 'On an On', 'Night Sweats', 'Savoir Adore', 'Great State', 'Poor Remy', 'Tor Miller', 'Leif Vollebekk', 'The Districts', 'Belle Mare']"
+Tennis,2013-11-03T20:00:00-0500,Brooklyn Bowl,Brooklyn,NY,US,"['School Night! Featuring:', 'Matt Goldman', 'Resident Dj Jason Eldredge', 'Tennis', 'Cut Copy Album Preview', 'Hosted By Chris Douridas', 'Luke Temple', 'Chalk & Numbers', 'Side Project', 'Tennis Album Preview', 'DJ Jimmy Jamz']"
+Tennis,2013-08-24T14:20:00-0700,Monterey County Fair & Event Center,Monterey,CA,US,['Tennis']
+Tennis,2013-04-20,Panther Island Pavilion,Fort Worth,TX,US,['Tennis']
+Tennis,2013-04-20T20:00:00-0500,Panther Island Pavilion,Fort Worth,TX,US,['Tennis']
+Tennis,2013-04-05T20:00:00-0500,The Riot Room,Kansas City,MO,US,['Tennis']
+Tennis,2013-04-04T19:30:00-0500,The Basement,Nashville,TN,US,"['Communion Music', 'Ode & Ide', 'Ben Cameron', 'Erin McCarley', 'Tennis', 'Gill Landry', 'This Mountain']"
+Tennis,2013-03-15,Esplanade Theatre Studio,Singapore,,Singapore,['Tennis']
+Tennis,2013-03-08T13:00:00-0700,Grand Park,Winter Park,CO,US,['Tennis']
+Tennis,2012-10-18T21:00:00-0600,Hi-Dive,Denver,CO,US,"['Tennis', 'Hearts in Space']"
+Tennis,2012-10-16T19:00:00-0600,eTown Hall,Boulder,CO,US,['Tennis']
+Tennis,2012-10-13T20:00:00-0500,Trees,Dallas,TX,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-12T03:30:00-0500,Zilker Park,Austin,TX,US,['Tennis']
+Tennis,2012-10-12T20:00:00-0500,Fitzgerald's,Houston,TX,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-10,40 Watt Club,Athens,GA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-09,Cat's Cradle,Carrboro,NC,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-08,Rock & Roll Hotel,Washington,DC,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-04T20:00:00-0400,T.T. the Bear's Place,Cambridge,MA,US,"['Tennis', 'Wild Belle', 'Orca Orca']"
+Tennis,2012-10-03,Bowery Ballroom,New York (NYC),NY,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-10-02T21:00:00-0400,Maxwell's,Hoboken,NJ,US,"['Tennis', 'Wild Belle', 'The Shilohs']"
+Tennis,2012-10-01,Union Transfer,Philadelphia,PA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-09-29,Ballance Farms,Oakland,KY,US,['Tennis']
+Tennis,2012-09-28T00:00:00-0500,Ballance Farms,Oakland,KY,US,['Tennis']
+Tennis,2012-09-28T16:20:00-0500,Ballance Farms,Oakland,KY,US,['Tennis']
+Tennis,2012-09-27,Pygmalion Music Festival 2012,Urbana,IL,US,['Tennis']
+Tennis,2012-09-27T16:00:00-0400,Midpoint Music Festival,Cincinnati,OH,US,['Tennis']
+Tennis,2012-09-27T20:00:00-0500,Off Broadway,St Louis,MO,US,"['Tennis', 'Making Movies', 'Spectator']"
+Tennis,2012-09-26,Slowdown,Omaha,NE,US,"['Tennis', 'Landing on the Moon']"
+Tennis,2012-08-15T22:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Sharon Van Etten', 'Tennis']"
+Tennis,2012-08-13T20:00:00-0700,The Observatory,Santa Ana,CA,US,"['Tennis', 'J. Thoven']"
+Tennis,2012-08-12T20:00:00-0700,El Rey Theatre,Los Angeles (LA),CA,US,"['Tennis', 'J. Thoven']"
+Tennis,2012-08-10T20:00:00-0700,Golden Gate Park,San Francisco,CA,US,['Tennis']
+Tennis,2012-08-07T20:00:00-0700,Neptune Theatre,Seattle,WA,US,"['Sharon Van Etten', 'Tennis', 'Lemolo']"
+Tennis,2012-08-04T18:30:00-0500,First Avenue,Minneapolis,MN,US,"['Sharon Van Etten', 'Tennis']"
+Tennis,2012-08-03T21:30:00-0500,High Noon Saloon,Madison,WI,US,['Tennis']
+Tennis,2012-08-02T19:00:00-0500,Turner Hall Ballroom,Milwaukee,WI,US,"['Sharon Van Etten', 'Yellow Ostrich', 'Tennis']"
+Tennis,2012-07-31T20:00:00-0400,Phoenix Concert Theatre,Toronto,ON,Canada,"['Sharon Van Etten', 'Tennis']"
+Tennis,2012-07-29T20:00:00-0500,Lincoln Hall,Chicago,IL,US,"['Tennis', 'Pet Lions']"
+Tennis,2012-06-16T20:00:00-0600,Chautauqua Auditorium,Boulder,CO,US,"['Tennis', 'Paper Bird']"
+Tennis,2012-06-07T20:00:00+0100,Parque da Cidade,Porto,,Portugal,['Tennis']
+Tennis,2012-06-07,Les Vivres de l'Art,Bordeaux,,France,['Tennis']
+Tennis,2012-06-07,Pessac,Pessac,,France,['Tennis']
+Tennis,2012-06-06,Le Silencio,Paris,,France,['Tennis']
+Tennis,2012-06-05,Le Trabendo,Paris,,France,['Tennis']
+Tennis,2012-06-04,Sonic,Lyon,,France,['Tennis']
+Tennis,2012-06-02T20:00:00+0200,"La Chapelle, Les Trinitaires",Metz,,France,['Tennis']
+Tennis,2012-05-31,Democrazy,Ghent,,Belgium,['Tennis']
+Tennis,2012-05-30T23:59:00+0200,Paradiso Grote Zaal,Amsterdam,,Netherlands,"['Hilfiger Denim Live', 'Peaches', 'Wavves', 'Smith Westerns', 'Tennis']"
+Tennis,2012-05-30,Paradiso,Amsterdam,,Netherlands,['Tennis']
+Tennis,2012-05-28T20:00:00+0100,Blind Tiger Club,Brighton,,UK,['Tennis']
+Tennis,2012-05-25T12:00:00+0100,Alexandra Palace,London,,UK,['Tennis']
+Tennis,2012-05-25,Soup,Manchester,,UK,['Tennis']
+Tennis,2012-05-24T19:00:00+0100,Stereo,Glasgow,,UK,"['Tennis', 'Blank Canvas']"
+Tennis,2012-05-23T20:00:00+0100,The Jericho,Oxford,,UK,['Tennis']
+Tennis,2012-05-18,Beco 203,São Paulo,,Brazil,['Tennis']
+Tennis,2012-05-12,recordBar,Kansas City,MO,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-11T22:30:00-0500,Plush,St Louis,MO,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-10T21:30:00-0500,Opolis,Norman,OK,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-09,Club Dada,Dallas,TX,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-08T21:00:00-0500,Parish,Austin,TX,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-05T18:30:00-0700,Club Congress,Tucson,AZ,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-04T23:30:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Stax', 'Vacationer', 'By Dj Seduce']"
+Tennis,2012-05-03T20:30:00-0700,Casbah,San Diego,CA,US,"['Tennis', 'Vacationer']"
+Tennis,2012-05-02T20:00:00-0700,Troubadour,West Hollywood,CA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-05-01T21:00:00-0700,Constellation Room,Santa Ana,CA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-30T20:00:00-0700,The Independent,San Francisco,CA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-28T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-27T20:00:00-0700,Biltmore Cabaret,Vancouver,BC,Canada,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-26T20:00:00-0700,The Crocodile - Old Location,Seattle,WA,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-24,Urban Lounge,Salt Lake City,UT,US,"['Tennis', 'Wild Belle']"
+Tennis,2012-04-10T21:00:00-0400,Brooklyn Bowl,Brooklyn,NY,US,"['Tennis', 'We Barbarians']"
+Tennis,2012-04-01,Club Soda,Montreal,QC,Canada,"['Arkona', 'Turisas', 'Ex Deo', 'Alestorm', 'Tennis']"
+Tennis,2012-03-23T12:00:00-0700,The Den,Las Vegas,NV,US,"['Classixx', 'The Whigs', 'Le Butcherettes', 'Tennis', 'The Album Leaf', 'Mini Mansions', 'Voxhaul Broadcast', 'Totescity', 'Living Things', 'White Arrows', 'American Royalty', 'Digital Daggers', 'Italian Japanese', 'HELL&LULA', 'Zach Ryan', 'Twin Brother']"
+Tennis,2012-03-23T17:00:00-0700,The Royal House Hotel,Las Vegas,NV,US,"['The Whigs', 'Classixx', 'Tennis', 'White Arrows']"
+Tennis,2012-03-22T12:00:00-0600,Treefort Music Fest 2012,Boise,ID,US,['Tennis']
+Tennis,2012-03-17,Hotel San Jose,Austin,TX,US,"['Howler', 'Built to Spill', 'Ben Kweller', 'Kool & Together', 'The Relatives', 'Jonathan Wilson', 'Amy Cook', 'Tennis', 'The Bluebonnets', 'Chelsea Crowell', 'Dan Dyer']"
+Tennis,2012-03-16T11:30:00-0500,Hotel Vegas,Austin,TX,US,"['Com Truise', 'Gigamesh', 'Au Palais', 'Exitmusic', 'Light Asylum', 'The Black Angels', 'Tennis', 'Doldrums', 'Big Sleep', 'Dive', 'The Evaporators', 'Trust', 'Widowspeak', 'Eleanor Friedberger', 'The Twilight Sad', 'Lucius']"
+Tennis,2012-03-14,Stage on Sixth,Austin,TX,US,"['Big Sleep', 'MyNameIsJohnMichael', 'Caveman', 'Tennis', 'Rich Aucoin', 'Typhoon', 'Apparat', 'River City Extension', 'Ben Kweller', 'Sugar & the Hi Lows']"
+Tennis,2012-03-14T20:00:00-0500,Fitzgerald's,Houston,TX,US,"['White Rabbits', 'The War on Drugs', 'Tennis']"
+Tennis,2012-03-11,Will's Pub,Orlando,FL,US,"['Tennis', 'Hospitality']"
+Tennis,2012-03-10,Will's Pub,Orlando,FL,US,['Tennis']
+Tennis,2012-03-10T21:30:00-0500,The Earl,East Atlanta,GA,US,['Tennis']
+Tennis,2012-03-09T21:30:00-0500,Local 506,Chapel Hill,NC,US,"['Tennis', 'Hospitality']"
+Tennis,2012-03-08T21:00:00-0500,Orange You Glad Music Festival 2012,Orlando,FL,US,['Tennis']
+Tennis,2012-03-07T20:00:00-0500,Black Cat,Washington,DC,US,"['White Rabbits', 'Tennis', 'Daughter']"
+Tennis,2012-03-06T20:30:00-0500,Union Transfer,Philadelphia,PA,US,"['Tennis', 'White Rabbits', 'Daughter']"
+Tennis,2012-03-05T20:00:00-0500,Music Hall of Williamsburg,Brooklyn,NY,US,"['Tennis', 'Hospitality']"
+Tennis,2012-03-03T20:00:00-0500,Bowery Ballroom,New York (NYC),NY,US,"['Tennis', 'Hospitality']"
+Tennis,2012-03-02,Brighton Music Hall,Boston,MA,US,"['Tennis', 'Hospitality']"
+Tennis,2012-02-29T21:30:00-0500,Horseshoe Tavern,Toronto,ON,Canada,"['Tennis', 'Hospitality']"
+Tennis,2012-02-28T22:00:00-0500,Grog Shop,Cleveland,OH,US,"['Tennis', 'The Big Chucklefck', 'Mike Lebovitz', 'Junior Stopka', 'Marty Derosa', 'Lowly the Tree Ghost', 'The Rails']"
+Tennis,2012-02-27T21:00:00-0500,Radio Radio,Indianapolis,IN,US,"['Tennis', 'Nerves Jr.']"
+Tennis,2012-02-26,Lincoln Hall,Chicago,IL,US,['Tennis']
+Tennis,2012-02-24T21:30:00-0600,High Noon Saloon,Madison,WI,US,"['Tennis', 'Surgeons in Heat']"
+Tennis,2012-02-23T20:00:00-0600,Triple Rock Social Club,Minneapolis,MN,US,['Tennis']
+Tennis,2012-02-22,Slowdown,Omaha,NE,US,"['Tennis', 'Betsy Wells']"
+Tennis,2012-02-16T20:00:00-0700,Bluebird Theater,Denver,CO,US,"['Tennis', 'Mike Marchant', 'Samurai Buck', 'Moon Tides']"
+Tennis,2012-02-14,Rough Trade East,London,,UK,['Tennis']
+Tennis,2012-02-13,Hoxton Square Bar & Kitchen,London,,UK,"['Tennis', 'Filthy Boy']"
+Tennis,2012-02-10T21:30:00+0100,Paradiso Kleine Zaal,Amsterdam,,Netherlands,['Tennis']
+Tennis,2012-02-09T20:00:00+0100,Point Éphémère,Paris,,France,['Tennis']
+Tennis,2011-12-17,Hi-Dive,Denver,CO,US,"['Tennis', 'Miniature Tigers', 'Sauna']"
+Tennis,2011-12-14T20:00:00-0800,The Crocodile - Old Location,Seattle,WA,US,"['Tennis', 'Miniature Tigers']"
+Tennis,2011-12-13T20:00:00-0800,Biltmore Cabaret,Vancouver,BC,Canada,['Tennis']
+Tennis,2011-12-12T21:00:00-0800,Doug Fir Lounge,Portland,OR,US,"['Tennis', 'Miniature Tigers']"
+Tennis,2011-12-10T22:00:00-0800,Bottom of the Hill,San Francisco,CA,US,"['Tennis', 'Miniature Tigers']"
+Tennis,2011-12-08T20:30:00-0800,Casbah,San Diego,CA,US,"['Tennis', 'Miniature Tigers']"
+Tennis,2011-12-07T21:00:00-0800,The Satellite,Los Angeles (LA),CA,US,"['Tennis', 'Miniature Tigers']"
+Tennis,2011-12-06T20:00:00-0700,Crescent Ballroom,Phoenix,AZ,US,"['Tennis', 'Miniature Tigers', 'Gospel Claws']"
+Tennis,2011-10-01T20:00:00-0400,Music Hall of Williamsburg,Brooklyn,NY,US,"['The Vaccines', 'Tennis', 'Young Buffalo']"
+Tennis,2011-09-28,Théâtre Corona,Montreal,QC,Canada,"['Tennis', 'Ladies of the Canyon', 'The Vaccines']"
+Tennis,2011-09-27T20:00:00-0400,Phoenix Concert Theatre,Toronto,ON,Canada,"['The Vaccines', 'Tennis', 'Young Buffalo']"
+Tennis,2011-09-21T21:00:00-0500,Lincoln Hall,Chicago,IL,US,"['The Vaccines', 'Tennis', 'Young Buffalo']"
+Tennis,2011-09-20T21:00:00-0500,Off Broadway,St Louis,MO,US,"['Jill Andrews', 'The Vaccines', 'Tennis']"
+Tennis,2011-09-16,Goldrush Music Festival 2011,Denver,CO,US,['Tennis']
+Tennis,2011-09-16,Gold Rush Music Festival 2011,Denver,CO,US,['Tennis']
+Tennis,2011-09-14T20:30:00-0700,Casbah,San Diego,CA,US,"['The Vaccines', 'Tennis']"
+Tennis,2011-09-13T20:00:00-0700,Fonda Theatre,Los Angeles (LA),CA,US,"['The Vaccines', 'Tennis']"
+Tennis,2011-09-12T20:00:00-0700,The Independent,San Francisco,CA,US,"['The Vaccines', 'Tennis', 'Young Buffalo']"
+Tennis,2011-09-10T21:00:00-0700,Doug Fir Lounge,Portland,OR,US,"['The Vaccines', 'Helio Sequence', 'Tennis', 'Young Buffalo', 'The Youth', 'The We Shared Milk']"
+Tennis,2011-09-09T19:00:00-0700,Venue,Vancouver,BC,Canada,"['The Vaccines', 'Tennis', 'Young Buffalo']"
+Tennis,2011-09-07T10:00:00-0700,MusicFest NW 2011,Portland,OR,US,['Tennis']
+Tennis,2011-09-04,Seattle Center Exhibition Hall,Seattle,WA,US,"['Warpaint', 'Toro y Moi', 'Tennis', 'Ages and Ages', 'Four Tet', 'DJ Z-Trip', 'DāM-FunK']"
+Tennis,2011-09-03T03:30:00-0700,Bumbershoot 2011,Seattle,WA,US,['Tennis']
+Tennis,2011-08-19T18:00:00-0600,Boulder Theater,Boulder,CO,US,"['Common Pitch', 'Common', 'Tennis']"
+Tennis,2011-08-05T23:59:20-0500,Lollapalooza 2011,Chicago,IL,US,['Tennis']
+Tennis,2011-08-05,Schubas Tavern,Chicago,IL,US,"['The Vaccines', 'Tennis']"
+Tennis,2011-07-19,La Maroquinerie,Paris,,France,['Tennis']
+Tennis,2011-07-15T22:00:00+0200,VEGA,Copenhagen,,Denmark,"['Russian Circles', 'Boris', 'Saade', 'Tennis']"
+Tennis,2011-07-12T21:00:00+0200,Musik & Frieden,Berlin,,Germany,"['Tennis', 'Zulu Pearls']"
+Tennis,2011-07-11T21:30:00+0200,59:1,Munich,,Germany,['Tennis']
+Tennis,2011-07-09T20:30:00+0200,Bitterzoet,Amsterdam,,Netherlands,"['Tennis', 'Bird on the Wire']"
+Tennis,2011-07-06,Cargo,London,,UK,"['Tennis', 'Race Horses']"
+Tennis,2011-05-25T20:00:00+0200,Primavera Sound Festival 2011,Barcelona,,Spain,['Tennis']
+Tennis,2011-04-01,The Cosmopolitan of Las Vegas,Las Vegas,NV,US,['Tennis']
+Tennis,2011-04-01,"Book and Stage, The Cosmopolitan of Las Vegas",Las Vegas,NV,US,['Tennis']
+Tennis,2011-03-18,Lipstick 24,Austin,TX,US,"['Tennis', 'Kisses', 'Gobble Gobble', 'Guards', 'Delicate Steve', 'Secret Mountains']"
+Tennis,2011-03-16T20:00:00-0500,Club de Ville,Austin,TX,US,"['Paradigm', 'Yuck', 'Tennis', 'White Denim', 'The Vaccines', 'Porcelain Raft', 'Devin Therriault', 'Dirty Beaches', 'Smith Westerns', 'Therapies Son', 'Unknown Mortal Orchestra']"
+Tennis,2011-03-15,"Parish Room, House of Blues",New Orleans,LA,US,"['Callers', 'Tennis', 'La Sera']"
+Tennis,2011-03-13T23:59:20-0400,Orpheum Theatre,Tampa,FL,US,"['Dum Dum Girls', 'Tennis', 'La Sera']"
+Tennis,2011-03-12,The Social,Orlando,FL,US,"['Tennis', 'Dum Dum Girls']"
+Tennis,2011-03-11T21:30:00-0500,The Earl,East Atlanta,GA,US,"['Tennis', 'Say Hi', 'La Sera']"
+Tennis,2011-03-08,Grey Eagle,Asheville,NC,US,"['Tennis', 'Holiday Shores', 'La Sera']"
+Tennis,2011-03-07,Local 506,Chapel Hill,NC,US,"['Tennis', 'La Sera', 'Holiday Shores']"
+Tennis,2011-03-05T21:00:00-0500,Rock & Roll Hotel,Washington,DC,US,"['Tennis', 'La Sera']"
+Tennis,2011-03-04,Johnny Brenda's,Philadelphia,PA,US,"['Tennis', 'Friday Happy Hour', 'La Sera', 'Holiday Shores']"
+Tennis,2011-03-03T20:00:00-0500,The Bell House,Brooklyn,NY,US,"['Tennis', 'La Sera', 'Holiday Shores']"
+Tennis,2011-03-02T20:00:00-0500,Bowery Ballroom,New York (NYC),NY,US,"['Tennis', 'Holiday Shores', 'La Sera']"
+Tennis,2011-02-28T21:00:00-0500,Great Scott,Allston,MA,US,"['Tennis', 'Holiday Shores', 'Porcelain Raft']"
+Tennis,2011-02-27,Iron Horse Music Hall,Northampton,MA,US,"['Tennis', 'Holiday Shores']"
+Tennis,2011-02-26,Bar le Ritz PDB,Montreal,QC,Canada,['Tennis']
+Tennis,2011-02-25,Horseshoe Tavern,Toronto,ON,Canada,"['Tennis', 'Holiday Shores', 'The Darcys']"
+Tennis,2011-02-22T21:00:00-0600,Lincoln Hall,Chicago,IL,US,"['Tennis', 'Holiday Shores', 'Porcelain Raft']"
+Tennis,2011-02-21T20:00:00-0600,High Noon Saloon,Madison,WI,US,"['Tennis', 'Holiday Shores']"
+Tennis,2011-02-19T20:00:00-0600,7th St Entry,Minneapolis,MN,US,"['Tennis', 'Holiday Shores', 'Secret Cities']"
+Tennis,2011-02-18,Slowdown,Omaha,NE,US,"['Tennis', 'Holiday Shores', 'Kosha Dillz']"
+Tennis,2011-02-10T21:00:00-0700,Hi-Dive,Denver,CO,US,"['Tennis', 'Woodsman']"
+Tennis,2011-02-08T20:00:00-0700,The Rhythm Room,Phoenix,AZ,US,"['Tennis', 'Air Waves']"
+Tennis,2011-02-07,Club Congress,Tucson,AZ,US,"['Tennis', 'Air Waves', 'Airwaves']"
+Tennis,2011-02-05,Tin Can Alehouse,San Diego,CA,US,"['Tennis', 'Lord Huron', 'Air Waves']"
+Tennis,2011-02-04T20:30:00-0800,The Echo,Los Angeles (LA),CA,US,"['Tennis', 'Air Waves', 'Lord Huron', 'Airwaves']"
+Tennis,2011-02-03T21:00:00-0800,Bottom of the Hill,San Francisco,CA,US,"['Tennis', 'Air Waves', 'Lord Huron']"
+Tennis,2011-02-01T20:00:00-0800,The Crocodile - Old Location,Seattle,WA,US,"['Air Waves', 'Lord Huron', 'Tennis']"
+Tennis,2011-01-31T21:30:00-0800,The Media Club,Vancouver,BC,Canada,"['Tennis', 'Air Waves']"
+Tennis,2011-01-28T19:00:00-0700,Neurolux Lounge,Boise,ID,US,"['Tennis', 'Air Waves', 'Finn Riggins']"
+Tennis,2011-01-27,Urban Lounge,Salt Lake City,UT,US,"['Tennis', 'Air Waves']"
+Tennis,2011-01-21,Deaf Institute,Manchester,,UK,"['Sleigh Bells', 'Tennis']"
+Tennis,2011-01-21,The Cockpit 3,Leeds,,UK,['Tennis']
+Tennis,2011-01-20T20:00:00+0000,The Captain's Rest,Glasgow,,UK,"['Tennis', 'Male Pattern Band']"
+Tennis,2011-01-19,The Cockpit 3,Leeds,,UK,['Tennis']
+Tennis,2011-01-18T20:00:00+0000,Madame JoJo's,London,,UK,"['Tennis', 'Planet Earth', 'Swanton Bombs']"
+Tennis,2011-01-16T21:00:00+0100,Beatlemania Hamburg,Hamburg,,Germany,['Tennis']
+Tennis,2011-01-15T21:00:00+0100,Musik & Frieden,Berlin,,Germany,['Tennis']
+Tennis,2011-01-14T20:30:00+0100,59:1,Munich,,Germany,['Tennis']
+Tennis,2011-01-13,ISC Club,Bern,,Switzerland,['Tennis']
+Tennis,2011-01-11,La Maroquinerie,Paris,,France,['Tennis']
+Tennis,2011-01-10,Emporium Galorium,Rouen,,France,['Tennis']
+Tennis,2011-01-08T19:30:00+0100,Paradiso,Amsterdam,,Netherlands,"['Tennis', 'Narcotango', 'Bird on the Wire']"
+Tennis,2011-01-07T19:30:00+0000,The Lexington,London,,UK,"['Tennis', 'Lonely Galaxy', 'Elephant']"
+Tennis,2010-12-11,Mojo's,Columbia,MO,US,['Tennis']
+Tennis,2010-12-10,Schubas Tavern,Chicago,IL,US,['Tennis']
+Tennis,2010-12-08,Drake Hotel,Toronto,ON,Canada,['Tennis']
+Tennis,2010-12-07,Casa Del Popolo,Montreal,QC,Canada,['Tennis']
+Tennis,2010-12-06,The Middle East - Downstairs,Cambridge,MA,US,['Tennis']
+Tennis,2010-12-05,Kung Fu Necktie,Philadelphia,PA,US,['Tennis']
+Tennis,2010-12-03,9:30 CLUB,Washington,DC,US,"['The Walkmen', 'Tennis']"
+Tennis,2010-12-02T19:00:00-0500,Terminal 5,New York (NYC),NY,US,"['The Walkmen', 'School of Seven Bells', 'Tennis']"
+Tennis,2010-12-01,Mercury Lounge,New York (NYC),NY,US,"['Tennis', 'Family Portrait']"
+Tennis,2010-11-24T20:30:00-0700,Bluebird Theater,Denver,CO,US,"['Tennis', 'Gauntlet Hair', 'Gangcharger']"
+Tennis,2010-11-17,The Crocodile - Old Location,Seattle,WA,US,['Tennis']
+Tennis,2010-11-16,Holocene,Portland,OR,US,['Tennis']
+Tennis,2010-11-14T21:00:00-0800,Hotel Utah Saloon,San Francisco,CA,US,"['Tennis', 'Eulogies']"
+Tennis,2010-11-13,The Cellar Door,Visalia,CA,US,['Tennis']
+Tennis,2010-11-12,Pomona College,Claremont,CA,US,['Tennis']
+Tennis,2010-11-11T20:30:00-0800,The Echo,Los Angeles (LA),CA,US,"['Sonny & The Sunsets', 'Tennis', 'The Belle Brigade']"
+Tennis,2010-10-17T21:00:00-0600,Fox Theatre,Boulder,CO,US,"['The Walkmen', 'Japandroids', 'Tennis']"
+Tennis,2010-10-16T21:00:00-0500,The Waiting Room,Omaha,NE,US,"['The Walkmen', 'Japandroids', 'Tennis']"
+Tennis,2010-09-25T22:00:00-0600,Hi-Dive,Denver,CO,US,"['STRFKR', 'Tennis', 'Tommy Metz']"
+Tennis,2010-09-10T22:00:00-0600,Larimer Lounge,Denver,CO,US,"['Tennis', 'Gauntlet Hair', 'Flashlights']"
+Tennis,2010-08-28,The Hexagon,Baltimore,MD,US,"['Tennis', 'Andrew Cedermark', 'Airwaves']"
+Tennis,2010-08-26T21:00:00-0400,Glasslands Gallery,Brooklyn,NY,US,"['Tennis', 'Magic Bullets', 'Cool Runnings', 'Long Windows', 'Night Manager', 'CoolRunnings']"
+Tennis,2010-08-22T21:00:00-0400,Great Scott,Allston,MA,US,['Tennis']
+Tennis,2010-08-16,Slowdown,Omaha,NE,US,"['honey & darling', 'Tennis', 'Well Aimed Arrows']"
+Tennis,2010-08-10T21:00:00-0600,Hi-Dive,Denver,CO,US,"['Woven Bones', 'Woodsman', 'Tennis']"
+Tennis,2010-01-07,The Lexington,London,,UK,['Tennis']
+Tennis,2010-01-02T20:00:00+1100,Civic Hotel,Sydney,NSW,Australia,"['Via Tania', 'Micachu', 'Telepathe', 'Ponytail', 'Tennis', 'Seekae', 'Canvas Kites', 'Shady Lane', 'Otouto', 'Cabaret Callado']"
+Tennis,2008-12-20,Brancaleone,Rome,,Italy,"['Brodinski', 'Tennis', 'Matt Walsh']"
+Tennis,2008-11-22,Brancaleone,Rome,,Italy,"['Erol Alkan', 'Tennis', 'C.y.b.e.r.f.u.n.k']"
+Tennis,2002-06-13,Norwegian Wood 2002,Oslo,,Norway,['Tennis']
